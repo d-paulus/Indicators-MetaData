@@ -1,7 +1,5 @@
 # Indicators-MetaData
 
-# Country-Taxonomy
-
 This repo has the Indicator Meta Data which is used in Access All Data in the Data Futures Platform (https://data.undp.org/explore-all-data/). Each indicator is defined as a single object in the array. The data structure is:
 
 ## Data Structure of an object
