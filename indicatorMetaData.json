@@ -4934,7 +4934,7 @@
       "Categories": [],
       "CategorizeByRanking": false,
       "IsCategorical": false,
-      "IsDivergent": false,
+      "IsDivergent": true,
       "ScatterPlot": true,
       "Map": true,
       "BarGraph": true,
