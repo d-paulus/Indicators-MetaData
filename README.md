@@ -28,6 +28,8 @@ Map | `boolean` | Define if the indicator can be visualized as color in chorople
 BarGraph | `boolean` | Define if the indicator can be visualized as bars in bar graph (generally categorical data are not visualized as scatter plot)
 Sizing | `boolean` | Define if the indicator can be visualized as the size or bubble in scatterplot or as an overlay on the map (generally categorical data and data which can have negative values are not visualized as area)
 Color | `boolean` | Define if the indicator can be visualized as color of bubbles in scatterplot and bar chart (only categorical data are visualized as colors in scatter plot and bar chart)
+SignatureSolution | `string[]` | Define the signature solution this indicator is part of
+SSTopics | `string[]` | Define the topics this indicator is a part of
 
 __Example__
 
@@ -69,6 +71,8 @@ __Example__
   "Map": true,
   "BarGraph": true,
   "Sizing": true,
-  "Color": true
+  "Color": true,
+  "SignatureSolution": [],
+  "SSTopics": []
 }
 ```
