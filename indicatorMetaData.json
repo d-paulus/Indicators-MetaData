@@ -4704,7 +4704,11 @@
       "Sizing": true,
       "Color": false,
       "SignatureSolution": ["Poverty and Inequality"],
-      "SSTopics": ["Promoting Effective and Inclusive Governance for HIV"]
+      "SSTopics": [
+        "Promoting Effective and Inclusive Governance for HIV",
+        "Support to the Global Fund and other Health Programmes",
+        "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics"
+      ]
     },
     {
       "Pillar": ["Protect People"],
