@@ -27,6 +27,7 @@
         "Poverty and Inequality Metrics",
         "Building Resilient and Sustainable Systems for Health",
         "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
+        "Promoting Effective and Inclusive Governance for HIV",
         "Data for Social Norms change and Innovative Policies",
         "Recognize, reduce and redistribute care"
       ]
@@ -172,6 +173,7 @@
       "SSTopics": [
         "Building Resilient and Sustainable Systems for Health",
         "Data for Social Norms change and Innovative Policies",
+        "Promoting Effective and Inclusive Governance for HIV",
         "SIDS"
       ]
     },
@@ -3912,6 +3914,7 @@
       "Color": true,
       "SignatureSolution": ["Poverty and Inequality"],
       "SSTopics": [
+        "Building Resilient and Sustainable Systems for Health",
         "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics"
       ]
     },
@@ -4018,6 +4021,7 @@
       "Color": false,
       "SignatureSolution": ["Poverty and Inequality"],
       "SSTopics": [
+        "Building Resilient and Sustainable Systems for Health",
         "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics"
       ]
     },
@@ -4046,6 +4050,7 @@
       "Color": false,
       "SignatureSolution": ["Poverty and Inequality"],
       "SSTopics": [
+        "Building Resilient and Sustainable Systems for Health",
         "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics"
       ]
     },
@@ -4288,7 +4293,7 @@
       "Color": false,
       "SignatureSolution": ["Poverty and Inequality"],
       "SSTopics": [
-        "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics"
+        "Promoting Effective and Inclusive Governance for HIV"
       ]
     },
     {
@@ -4316,7 +4321,7 @@
       "Color": false,
       "SignatureSolution": ["Poverty and Inequality"],
       "SSTopics": [
-        "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics"
+        "Promoting Effective and Inclusive Governance for HIV"
       ]
     },
     {
@@ -4344,7 +4349,7 @@
       "Color": false,
       "SignatureSolution": ["Poverty and Inequality"],
       "SSTopics": [
-        "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics"
+        "Promoting Effective and Inclusive Governance for HIV"
       ]
     },
     {
