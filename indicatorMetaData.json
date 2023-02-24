@@ -5947,7 +5947,9 @@
     "Sizing": true,
     "Color": false,
     "SignatureSolution": [
-      "poverty and Inequality"
+      "poverty and Inequality",
+      "Environment",
+      "Resilience"
     ],
     "SSTopics": [
       "Social Protection"
@@ -5987,7 +5989,9 @@
     "Sizing": true,
     "Color": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Environment",
+      "Resilience"
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
@@ -6028,7 +6032,9 @@
     "Sizing": true,
     "Color": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Environment",
+      "Resilience"
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
@@ -6070,7 +6076,8 @@
     "Color": false,
     "SignatureSolution": [
       "Poverty and Inequality",
-      "Resilience"
+      "Resilience",
+      "Environment"
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
