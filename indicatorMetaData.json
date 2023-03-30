@@ -281,7 +281,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Gender inequality index",
+    "IndicatorLabelTable": "Gender Inequality Index",
     "IndicatorDescription": "Index to measure gender inequalities in three important aspects of human development—reproductive health, empowerment, and economic status",
     "DataKey": "Gender Inequality Index-Gender Inequality Index",
     "DataSourceName": "UNDP",
@@ -322,11 +322,11 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
-      "Future of Work through a systems lens",
+      "Futures of Work through a systems lens",
       "States capabilities to deliver Gender Equality",
       "Data for Social Norms change and Innovative Policies",
-      "Informal Economy Facility",
-      "UNDP Gender Seal"
+      "Future-proof and resilient jobs for women",
+      "Informal Economy Facility"
     ]
   },
   {
@@ -5470,55 +5470,6 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics"
-    ]
-  },
-  {
-    "IndicatorLabelTable": "Gender Inequality Index (GII)",
-    "IndicatorDescription": "Index to measure gender inequalities in three important aspects of human development\u2014reproductive health, empowerment, and economic status",
-    "DataKey": "Gender Inequality Index",
-    "DataSourceName": "UNDP",
-    "DataSourceLink": "http://hdr.undp.org/en/content/gender-inequality-index-gii",
-    "LabelSuffix": "",
-    "LabelPrefix": "",
-    "LabelFormat": "",
-    "BinningRange5": [
-      0.2,
-      0.4,
-      0.6,
-      0.8
-    ],
-    "BinningRangeLarge": [
-      0.1,
-      0.2,
-      0.3,
-      0.4,
-      0.5,
-      0.6,
-      0.7,
-      0.8,
-      0.9
-    ],
-    "Categories": [],
-    "CategorizeByRanking": false,
-    "IsCategorical": false,
-    "IsDivergent": false,
-    "ScatterPlot": true,
-    "Map": true,
-    "BarGraph": true,
-    "Sizing": true,
-    "Color": true,
-    "RegionalAggregation": false,
-    "SignatureSolution": [
-      "Poverty and Inequality",
-      "Gender"
-    ],
-    "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Futures of Work through a systems lens",
-      "States capabilities to deliver Gender Equality",
-      "Data for Social Norms change and Innovative Policies",
-      "Future-proof and resilient jobs for women",
-      "Informal Economy Facility"
     ]
   },
   {
