@@ -5037,6 +5037,50 @@
     ]
   },
   {
+    "IndicatorLabelTable": "Net debt as percent of GDP (baseline)",
+    "IndicatorDescription": "Calculated as gross debt minus financial assets corresponding to debt instruments, measured as percent of GDP (baseline)",
+    "DataKey": "Government Debt, baseline",
+    "DataSourceName": "IMF",
+    "DataSourceLink": "https://www.imf.org/en/Publications/SPROLLs/world-economic-outlook-databases#sort=%40imfdate%20descending",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      -15,
+      -5,
+      5,
+      15
+    ],
+    "BinningRangeLarge": [
+      -20,
+      -15,
+      -10,
+      -5,
+      0,
+      5,
+      10,
+      15,
+      20
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": true,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": false,
+    "Color": false,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Poverty and Inequality Metrics",
+      "Informal Economy Facility"
+    ]
+  },
+  {
     "IndicatorLabelTable": "Government net lending/borrowing as percent of GDP",
     "IndicatorDescription": "Government revenue minus total expenditure as a percent of GDP",
     "DataKey": "General government net lending/borrowing; percent of GDP",
@@ -13556,9 +13600,9 @@
     "SSTopics": []
   },
   {
-    "IndicatorLabelTable": "Inequality in life expectancy",
-    "IndicatorDescription": "Inequality in life expectancy",
-    "DataKey": "Inequality in life expectancy",
+    "IndicatorLabelTable": "Inequality in education",
+    "IndicatorDescription": "Inequality in education",
+    "DataKey": "Inequality in eduation",
     "DataSourceName": "UNDP",
     "DataSourceLink": "http://hdr.undp.org/en/data",
     "LabelSuffix": "",
