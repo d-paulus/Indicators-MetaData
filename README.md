@@ -6,8 +6,6 @@ This repo has the Indicator Meta Data which is used in Access All Data in the Da
 
 Key | DataType | Description
 --- | --- | --- 
-Pillar | `string[]` | Array of string with all the pillar this indicator need to shown or belong to
-Goal | `string[]` | Array of string with all the goals this indicator need to shown or belong to
 Indicator | `string` | Short description of the indicator
 IndicatorLabelTable | `string` | Describtion of the indicator which is shown in the dropdown and as headings in the graphs
 IndicatorDescription | `string` | Long description of the indicator
@@ -35,8 +33,6 @@ __Example__
 
 ```
 {
-  "Pillar": ["Cohesion"],
-  "Goal": ["Community dialogue fosters local solutions and resilience"],
   "Indicator": "Gender Inequality Index-Population with at least some secondary education, female (% ages 25 and older)",
   "IndicatorLabelTable": "Gender inequality index, female population with secondary education",
   "IndicatorDescription": "Percent of females ages 25 and older with some secondary education",
