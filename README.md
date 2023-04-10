@@ -32,7 +32,6 @@ __Example__
 
 ```
 {
-  "Indicator": "Gender Inequality Index-Population with at least some secondary education, female (% ages 25 and older)",
   "IndicatorLabelTable": "Gender inequality index, female population with secondary education",
   "IndicatorDescription": "Percent of females ages 25 and older with some secondary education",
   "DataKey": "Gender Inequality Index-Population with at least some secondary education, female (% ages 25 and older)",
