@@ -6,7 +6,6 @@ This repo has the Indicator Meta Data which is used in Access All Data in the Da
 
 Key | DataType | Description
 --- | --- | --- 
-Indicator | `string` | Short description of the indicator
 IndicatorLabelTable | `string` | Describtion of the indicator which is shown in the dropdown and as headings in the graphs
 IndicatorDescription | `string` | Long description of the indicator
 DataKey | `string` | Name or Key by which the indicator data is stored in the data sheet json
