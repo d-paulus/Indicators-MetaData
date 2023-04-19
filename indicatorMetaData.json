@@ -13757,5 +13757,473 @@
       "Resilience"
     ],
     "SSTopics": []
+  },
+  {
+    "IndicatorLabelTable": "Chemicals (% of value added in manufacturing)",
+    "DataKey": "Chemicals (% of value added in manufacturing)",
+    "IndicatorDescription": "This variable describes Chemicals as a percentage of value added in manufacturing",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://data.worldbank.org/indicator/NV.MNF.CHEM.ZS.UN",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      20,
+      30,
+      40
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "Chemicals and Waste: Heavy metals", 
+      "Chemicals and Waste: Waste Management"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Forest area (% of land area)",
+    "DataKey": "Forest area (% of land area)",
+    "IndicatorDescription": "Forest area as % of land area.",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://data.worldbank.org/indicator/AG.LND.FRST.ZS",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      20,
+      30,
+      40
+    ],
+    "BinningRangeLarge": [
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40,
+      45
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Ecosystem-based adaptation and management"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Percent of population affected by droughts, floods, extreme temperatures (average 1990-2009)",
+    "IndicatorDescription": "Droughts, floods and extreme temperatures is the annual average percentage of the population that is affected by natural disasters classified as either droughts, floods, or extreme temperature events.",
+    "DataKey": "Droughts, floods, extreme temperatures (% of population, average 1990-2009)",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://data.worldbank.org/indicator/AG.LND.FRST.ZS",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      5,
+      10,
+      20,
+      30
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      15,
+      20,
+      30,
+      40,
+      50,
+      60
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Coastal Adaptation", 
+      "Climate Change Adaptation: Fostering Food Security and resilient Agricultural systems", 
+      "Climate Change Adaptation: Cross-sectoral climate resilient livelihoods", 
+      "Climate Change Adaptation: Ecosystem-based adaptation and management"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Ores and metals exports (% of merchandise exports)",
+    "IndicatorDescription": "This indicator measures the ores and metals exports as % of merchandise exports",
+    "DataKey": "Ores and metals exports (% of merchandise exports)",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://data.worldbank.org/indicator/TX.VAL.MMTL.ZS.UN",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      2.5,
+      5,
+      10,
+      15
+    ],
+    "BinningRangeLarge": [
+      2.5,
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "Chemicals and Waste: Heavy metals"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Renewable internal freshwater resources per capita (cubic meters)",
+    "IndicatorDescription": "This indicator measures renewable internal freshwater resources per capita",
+    "DataKey": "Renewable internal freshwater resources per capita (cubic meters)",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://data.worldbank.org/indicator/ER.H2O.INTR.PC",
+    "LabelSuffix": "m3",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      500,
+      1000,
+      10000,
+      50000
+    ],
+    "BinningRangeLarge": [
+      100,
+      500,
+      1000,
+      5000,
+      10000,
+      50000,
+      100000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "Water and Ocean: Sustainable Management of Oceans in a Changing Climate", 
+      "Water and Ocean: Climate Resilient Integrated Water Resource & Coastal Area Management", 
+      "Water and Ocean: Protection of Transboundary Surface & Groundwater Resources in a Changing Climate",
+      "Water and Ocean: Climate Resilient Access to Water Supply & Sanitation", 
+      "Climate Change Adaptation: Water Resource Management and Access to Water"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Climate vulnerability ranking",
+    "IndicatorDescription": "Climate vulnerability ranking",
+    "DataKey": "Climate vulnerability ranking",
+    "DataSourceName": "Climate Watch",
+    "DataSourceLink": "https://www.climatewatchdata.org/data-explorer",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      25,
+      50,
+      100
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      50,
+      75,
+      100,
+      125
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Coastal Adaptation", 
+      "Climate Change Adaptation: Climate Information and Early Warning Systems (CI & EWS)"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Climate Risks Index Ranking",
+    "IndicatorDescription": "Climate Risks Index Ranking",
+    "DataKey": "Climate Risks Index Ranking",
+    "DataSourceName": "Climate Watch",
+    "DataSourceLink": "https://www.climatewatchdata.org/data-explorer",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      25,
+      50,
+      100
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      50,
+      75,
+      100,
+      125
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Climate change & Health",
+      "Climate Change Adaptation: Urban Resilience",
+      "Climate Change Adaptation: Climate Information and Early Warning Systems (CI & EWS)",
+      "Climate Change Adaptation: Coastal Adaptation"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Climate Change Readiness Ranking",
+    "IndicatorDescription": "Climate Change Readiness Ranking",
+    "DataKey": "Climate Change Readiness Ranking",
+    "DataSourceName": "Climate Watch",
+    "DataSourceLink": "https://www.climatewatchdata.org/data-explorer",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      25,
+      50,
+      100
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      50,
+      75,
+      100,
+      125
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Cross-sectoral climate resilient livelihoods"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Climate Risks Index Score",
+    "IndicatorDescription": "Climate Risks Index Score",
+    "DataKey": "Climate Risks Index Score",
+    "DataSourceName": "Climate Watch",
+    "DataSourceLink": "https://www.climatewatchdata.org/data-explorer",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      20,
+      50,
+      100
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      50,
+      75,
+      100,
+      125
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Climate change & Health",
+      "Climate Change Adaptation: Urban Resilience",
+      "Climate Change Adaptation: Climate Information and Early Warning Systems (CI & EWS)",
+      "Climate Change Adaptation: Coastal Adaptation"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Climate Change Readiness Score",
+    "IndicatorDescription": "Climate Change Readiness Score",
+    "DataKey": "Climate Change Readiness Score",
+    "DataSourceName": "Climate Watch",
+    "DataSourceLink": "https://www.climatewatchdata.org/data-explorer",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0.2,
+      0.4,
+      0.6,
+      0.8
+    ],
+    "BinningRangeLarge": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.6,
+      0.7,
+      0.8,
+      0.9
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Cross-sectoral climate resilient livelihoods"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Air pollution deaths from fossil fuels",
+    "IndicatorDescription": "Air pollution deaths from fossil fuels",
+    "DataKey": "Air pollution deaths from fossil fuels, 2015",
+    "DataSourceName": "Our World in Data",
+    "DataSourceLink": "https://ourworldindata.org/grapher/pollution-deaths-from-fossil-fuels",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      5000,
+      25000,
+      50000,
+      100000
+    ],
+    "BinningRangeLarge": [
+      2000,
+      5000,
+      10000,
+      20000,
+      50000,
+      100000,
+      200000,
+      500000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Climate change & Health"
+    ]
   }
 ]
