@@ -14828,5 +14828,136 @@
     "SSTopics": [
       "Climate Change Adaptation: Climate change & Health"
     ]
+  },
+  {
+    "IndicatorLabelTable": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
+    "IndicatorDescription": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
+    "DataKey": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://data.worldbank.org/indicator/ER.H2O.FWST.ZS",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      50,
+      250,
+      500,
+      1000
+    ],
+    "BinningRangeLarge": [
+      50,
+      100,
+      250,
+      500,
+      750,
+      1000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "Water and Ocean: Climate Resilient Access to Water Supply & Sanitation", 
+      "Water and Ocean: Climate Resilient Integrated Water Resource & Coastal Area Management", 
+      "Water and Ocean: Protection of Transboundary Surface & Groundwater Resources in a Changing Climate", 
+      "Water and Ocean: Sustainable Management of Oceans in a Changing Climate"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Consumption of controlled substance (zero-filled) - Chemical: Hydrochlorofluorocarbons (HCFCs)",
+    "IndicatorDescription": "The indicator describes the annual consumption of controlled substance (zero-filled) - Chemical: Hydrochlorofluorocarbons (HCFCs) given in ODP tonnes. Note: In some years, there can be negative consumption values. This occurs when countries destroy or export gases that were produced in previous years (i.e. stockpiles).",
+    "DataKey": "Consumption of controlled substance (zero-filled) - Chemical: Hydrochlorofluorocarbons (HCFCs)",
+    "DataSourceName": "UN Environment Programme",
+    "DataSourceLink": "https://ozone.unep.org/countries/data-table",
+    "LabelSuffix": "ODP tonnes",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      50,
+      250,
+      500,
+      1000
+    ],
+    "BinningRangeLarge": [
+      10,
+      50,
+      100,
+      250,
+      500,
+      750,
+      1000,
+      2500
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "Chemicals and Waste: HFCs", 
+      "Chemicals and Waste: Ozone Depleting Substances", 
+      "Chemicals and Waste: Heavy metals", 
+      "Chemicals and Waste: Waste Management"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Consumption of controlled substance (zero-filled) - Chemical: Total",
+    "IndicatorDescription": "This indicator measures the total annual consumption of ozone-depleting substances (Methyl Chloroform, Methyl Bromide, Hydrochlorofluorocarbons(HCFCs), Carbon Tetrachloride, Chlorofluorocarbons(CFCs) and Halons) in ODP tonnes.",
+    "DataKey": "Consumption of controlled substance (zero-filled) - Chemical: Total",
+    "DataSourceName": "UN Environment Programme",
+    "DataSourceLink": "https://ozone.unep.org/countries/data-table",
+    "LabelSuffix": "ODP tonnes",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      50,
+      250,
+      500,
+      1000
+    ],
+    "BinningRangeLarge": [
+      10,
+      50,
+      100,
+      250,
+      500,
+      750,
+      1000,
+      2500
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "Chemicals and Waste: Ozone Depleting Substances", 
+      "Chemicals and Waste: Waste Management"
+    ]
   }
 ]
