@@ -40,8 +40,8 @@
       "Poverty and Inequality Metrics",
       "Building Resilient and Sustainable Systems for Health",
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
-      "Promoting Effective and Inclusive Governance for HIV",
-      "Data for Social Norms change and Innovative Policies"
+      "Data for Social Norms change and Innovative Policies",
+      "Promoting Effective and Inclusive Governance for HIV"
     ]
   },
   {
@@ -85,11 +85,11 @@
       "Gender"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "States capabilities to deliver Gender Equality",
-      "Data for Social Norms change and Innovative Policies",
       "Gender Digital Divide",
-      "Socio-Economic Mobility"
+      "Poverty and Inequality Metrics",
+      "Data for Social Norms change and Innovative Policies",
+      "Socio-Economic Mobility",
+      "States capabilities to deliver Gender Equality"
     ]
   },
   {
@@ -134,11 +134,11 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
-      "States capabilities to deliver Gender Equality",
       "Future-proof and resilient jobs for women",
-      "Future of Work through a systems lens",
+      "Women's Economic Empowerment",
       "Data for Social Norms change and Innovative Policies",
-      "Women's Economic Empowerment"
+      "Future of Work through a systems lens",
+      "States capabilities to deliver Gender Equality"
     ]
   },
   {
@@ -182,10 +182,10 @@
       "Gender"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "States capabilities to deliver Gender Equality",
       "Data for Social Norms change and Innovative Policies",
-      "Socio-Economic Mobility"
+      "States capabilities to deliver Gender Equality",
+      "Socio-Economic Mobility",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -227,13 +227,13 @@
       "Gender"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Parliamentary Development",
-      "States capabilities to deliver Gender Equality",
-      "Data for Social Norms change and Innovative Policies",
-      "Inclusive governance and Women's participation and representation",
       "Gender-responsive disaster risk reduction and management",
-      "Women's Economic Empowerment"
+      "Poverty and Inequality Metrics",
+      "Women's Economic Empowerment",
+      "Inclusive governance and Women_s participation and representation",
+      "Data for Social Norms change and Innovative Policies",
+      "States capabilities to deliver Gender Equality",
+      "Parliamentary Development"
     ]
   },
   {
@@ -276,12 +276,12 @@
       "Environment"
     ],
     "SSTopics": [
+      "SIDS",
       "Poverty and Inequality Metrics",
       "Building Resilient and Sustainable Systems for Health",
       "Data for Social Norms change and Innovative Policies",
       "Promoting Effective and Inclusive Governance for HIV",
-      "States capabilities to deliver Gender Equality",
-      "SIDS"
+      "States capabilities to deliver Gender Equality"
     ]
   },
   {
@@ -326,12 +326,12 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
-      "Futures of Work through a systems lens",
-      "States capabilities to deliver Gender Equality",
-      "Data for Social Norms change and Innovative Policies",
       "Future-proof and resilient jobs for women",
+      "Women's Economic Empowerment",
+      "Futures of Work through a systems lens",
+      "Data for Social Norms change and Innovative Policies",
       "Informal Economy Facility",
-      "Women's Economic Empowerment"
+      "States capabilities to deliver Gender Equality"
     ]
   },
   {
@@ -376,11 +376,11 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
-      "States capabilities to deliver Gender Equality",
       "Future-proof and resilient jobs for women",
-      "Future of Work through a systems lens",
+      "Women's Economic Empowerment",
       "Data for Social Norms change and Innovative Policies",
-      "Women's Economic Empowerment"
+      "Future of Work through a systems lens",
+      "States capabilities to deliver Gender Equality"
     ]
   },
   {
@@ -423,9 +423,9 @@
       "Governance"
     ],
     "SSTopics": [
-      "Rule of Law and Human Rights for Sustainable Peace and Development",
+      "Human right's defenders",
       "Anti-corruption",
-      "Human right's defenders"
+      "Rule of Law and Human Rights for Sustainable Peace and Development"
     ]
   },
   {
@@ -461,10 +461,11 @@
       "Gender"
     ],
     "SSTopics": [
-      "Rule of Law and Human Rights for Sustainable Peace and Development",
-      "HDP nexus",
       "Financing for Gender Equality",
       "Human right's defenders",
+      "Human Security",
+      "HDP nexus",
+      "Rule of Law and Human Rights for Sustainable Peace and Development",
       "Women, Peace and Security"
     ]
   },
@@ -539,8 +540,8 @@
       "Governance"
     ],
     "SSTopics": [
-      "Human Rights for Sustainable Development",
-      "Human right's defenders"
+      "Human right's defenders",
+      "Human Rights for Sustainable Development"
     ]
   },
   {
@@ -610,6 +611,8 @@
     "SSTopics": [
       "Conflict Prevention and Peacebuilding",
       "Preventing Violent Extremism",
+      "Human Security",
+      "SDGs in Fragile Contexts Fragile-to-Fragile Cooperation",
       "Women, Peace and Security"
     ]
   },
@@ -646,8 +649,8 @@
     "SSTopics": [
       "Conflict Prevention and Peacebuilding",
       "Human right's defenders",
-      "Masculinities",
-      "Women, Peace and Security"
+      "Women, Peace and Security",
+      "Masculinities"
     ]
   },
   {
@@ -751,8 +754,8 @@
       "Resilience"
     ],
     "SSTopics": [
-      "Conflict Prevention and Peacebuilding",
-      "Socio-Economic Mobility"
+      "Socio-Economic Mobility",
+      "Conflict Prevention and Peacebuilding"
     ]
   },
   {
@@ -997,9 +1000,9 @@
       "Resilience"
     ],
     "SSTopics": [
+      "Socio-Economic Mobility",
       "Conflict Prevention and Peacebuilding",
-      "HDP nexus",
-      "Socio-Economic Mobility"
+      "HDP nexus"
     ]
   },
   {
@@ -1291,8 +1294,8 @@
     ],
     "SSTopics": [
       "Conflict Prevention and Peacebuilding",
-      "Preventing Violent Extremism",
-      "Anti-corruption"
+      "Anti-corruption",
+      "Preventing Violent Extremism"
     ]
   },
   {
@@ -1332,9 +1335,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Core Government functions",
       "Informal Economy Facility",
-      "Inclusive governance and Women's participation and representation"
+      "Inclusive governance and Women_s participation and representation",
+      "Core Government functions"
     ]
   },
   {
@@ -1374,13 +1377,13 @@
       "Gender"
     ],
     "SSTopics": [
-      "Social Protection",
-      "States capabilities to deliver Gender Equality",
-      "Informal Economy Facility",
+      "Gender-responsive disaster risk reduction and management",
+      "Inclusive governance and Women_s participation and representation",
       "inclusive economies",
       "Prevention of Sexual Exploitation and abuse",
-      "Gender-responsive disaster risk reduction and management",
-      "Inclusive governance and Women's participation and representation"
+      "Social Protection",
+      "Informal Economy Facility",
+      "States capabilities to deliver Gender Equality"
     ]
   },
   {
@@ -1425,14 +1428,14 @@
       "Environment"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Future of Work through a systems lens",
-      "Data for Social Norms change and Innovative Policies",
       "SIDS",
-      "States capabilities to deliver Gender Equality",
-      "Informal Economy Facility",
       "Gender Digital Divide",
-      "Socio-Economic Mobility"
+      "Poverty and Inequality Metrics",
+      "Data for Social Norms change and Innovative Policies",
+      "Socio-Economic Mobility",
+      "Future of Work through a systems lens",
+      "Informal Economy Facility",
+      "States capabilities to deliver Gender Equality"
     ]
   },
   {
@@ -1477,13 +1480,13 @@
       "Environment"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Future of Work through a systems lens",
-      "Data for Social Norms change and Innovative Policies",
       "SIDS",
-      "States capabilities to deliver Gender Equality",
+      "Poverty and Inequality Metrics",
+      "Data for Social Norms change and Innovative Policies",
+      "Socio-Economic Mobility",
+      "Future of Work through a systems lens",
       "Informal Economy Facility",
-      "Socio-Economic Mobility"
+      "States capabilities to deliver Gender Equality"
     ]
   },
   {
@@ -1523,13 +1526,13 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
-      "Informal Economy Facility",
+      "Trade and Value Chains",
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
       "Data for Social Norms change and Innovative Policies",
-      "States capabilities to deliver Gender Equality",
-      "Trade and Value Chains",
+      "Spatial Inequalities",
       "Future of Work through a systems lens",
-      "Spatial Inequalities"
+      "Informal Economy Facility",
+      "States capabilities to deliver Gender Equality"
     ]
   },
   {
@@ -1574,10 +1577,10 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
-      "Future of Work through a systems lens",
-      "Informal Economy Facility",
       "Data for Social Norms change and Innovative Policies",
-      "Future of Work"
+      "Future of Work",
+      "Future of Work through a systems lens",
+      "Informal Economy Facility"
     ]
   },
   {
@@ -1619,10 +1622,10 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Future of Work through a systems lens",
       "Informal Economy Facility",
       "Future of Work",
-      "Socio-Economic Mobility"
+      "Socio-Economic Mobility",
+      "Future of Work through a systems lens"
     ]
   },
   {
@@ -1667,11 +1670,11 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
-      "Future of Work through a systems lens",
-      "Informal Economy Facility",
-      "Data for Social Norms change and Innovative Policies",
       "inclusive economies",
-      "Future of Work"
+      "Data for Social Norms change and Innovative Policies",
+      "Future of Work",
+      "Future of Work through a systems lens",
+      "Informal Economy Facility"
     ]
   },
   {
@@ -1716,11 +1719,11 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
-      "Future of Work through a systems lens",
-      "Informal Economy Facility",
       "Youth Empowerment",
       "Future of Work",
-      "Youth Economic Empowerment"
+      "Youth Economic Empowerment",
+      "Future of Work through a systems lens",
+      "Informal Economy Facility"
     ]
   },
   {
@@ -1763,8 +1766,8 @@
       "Governance"
     ],
     "SSTopics": [
-      "Rule of Law and Human Rights for Sustainable Peace and Development",
-      "Anti-corruption"
+      "Anti-corruption",
+      "Rule of Law and Human Rights for Sustainable Peace and Development"
     ]
   },
   {
@@ -1848,11 +1851,11 @@
     ],
     "SSTopics": [
       "Core Government functions",
-      "Anti-corruption",
-      "Informal Economy Facility",
+      "Development Planning",
+      "Inclusive governance and Women_s participation and representation",
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
-      "Inclusive governance and Women's participation and representation",
-      "Development Planning"
+      "Informal Economy Facility",
+      "Anti-corruption"
     ]
   },
   {
@@ -1897,10 +1900,10 @@
     ],
     "SSTopics": [
       "Core Government functions",
-      "Anti-corruption",
+      "Development Planning",
+      "Inclusive governance and Women_s participation and representation",
       "Informal Economy Facility",
-      "Inclusive governance and Women's participation and representation",
-      "Development Planning"
+      "Anti-corruption"
     ]
   },
   {
@@ -1987,12 +1990,12 @@
     "SSTopics": [
       "Core Government functions",
       "Human Rights for Sustainable Development",
-      "Anti-corruption",
-      "Digital Governance",
-      "Civic Engagement",
       "Human right's defenders",
+      "Inclusive governance and Women_s participation and representation",
       "Masculinities",
-      "Inclusive governance and Women's participation and representation"
+      "Digital Governance",
+      "Anti-corruption",
+      "Civic Engagement"
     ]
   },
   {
@@ -2036,14 +2039,20 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
+      "Gender-responsive disaster risk reduction and management",
       "Poverty and Inequality Metrics",
       "Conflict Prevention and Peacebuilding",
       "Preventing Violent Extremism",
-      "HDP nexus",
-      "Informal Economy Facility",
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
-      "Gender-responsive disaster risk reduction and management",
-      "Socio-Economic Mobility"
+      "Socio-Economic Mobility",
+      "Recovery Solutions and Human Mobility",
+      "Risk Governance: Disaster Risk Governance",
+      "Disaster Risk Reduction: Conflict-Sensitive Disaster Risk Reduction",
+      "Resilience: Integrating Resilience in UN Planning Processes",
+      "HDP nexus",
+      "Disaster Risk Reduction and Disaster Risk Management",
+      "Informal Economy Facility",
+      "Risk Governance"
     ]
   },
   {
@@ -2083,8 +2092,8 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
       "Informal Economy Facility",
+      "Poverty and Inequality Metrics",
       "inclusive economies"
     ]
   },
@@ -2130,8 +2139,8 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
       "Conflict Prevention and Peacebuilding",
+      "Poverty and Inequality Metrics",
       "Preventing Violent Extremism"
     ]
   },
@@ -2177,8 +2186,8 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
+      "Inclusive governance and Women_s participation and representation",
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
-      "Inclusive governance and Women's participation and representation",
       "Socio-Economic Mobility"
     ]
   },
@@ -2225,13 +2234,13 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
-      "States capabilities to deliver Gender Equality",
-      "Data for Social Norms change and Innovative Policies",
+      "Inclusive governance and Women_s participation and representation",
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
-      "Masculinities",
-      "Inclusive governance and Women's participation and representation",
+      "Data for Social Norms change and Innovative Policies",
       "inclusive economies",
-      "Socio-Economic Mobility"
+      "Masculinities",
+      "Socio-Economic Mobility",
+      "States capabilities to deliver Gender Equality"
     ]
   },
   {
@@ -2276,9 +2285,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Core Government functions",
       "Informal Economy Facility",
       "Future of Work through a systems lens",
+      "Core Government functions",
       "Productivity and Resilience"
     ]
   },
@@ -2411,9 +2420,9 @@
       "Governance"
     ],
     "SSTopics": [
+      "Human right's defenders",
       "Electoral Cycle Support",
       "Anti-corruption",
-      "Human right's defenders",
       "Women, Peace and Security"
     ]
   },
@@ -2460,11 +2469,11 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
+      "Public Finance",
       "Poverty and Inequality Metrics",
       "Core Government functions",
-      "Public Finance",
-      "Prevention of Sexual Exploitation and abuse",
-      "Development Planning"
+      "Development Planning",
+      "Prevention of Sexual Exploitation and abuse"
     ]
   },
   {
@@ -2508,9 +2517,9 @@
       "Governance"
     ],
     "SSTopics": [
-      "Rule of Law and Human Rights for Sustainable Peace and Development",
+      "Human right's defenders",
       "Human Rights for Sustainable Development",
-      "Human right's defenders"
+      "Rule of Law and Human Rights for Sustainable Peace and Development"
     ]
   },
   {
@@ -2601,9 +2610,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
+      "Informal Economy Facility",
       "Human Mobility",
       "Social Protection",
-      "Informal Economy Facility",
       "Socio-Economic Mobility"
     ]
   },
@@ -2726,7 +2735,8 @@
     ],
     "SSTopics": [
       "Human Mobility",
-      "Legal Identity"
+      "Legal Identity",
+      "Recovery Solutions and Human Mobility"
     ]
   },
   {
@@ -2769,8 +2779,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Building Resilient and Sustainable Systems for Health",
-      "Support to the Global Fund and other Health Programmes"
+      "Resilience: Community-based Resilience Building",
+      "Support to the Global Fund and other Health Programmes",
+      "Building Resilient and Sustainable Systems for Health"
     ]
   },
   {
@@ -2847,8 +2858,8 @@
       "Enablers"
     ],
     "SSTopics": [
-      "Core Government functions",
-      "Public Finance"
+      "Public Finance",
+      "Core Government functions"
     ]
   },
   {
@@ -2935,10 +2946,11 @@
       "Governance"
     ],
     "SSTopics": [
+      "Gender-responsive disaster risk reduction and management",
+      "Inclusive governance and Women_s participation and representation",
       "States capabilities to deliver Gender Equality",
-      "Civic Engagement",
-      "Inclusive governance and Women's participation and representation",
-      "Gender-responsive disaster risk reduction and management"
+      "Disaster Risk Reduction: Capacity Development",
+      "Civic Engagement"
     ]
   },
   {
@@ -2981,10 +2993,14 @@
       "Gender"
     ],
     "SSTopics": [
-      "States capabilities to deliver Gender Equality",
-      "Women, Peace and Security",
+      "Risk Governance: Anticipatory Governance (including futures and foresight)",
       "Gender-responsive disaster risk reduction and management",
-      "Inclusive governance and Women's participation and representation"
+      "Risk-Informed Development",
+      "Inclusive governance and Women_s participation and representation",
+      "Risk Governance: Disaster Risk Governance",
+      "States capabilities to deliver Gender Equality",
+      "Risk Governance",
+      "Women, Peace and Security"
     ]
   },
   {
@@ -3028,14 +3044,14 @@
       "Gender"
     ],
     "SSTopics": [
-      "Core Government functions",
-      "States capabilities to deliver Gender Equality",
-      "Human right's defenders",
-      "Masculinities",
-      "Women, Peace and Security",
-      "Prevention of Sexual Exploitation and abuse",
       "Gender-responsive disaster risk reduction and management",
-      "Inclusive governance and Women's participation and representation"
+      "Core Government functions",
+      "Human right's defenders",
+      "Inclusive governance and Women_s participation and representation",
+      "Prevention of Sexual Exploitation and abuse",
+      "Masculinities",
+      "States capabilities to deliver Gender Equality",
+      "Women, Peace and Security"
     ]
   },
   {
@@ -3078,8 +3094,8 @@
       "Governance"
     ],
     "SSTopics": [
-      "Core Government functions",
-      "Human right's defenders"
+      "Human right's defenders",
+      "Core Government functions"
     ]
   },
   {
@@ -3122,11 +3138,11 @@
       "Governance"
     ],
     "SSTopics": [
-      "Anti-corruption",
+      "Gender-responsive disaster risk reduction and management",
+      "Inclusive governance and Women_s participation and representation",
       "Masculinities",
-      "Women, Peace and Security",
-      "Inclusive governance and Women's participation and representation",
-      "Gender-responsive disaster risk reduction and management"
+      "Anti-corruption",
+      "Women, Peace and Security"
     ]
   },
   {
@@ -3169,12 +3185,12 @@
       "Governance"
     ],
     "SSTopics": [
+      "Gender-responsive disaster risk reduction and management",
       "Core Government functions",
-      "Masculinities",
-      "Inclusive governance and Women's participation and representation",
+      "Inclusive governance and Women_s participation and representation",
       "inclusive economies",
       "Prevention of Sexual Exploitation and abuse",
-      "Gender-responsive disaster risk reduction and management"
+      "Masculinities"
     ]
   },
   {
@@ -3217,11 +3233,12 @@
       "Governance"
     ],
     "SSTopics": [
+      "Risk Governance: Anticipatory Governance (including futures and foresight)",
       "Core Government functions",
-      "Civic Engagement",
       "Human right's defenders",
+      "Inclusive governance and Women_s participation and representation",
       "Masculinities",
-      "Inclusive governance and Women's participation and representation"
+      "Civic Engagement"
     ]
   },
   {
@@ -3265,8 +3282,8 @@
     ],
     "SSTopics": [
       "Anti-corruption",
-      "Civic Engagement",
-      "Inclusive governance and Women's participation and representation"
+      "Inclusive governance and Women_s participation and representation",
+      "Civic Engagement"
     ]
   },
   {
@@ -3381,13 +3398,13 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Digital Governance",
-      "Digitalization",
-      "Informal Economy Facility",
-      "Future of Work through a systems lens",
       "Gender Digital Divide",
       "Digital Economy",
-      "Future of Work"
+      "Digitalization",
+      "Future of Work",
+      "Digital Governance",
+      "Future of Work through a systems lens",
+      "Informal Economy Facility"
     ]
   },
   {
@@ -3430,10 +3447,10 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
       "Informal Economy Facility",
-      "Future of Work through a systems lens",
-      "Socio-Economic Mobility"
+      "Socio-Economic Mobility",
+      "Poverty and Inequality Metrics",
+      "Future of Work through a systems lens"
     ]
   },
   {
@@ -3477,9 +3494,9 @@
       "Enablers"
     ],
     "SSTopics": [
-      "Futures of Work through a systems lens",
+      "Fiscal Sustainability",
       "Public Finance",
-      "Fiscal Sustainability"
+      "Futures of Work through a systems lens"
     ]
   },
   {
@@ -3522,8 +3539,8 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Development Planning"
+      "Development Planning",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -3564,18 +3581,18 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Informal Economy Facility",
-      "Trade and Value Chains",
-      "Jobs",
       "Sustainable Energy",
-      "Energy Access",
+      "Trade and Value Chains",
       "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
-      "Energy Governance",
       "Energy Finance",
       "The Energy Crisis",
+      "Jobs",
+      "Energy Governance",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Informal Economy Facility",
+      "Energy Access"
     ]
   },
   {
@@ -3618,19 +3635,19 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Informal Economy Facility",
-      "Trade and Value Chains",
-      "Jobs",
-      "Informal Economy",
       "Sustainable Energy",
-      "Energy Access",
+      "Trade and Value Chains",
       "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
-      "Energy Governance",
       "Energy Finance",
       "The Energy Crisis",
+      "Jobs",
+      "Informal Economy",
+      "Energy Governance",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Informal Economy Facility",
+      "Energy Access"
     ]
   },
   {
@@ -3674,8 +3691,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Trade and Value Chains",
-      "Jobs"
+      "Jobs",
+      "Trade and Value Chains"
     ]
   },
   {
@@ -3708,11 +3725,11 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Social Protection",
-      "Informal Economy Facility",
-      "Future of Work through a systems lens",
       "Trade and Value Chains",
-      "Micro, Small, and Medium-sized Enterprises (MSMEs)"
+      "Micro, Small, and Medium-sized Enterprises (MSMEs)",
+      "Social Protection",
+      "Future of Work through a systems lens",
+      "Informal Economy Facility"
     ]
   },
   {
@@ -3756,8 +3773,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future of Work through a systems lens",
-      "Micro, Small, and Medium-sized Enterprises (MSMEs)"
+      "Micro, Small, and Medium-sized Enterprises (MSMEs)",
+      "Future of Work through a systems lens"
     ]
   },
   {
@@ -4096,8 +4113,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future of Work through a systems lens",
-      "Micro, Small, and Medium-sized Enterprises (MSMEs)"
+      "Micro, Small, and Medium-sized Enterprises (MSMEs)",
+      "Future of Work through a systems lens"
     ]
   },
   {
@@ -4139,8 +4156,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future of Work through a systems lens",
-      "Micro, Small, and Medium-sized Enterprises (MSMEs)"
+      "Micro, Small, and Medium-sized Enterprises (MSMEs)",
+      "Future of Work through a systems lens"
     ]
   },
   {
@@ -4182,25 +4199,27 @@
       "Environment"
     ],
     "SSTopics": [
-      "Climate Change Adaptation",
-      "Climate Promise",
-      "Carbon Markets",
-      "Zero Waste",
-      "Green Economy",
-      "Just Green Transition",
-      "Sustainable Energy",
-      "Energy Access",
       "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
       "Sustainable Transport",
+      "Energy and Health",
+      "Green Economy",
       "Green Hydrogen",
       "Clean Cooking",
-      "Energy Governance",
+      "Energy Efficiency",
+      "Energy Access",
+      "Just Green Transition",
+      "Climate Change Adaptation",
+      "Climate Promise",
       "Energy Finance",
-      "Energy and Health",
       "The Energy Crisis",
+      "Chemicals and Waste: Persistent Organic Pollutants",
+      "Just Energy Transition",
+      "Equator Initiative",
+      "Carbon Markets",
+      "Energy Governance",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Sustainable Energy",
+      "Zero Waste"
     ]
   },
   {
@@ -4241,10 +4260,10 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Core Government functions",
       "Informal Economy Facility",
+      "Micro, Small, and Medium-sized Enterprises (MSMEs)",
       "Trade and Value Chains",
-      "Micro, Small, and Medium-sized Enterprises (MSMEs)"
+      "Core Government functions"
     ]
   },
   {
@@ -4285,9 +4304,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Core Government functions",
       "Informal Economy Facility",
-      "Micro, Small, and Medium-sized Enterprises (MSMEs)"
+      "Micro, Small, and Medium-sized Enterprises (MSMEs)",
+      "Core Government functions"
     ]
   },
   {
@@ -4329,9 +4348,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Core Government functions",
       "Informal Economy Facility",
-      "Micro, Small, and Medium-sized Enterprises (MSMEs)"
+      "Micro, Small, and Medium-sized Enterprises (MSMEs)",
+      "Core Government functions"
     ]
   },
   {
@@ -4374,13 +4393,13 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Data for Social Norms change and Innovative Policies",
-      "States capabilities to deliver Gender Equality",
       "Future-proof and resilient jobs for women",
-      "Informal Economy Facility",
-      "UNDP Gender Seal",
+      "Women's Economic Empowerment",
+      "Data for Social Norms change and Innovative Policies",
       "inclusive economies",
-      "Women's Economic Empowerment"
+      "UNDP Gender Seal",
+      "Informal Economy Facility",
+      "States capabilities to deliver Gender Equality"
     ]
   },
   {
@@ -4423,13 +4442,13 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Data for Social Norms change and Innovative Policies",
-      "States capabilities to deliver Gender Equality",
       "Future-proof and resilient jobs for women",
-      "Informal Economy Facility",
-      "UNDP Gender Seal",
+      "Women's Economic Empowerment",
+      "Data for Social Norms change and Innovative Policies",
       "inclusive economies",
-      "Women's Economic Empowerment"
+      "UNDP Gender Seal",
+      "Informal Economy Facility",
+      "States capabilities to deliver Gender Equality"
     ]
   },
   {
@@ -4471,12 +4490,12 @@
       "Gender"
     ],
     "SSTopics": [
-      "Data for Social Norms change and Innovative Policies",
-      "States capabilities to deliver Gender Equality",
       "Future-proof and resilient jobs for women",
-      "UNDP Gender Seal",
+      "Women's Economic Empowerment",
+      "Data for Social Norms change and Innovative Policies",
       "inclusive economies",
-      "Women's Economic Empowerment"
+      "UNDP Gender Seal",
+      "States capabilities to deliver Gender Equality"
     ]
   },
   {
@@ -4519,23 +4538,23 @@
     ],
     "SSTopics": [
       "Climate Change Adaptation",
-      "Climate Security",
+      "Energy Finance",
+      "Fossil Fuel Subsidy Reform",
+      "Sustainable Transport",
       "Climate and Forests",
       "Green Economy",
-      "Sustainable Energy",
-      "Energy Access",
-      "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
-      "Sustainable Transport",
-      "Green Hydrogen",
-      "Clean Cooking",
-      "Energy Governance",
-      "Energy Finance",
-      "Energy and Health",
       "The Energy Crisis",
+      "Green Hydrogen",
+      "Energy Governance",
+      "Clean Cooking",
       "Productive Use of Energy",
+      "Climate Security",
       "Energy Efficiency",
-      "Just Green Transition"
+      "Just Energy Transition",
+      "Energy and Health",
+      "Sustainable Energy",
+      "Just Green Transition",
+      "Energy Access"
     ]
   },
   {
@@ -4658,6 +4677,7 @@
       "Resilience"
     ],
     "SSTopics": [
+      "Resilience: Community-based Resilience Building",
       "Resilient Recovery"
     ]
   },
@@ -4698,8 +4718,8 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
-      "Building Resilient and Sustainable Systems for Health"
+      "Building Resilient and Sustainable Systems for Health",
+      "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics"
     ]
   },
   {
@@ -4742,9 +4762,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
+      "Social Protection",
       "Building Resilient and Sustainable Systems for Health",
-      "Social Protection"
+      "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics"
     ]
   },
   {
@@ -4786,8 +4806,8 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
-      "Building Resilient and Sustainable Systems for Health"
+      "Building Resilient and Sustainable Systems for Health",
+      "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics"
     ]
   },
   {
@@ -4828,11 +4848,11 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Informal Economy Facility",
-      "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
       "Building Resilient and Sustainable Systems for Health",
+      "Development Planning",
+      "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
       "Support to the Global Fund and other Health Programmes",
-      "Development Planning"
+      "Informal Economy Facility"
     ]
   },
   {
@@ -4872,18 +4892,34 @@
       "Environment"
     ],
     "SSTopics": [
+      "",
+      "Chemicals and Waste: Waste Management",
+      "Policy and practice shift",
+      "Climate finance for forests",
+      "Ecosystems and Biodiversity: Nature-positive economy and Biodiversity Finance",
+      "Green Economy",
+      "Climate Strategies and Policy: Inclusiveness",
+      "Energy Efficiency",
+      "Energy Access",
+      "Just Green Transition",
+      "UNDP Nature Pledge",
       "Climate Change Adaptation",
       "Climate Promise",
-      "Local Action",
-      "Green Economy",
-      "Just Green Transition",
-      "Sustainable Energy",
-      "Energy Access",
-      "Just Energy Transition",
-      "Energy Governance",
+      "Locally-led climate change adaptation",
       "Energy Finance",
       "The Energy Crisis",
-      "Energy Efficiency"
+      "Climate Strategies and Policy: Long-Term Strategies",
+      "Local Action",
+      "Just Energy Transition",
+      "Climate Strategies and Policy: NDC enhancement",
+      "Local Action: Landscape resilience: community-based interventions in different thematic areas ",
+      "Local Action empowerment: IP/LC capacity development",
+      "Economic and finance shift",
+      "Energy Governance",
+      "Sustainable Energy",
+      "Climate Strategies and Policy: Financing Strategies, Plans and Investment Frameworks",
+      "Unlocking finance for climate change adaptation",
+      "Local action \u2013 Financing"
     ]
   },
   {
@@ -4924,11 +4960,11 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
       "Building Resilient and Sustainable Systems for Health",
-      "Support to the Global Fund and other Health Programmes",
       "Development Planning ",
-      "Fiscal Sustainability"
+      "Fiscal Sustainability",
+      "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
+      "Support to the Global Fund and other Health Programmes"
     ]
   },
   {
@@ -4971,9 +5007,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
       "Informal Economy Facility",
-      "Fiscal Sustainability"
+      "Fiscal Sustainability",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -5016,22 +5052,22 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Informal Economy Facility",
-      "Development Planning",
       "Sustainable Energy",
-      "Energy Access",
+      "Poverty and Inequality Metrics",
       "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
       "Sustainable Transport",
-      "Green Hydrogen",
-      "Clean Cooking",
-      "Energy Governance",
       "Energy Finance",
-      "Energy and Health",
       "The Energy Crisis",
+      "Green Hydrogen",
+      "Energy Governance",
+      "Development Planning",
+      "Clean Cooking",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Energy and Health",
+      "Informal Economy Facility",
+      "Energy Access"
     ]
   },
   {
@@ -5074,8 +5110,8 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Fiscal Sustainability"
+      "Fiscal Sustainability",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -5118,9 +5154,9 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Poverty and Inequality Metrics",
+      "Jobs",
       "Future of Work",
-      "Jobs"
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -5163,9 +5199,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
       "Informal Economy Facility",
-      "Fiscal Sustainability"
+      "Fiscal Sustainability",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -5208,9 +5244,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
       "Informal Economy Facility",
-      "Fiscal Sustainability"
+      "Fiscal Sustainability",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -5253,8 +5289,8 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Fiscal Sustainability"
+      "Fiscal Sustainability",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -5298,20 +5334,20 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
-      "Development Planning",
-      "Sustainable Energy",
-      "Energy Access",
       "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
       "Sustainable Transport",
-      "Green Hydrogen",
-      "Clean Cooking",
-      "Energy Governance",
       "Energy Finance",
-      "Energy and Health",
       "The Energy Crisis",
+      "Green Hydrogen",
+      "Energy Governance",
+      "Development Planning",
+      "Clean Cooking",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Energy and Health",
+      "Sustainable Energy",
+      "Energy Access"
     ]
   },
   {
@@ -5355,20 +5391,20 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
-      "Development Planning",
-      "Sustainable Energy",
-      "Energy Access",
       "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
       "Sustainable Transport",
-      "Green Hydrogen",
-      "Clean Cooking",
-      "Energy Governance",
       "Energy Finance",
-      "Energy and Health",
       "The Energy Crisis",
+      "Green Hydrogen",
+      "Energy Governance",
+      "Development Planning",
+      "Clean Cooking",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Energy and Health",
+      "Sustainable Energy",
+      "Energy Access"
     ]
   },
   {
@@ -5411,8 +5447,8 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Fiscal Sustainability"
+      "Fiscal Sustainability",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -5455,9 +5491,9 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Poverty and Inequality Metrics",
+      "Jobs",
       "Future of Work",
-      "Jobs"
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -5502,10 +5538,11 @@
     "SSTopics": [
       "Climate Change Adaptation",
       "Climate Promise",
-      "Climate Markets",
-      "Zero Waste",
       "Green Economy",
-      "Just Green Transition"
+      "Maps of Hope",
+      "Climate Markets",
+      "Just Green Transition",
+      "Zero Waste"
     ]
   },
   {
@@ -5548,9 +5585,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Future of Work through a systems lens",
+      "Future of Growth",
       "Gender Digital Divide",
-      "Future of Growth"
+      "Future of Work through a systems lens"
     ]
   },
   {
@@ -5593,9 +5630,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Future of Work through a systems lens",
+      "Future of Growth",
       "Gender Digital Divide",
-      "Future of Growth"
+      "Future of Work through a systems lens"
     ]
   },
   {
@@ -5681,10 +5718,10 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Futures of Work through a systems lens",
       "Informal Economy Facility",
-      "Spatial Inequalities"
+      "Spatial Inequalities",
+      "Futures of Work through a systems lens",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -5721,8 +5758,8 @@
       "Environment"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
       "SIDS",
+      "Poverty and Inequality Metrics",
       "Informal Economy Facility"
     ]
   },
@@ -5766,9 +5803,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Building Resilient and Sustainable Systems for Health",
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
-      "Poverty and Inequality Metrics"
+      "Poverty and Inequality Metrics",
+      "Building Resilient and Sustainable Systems for Health"
     ]
   },
   {
@@ -5811,8 +5848,8 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Spatial Inequalities"
+      "Spatial Inequalities",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -5853,19 +5890,19 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Informal Economy Facility",
-      "Future of Growth",
-      "Productivity and Resilience",
       "Sustainable Energy",
-      "Energy Access",
+      "Poverty and Inequality Metrics",
       "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
-      "Energy Governance",
       "Energy Finance",
       "The Energy Crisis",
+      "Energy Governance",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Future of Growth",
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Informal Economy Facility",
+      "Energy Access",
+      "Productivity and Resilience"
     ]
   },
   {
@@ -5950,8 +5987,8 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Building Resilient and Sustainable Systems for Health",
-      "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics"
+      "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
+      "Building Resilient and Sustainable Systems for Health"
     ]
   },
   {
@@ -5994,8 +6031,8 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Building Resilient and Sustainable Systems for Health",
-      "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics"
+      "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
+      "Building Resilient and Sustainable Systems for Health"
     ]
   },
   {
@@ -6038,9 +6075,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
       "Informal Economy Facility",
-      "Socio-Economic Mobility"
+      "Socio-Economic Mobility",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -6083,9 +6120,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
       "Informal Economy Facility",
-      "Socio-Economic Mobility"
+      "Socio-Economic Mobility",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -6128,9 +6165,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
       "Informal Economy Facility",
-      "Socio-Economic Mobility"
+      "Socio-Economic Mobility",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -6172,10 +6209,10 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Human Mobility",
       "Informal Economy Facility",
-      "Poverty and Inequality Metrics",
-      "Socio-Economic Mobility"
+      "Human Mobility",
+      "Socio-Economic Mobility",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -6261,11 +6298,11 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics",
-      "Informal Economy Facility",
       "Building Resilient and Sustainable Systems for Health",
-      "Future of Work through a systems lens",
       "Local Action",
-      "Spatial Inequalities"
+      "Spatial Inequalities",
+      "Future of Work through a systems lens",
+      "Informal Economy Facility"
     ]
   },
   {
@@ -6307,24 +6344,24 @@
       "Resilience"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Informal Economy Facility",
-      "Building Resilient and Sustainable Systems for Health",
-      "Future of Work through a systems lens",
-      "Spatial Inequalities",
       "Sustainable Energy",
-      "Energy Access",
+      "Poverty and Inequality Metrics",
       "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
+      "Building Resilient and Sustainable Systems for Health",
       "Sustainable Transport",
-      "Green Hydrogen",
-      "Clean Cooking",
-      "Energy Governance",
       "Energy Finance",
-      "Energy and Health",
       "The Energy Crisis",
+      "Green Hydrogen",
+      "Energy Governance",
+      "Clean Cooking",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Energy Efficiency",
+      "Spatial Inequalities",
+      "Just Energy Transition",
+      "Energy and Health",
+      "Future of Work through a systems lens",
+      "Informal Economy Facility",
+      "Energy Access"
     ]
   },
   {
@@ -6366,24 +6403,24 @@
       "Environment"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Climate Security",
-      "Informal Economy Facility",
-      "Local Action",
-      "Development Planning",
       "Sustainable Energy",
-      "Energy Access",
+      "Poverty and Inequality Metrics",
       "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
       "Sustainable Transport",
-      "Green Hydrogen",
-      "Clean Cooking",
-      "Energy Governance",
       "Energy Finance",
-      "Energy and Health",
       "The Energy Crisis",
+      "Green Hydrogen",
+      "Energy Governance",
+      "Development Planning",
+      "Clean Cooking",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Climate Security",
+      "Local Action",
+      "Just Energy Transition",
+      "Energy Efficiency",
+      "Energy and Health",
+      "Informal Economy Facility",
+      "Energy Access"
     ]
   },
   {
@@ -6632,8 +6669,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Social Protection",
-      "Data for Social Norms change and Innovative Policies",
-      "Aging"
+      "Aging",
+      "Data for Social Norms change and Innovative Policies"
     ]
   },
   {
@@ -6679,8 +6716,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Social Protection",
-      "Data for Social Norms change and Innovative Policies",
-      "Aging"
+      "Aging",
+      "Data for Social Norms change and Innovative Policies"
     ]
   },
   {
@@ -6726,8 +6763,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Social Protection",
-      "Data for Social Norms change and Innovative Policies",
-      "Aging"
+      "Aging",
+      "Data for Social Norms change and Innovative Policies"
     ]
   },
   {
@@ -6772,13 +6809,17 @@
       "Environment"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Social Protection",
-      "Recognize, reduce and redistribute care",
-      "Informal Economy Facility",
-      "Building Resilient and Sustainable Systems for Health",
       "SIDS",
-      "Just Green Transition"
+      "Poverty and Inequality Metrics",
+      "Building Resilient and Sustainable Systems for Health",
+      "Environmental Governance: Access to Justice",
+      "Environmental Governance: Legislative Reform",
+      "Social Protection",
+      "Informal Economy Facility",
+      "Just Green Transition",
+      "Recognize, reduce and redistribute care",
+      "Environmental Governance: Human Rights-based Approaches",
+      "Implementing forest solutions with equity and integrity"
     ]
   },
   {
@@ -6822,11 +6863,11 @@
       "Gender"
     ],
     "SSTopics": [
-      "Social Protection",
-      "States capabilities to deliver Gender Equality",
       "Building Resilient and Sustainable Systems for Health",
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
-      "inclusive economies"
+      "inclusive economies",
+      "Social Protection",
+      "States capabilities to deliver Gender Equality"
     ]
   },
   {
@@ -6869,9 +6910,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Social Protection",
       "Informal Economy Facility",
-      "Prevention of Sexual Exploitation and abuse"
+      "Prevention of Sexual Exploitation and abuse",
+      "Social Protection"
     ]
   },
   {
@@ -6915,8 +6956,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Poverty and Inequality Metrics",
       "Social Protection",
+      "Poverty and Inequality Metrics",
       "Productivity and Resilience"
     ]
   },
@@ -6961,10 +7002,11 @@
       "Gender"
     ],
     "SSTopics": [
-      "Social Protection",
       "Poverty and Inequality Metrics",
-      "Recognize, reduce and redistribute care",
+      "Resilience: Community-based Resilience Building",
+      "Social Protection",
       "Informal Economy Facility",
+      "Recognize, reduce and redistribute care",
       "Productivity and Resilience"
     ]
   },
@@ -7008,9 +7050,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Futures of Work through a systems lens",
+      "Informal Economy Facility",
       "Social Protection",
-      "Informal Economy Facility"
+      "Futures of Work through a systems lens"
     ]
   },
   {
@@ -7054,9 +7096,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Public Finance",
       "Informal Economy Facility",
-      "Social Protection"
+      "Social Protection",
+      "Public Finance"
     ]
   },
   {
@@ -7101,12 +7143,12 @@
       "Governance"
     ],
     "SSTopics": [
-      "Social Protection",
       "Poverty and Inequality Metrics",
-      "Recognize, reduce and redistribute care",
       "Building Resilient and Sustainable Systems for Health",
       "Disability Inclusion",
-      "Informal Economy Facility"
+      "Social Protection",
+      "Informal Economy Facility",
+      "Recognize, reduce and redistribute care"
     ]
   },
   {
@@ -7280,11 +7322,11 @@
       "Enablers"
     ],
     "SSTopics": [
-      "Future of Work through a systems lens",
-      "Digital Governance",
+      "Future of Growth",
       "Digitalization",
-      "Informal Economy Facility",
-      "Future of Growth"
+      "Digital Governance",
+      "Future of Work through a systems lens",
+      "Informal Economy Facility"
     ]
   },
   {
@@ -7327,13 +7369,13 @@
       "Gender"
     ],
     "SSTopics": [
-      "Support to the Global Fund and other Health Programmes",
-      "Building Resilient and Sustainable Systems for Health",
       "Public Finance",
-      "States capabilities to deliver Gender Equality",
-      "Recognize, reduce and redistribute care",
+      "Building Resilient and Sustainable Systems for Health",
       "Development Planning",
-      "Energy and Health "
+      "Support to the Global Fund and other Health Programmes",
+      "Energy and Health ",
+      "States capabilities to deliver Gender Equality",
+      "Recognize, reduce and redistribute care"
     ]
   },
   {
@@ -7375,8 +7417,8 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Human Mobility",
-      "Informal Economy Facility"
+      "Informal Economy Facility",
+      "Human Mobility"
     ]
   },
   {
@@ -7421,8 +7463,8 @@
     ],
     "SSTopics": [
       "Urban Resilience",
-      "Poverty and Inequality Metrics",
-      "Spatial Inequalities"
+      "Spatial Inequalities",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -7465,8 +7507,8 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Spatial Inequalities"
+      "Spatial Inequalities",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -7711,8 +7753,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "inclusive economies",
-      "Informal Economy"
+      "Informal Economy",
+      "inclusive economies"
     ]
   },
   {
@@ -7843,9 +7885,9 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "inclusive economies",
       "Informal Economy",
-      "Youth Economic Empowerment"
+      "Youth Economic Empowerment",
+      "inclusive economies"
     ]
   },
   {
@@ -7974,8 +8016,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "inclusive economies",
-      "Informal Economy"
+      "Informal Economy",
+      "inclusive economies"
     ]
   },
   {
@@ -8104,8 +8146,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "inclusive economies",
-      "Informal Economy"
+      "Informal Economy",
+      "inclusive economies"
     ]
   },
   {
@@ -8237,8 +8279,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "inclusive economies",
-      "Informal Economy"
+      "Informal Economy",
+      "inclusive economies"
     ]
   },
   {
@@ -8372,9 +8414,9 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "inclusive economies",
       "Informal Economy",
-      "Youth Economic Empowerment"
+      "Youth Economic Empowerment",
+      "inclusive economies"
     ]
   },
   {
@@ -8506,8 +8548,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "inclusive economies",
-      "Informal Economy"
+      "Informal Economy",
+      "inclusive economies"
     ]
   },
   {
@@ -9960,8 +10002,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
-      "Informal Economy"
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
     ]
   },
   {
@@ -10091,8 +10133,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
-      "Youth Economic Empowerment"
+      "Youth Economic Empowerment",
+      "Future-proof and resilient jobs for women"
     ]
   },
   {
@@ -10222,8 +10264,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
-      "Informal Economy"
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
     ]
   },
   {
@@ -10353,8 +10395,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
-      "Informal Economy"
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
     ]
   },
   {
@@ -10487,9 +10529,9 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
+      "Informal Economy",
       "inclusive economies",
-      "Informal Economy"
+      "Future-proof and resilient jobs for women"
     ]
   },
   {
@@ -10623,11 +10665,11 @@
       "Gender"
     ],
     "SSTopics": [
-      "Informal Economy Facility",
       "Future-proof and resilient jobs for women",
-      "inclusive economies",
       "Informal Economy",
-      "Youth Economic Empowerment"
+      "inclusive economies",
+      "Youth Economic Empowerment",
+      "Informal Economy Facility"
     ]
   },
   {
@@ -10760,11 +10802,11 @@
       "Gender"
     ],
     "SSTopics": [
-      "Informal Economy Facility",
       "Future-proof and resilient jobs for women",
-      "inclusive economies",
+      "Women's Economic Empowerment",
       "Informal Economy",
-      "Women's Economic Empowerment"
+      "inclusive economies",
+      "Informal Economy Facility"
     ]
   },
   {
@@ -10894,8 +10936,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
-      "Informal Economy"
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
     ]
   },
   {
@@ -11025,8 +11067,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
-      "Local Economic Development (LED)"
+      "Local Economic Development (LED)",
+      "Future-proof and resilient jobs for women"
     ]
   },
   {
@@ -11160,8 +11202,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
       "Informal Economy",
+      "Future-proof and resilient jobs for women",
       "Women's Economic Empowerment"
     ]
   },
@@ -11297,8 +11339,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
       "Local Economic Development (LED)",
+      "Future-proof and resilient jobs for women",
       "Women's Economic Empowerment"
     ]
   },
@@ -11429,8 +11471,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
-      "Informal Economy"
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
     ]
   },
   {
@@ -11560,8 +11602,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
-      "Informal Economy"
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
     ]
   },
   {
@@ -11691,8 +11733,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
-      "Informal Economy"
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
     ]
   },
   {
@@ -11825,8 +11867,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
-      "Informal Economy"
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
     ]
   },
   {
@@ -12310,20 +12352,21 @@
       "Environment"
     ],
     "SSTopics": [
-      "Just Green Transition",
-      "Sustainable Energy",
-      "Energy Access",
-      "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
-      "Sustainable Transport",
-      "Green Hydrogen",
-      "Clean Cooking",
-      "Energy Governance",
       "Energy Finance",
-      "Energy and Health",
+      "Fossil Fuel Subsidy Reform",
+      "Sustainable Transport",
       "The Energy Crisis",
+      "Green Hydrogen",
+      "Energy Governance",
+      "Clean Cooking",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Energy and Health",
+      "Waste to Energy",
+      "Sustainable Energy",
+      "Just Green Transition",
+      "Energy Access"
     ]
   },
   {
@@ -12366,12 +12409,12 @@
       "Energy"
     ],
     "SSTopics": [
-      "Energy Access",
-      "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
-      "Energy Governance",
       "Energy Finance",
-      "The Energy Crisis"
+      "Fossil Fuel Subsidy Reform",
+      "The Energy Crisis",
+      "Energy Governance",
+      "Just Energy Transition",
+      "Energy Access"
     ]
   },
   {
@@ -12416,8 +12459,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
-      "Informal Economy"
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
     ]
   },
   {
@@ -12550,8 +12593,8 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
       "Informal Economy",
+      "Future-proof and resilient jobs for women",
       "Women's Economic Empowerment"
     ]
   },
@@ -12685,9 +12728,9 @@
     ],
     "SSTopics": [
       "Informal Economy Facility",
-      "Future-proof and resilient jobs for women",
       "Informal Economy",
-      "Jobs"
+      "Jobs",
+      "Future-proof and resilient jobs for women"
     ]
   },
   {
@@ -12903,17 +12946,17 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Informal Economy Facility",
-      "Informal Economy",
       "Sustainable Energy",
-      "Energy Access",
-      "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
-      "Energy Governance",
       "Energy Finance",
+      "Fossil Fuel Subsidy Reform",
       "The Energy Crisis",
+      "Informal Economy",
+      "Energy Governance",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Informal Economy Facility",
+      "Energy Access"
     ]
   },
   {
@@ -12956,19 +12999,19 @@
       "Energy"
     ],
     "SSTopics": [
-      "Sustainable Energy",
-      "Energy Access",
-      "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
-      "Sustainable Transport",
-      "Green Hydrogen",
-      "Clean Cooking",
-      "Energy Governance",
       "Energy Finance",
-      "Energy and Health",
+      "Fossil Fuel Subsidy Reform",
+      "Sustainable Transport",
       "The Energy Crisis",
+      "Green Hydrogen",
+      "Energy Governance",
+      "Clean Cooking",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Energy and Health",
+      "Sustainable Energy",
+      "Energy Access"
     ]
   },
   {
@@ -13008,19 +13051,19 @@
       "Energy"
     ],
     "SSTopics": [
-      "Sustainable Energy",
-      "Energy Access",
-      "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
-      "Sustainable Transport",
-      "Green Hydrogen",
-      "Clean Cooking",
-      "Energy Governance",
       "Energy Finance",
-      "Energy and Health",
+      "Fossil Fuel Subsidy Reform",
+      "Sustainable Transport",
       "The Energy Crisis",
+      "Green Hydrogen",
+      "Energy Governance",
+      "Clean Cooking",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Energy and Health",
+      "Sustainable Energy",
+      "Energy Access"
     ]
   },
   {
@@ -13063,19 +13106,19 @@
       "Energy"
     ],
     "SSTopics": [
-      "Sustainable Energy",
-      "Gender and Energy",
-      "Energy Access",
-      "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
-      "Sustainable Transport",
-      "Clean Cooking",
-      "Energy Governance",
       "Energy Finance",
-      "Energy and Health",
+      "Fossil Fuel Subsidy Reform",
+      "Sustainable Transport",
       "The Energy Crisis",
+      "Energy Governance",
+      "Clean Cooking",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Gender and Energy",
+      "Energy and Health",
+      "Sustainable Energy",
+      "Energy Access"
     ]
   },
   {
@@ -13118,19 +13161,19 @@
       "Energy"
     ],
     "SSTopics": [
-      "Sustainable Energy",
-      "Gender and Energy",
-      "Energy Access",
-      "Just Energy Transition",
+      "Energy Finance",
       "Fossil Fuel Subsidy Reform",
       "Sustainable Transport",
-      "Clean Cooking",
-      "Energy Governance",
-      "Energy Finance",
-      "Energy and Health",
       "The Energy Crisis",
+      "Energy Governance",
+      "Clean Cooking",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Gender and Energy",
+      "Energy and Health",
+      "Sustainable Energy",
+      "Energy Access"
     ]
   },
   {
@@ -13173,19 +13216,19 @@
       "Energy"
     ],
     "SSTopics": [
-      "Sustainable Energy",
-      "Gender and Energy",
-      "Energy Access",
-      "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
-      "Sustainable Transport",
-      "Clean Cooking",
-      "Energy Governance",
       "Energy Finance",
-      "Energy and Health",
+      "Fossil Fuel Subsidy Reform",
+      "Sustainable Transport",
       "The Energy Crisis",
+      "Energy Governance",
+      "Clean Cooking",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Gender and Energy",
+      "Energy and Health",
+      "Sustainable Energy",
+      "Energy Access"
     ]
   },
   {
@@ -13228,14 +13271,14 @@
       "Energy"
     ],
     "SSTopics": [
-      "Sustainable Energy",
-      "Energy Access",
       "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
       "Clean Cooking",
-      "Energy and Health",
       "Productive Use of Energy",
-      "Energy Efficiency"
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Energy and Health",
+      "Sustainable Energy",
+      "Energy Access"
     ]
   },
   {
@@ -13275,16 +13318,16 @@
       "Energy"
     ],
     "SSTopics": [
-      "Sustainable Energy",
-      "Energy Access",
+      "Energy Finance",
       "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
+      "The Energy Crisis",
       "Green Hydrogen",
       "Clean Cooking",
-      "Energy Finance",
+      "Energy Efficiency",
+      "Just Energy Transition",
       "Energy and Health",
-      "The Energy Crisis",
-      "Energy Efficiency"
+      "Sustainable Energy",
+      "Energy Access"
     ]
   },
   {
@@ -13325,9 +13368,9 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
       "Informal Economy Facility",
-      "Development Planning"
+      "Development Planning",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -13521,6 +13564,7 @@
       "Environment"
     ],
     "SSTopics": [
+      "Environmental Governance: Poverty-Environment",
       "Green Economy",
       "Just Green Transition"
     ]
@@ -13566,9 +13610,9 @@
       "Gender"
     ],
     "SSTopics": [
-      "Parliamentary Development",
-      "States capabilities to deliver Gender Equality",
       "Data for Social Norms change and Innovative Policies",
+      "States capabilities to deliver Gender Equality",
+      "Parliamentary Development",
       "Women's Economic Empowerment"
     ]
   },
@@ -13610,8 +13654,8 @@
       "Gender"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Socio-Economic Mobility"
+      "Socio-Economic Mobility",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -13652,8 +13696,8 @@
       "Gender"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Socio-Economic Mobility"
+      "Socio-Economic Mobility",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -13694,8 +13738,8 @@
       "Gender"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Socio-Economic Mobility"
+      "Socio-Economic Mobility",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -13736,8 +13780,8 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Socio-Economic Mobility"
+      "Socio-Economic Mobility",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -13779,8 +13823,8 @@
       "Gender"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Socio-Economic Mobility"
+      "Socio-Economic Mobility",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -13822,8 +13866,8 @@
       "Gender"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Socio-Economic Mobility"
+      "Socio-Economic Mobility",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -13908,19 +13952,21 @@
       "Energy"
     ],
     "SSTopics": [
-      "Sustainable Energy",
-      "Energy Access",
+      "Climate Change Adaptation: Urban Resilience",
+      "Energy Finance",
       "Fossil Fuel Subsidy Reform",
-      "Just Energy Transition",
       "Sustainable Transport",
+      "The Energy Crisis",
+      "Green Economy",
+      "Environmental Governance: Sustainable Production",
       "Green Hydrogen",
       "Clean Cooking",
-      "Energy Finance",
-      "Energy and Health",
-      "The Energy Crisis",
       "Productive Use of Energy",
       "Energy Efficiency",
-      "Green Economy"
+      "Just Energy Transition",
+      "Energy and Health",
+      "Sustainable Energy",
+      "Energy Access"
     ]
   },
   {
@@ -14089,7 +14135,9 @@
       "Environment"
     ],
     "SSTopics": [
-      "Green Economy"
+      "Green Economy",
+      "Cold Chain",
+      "Environmental Governance: Sustainable Production"
     ]
   },
   {
@@ -14132,8 +14180,8 @@
       "Gender"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Spatial Inequalities"
+      "Spatial Inequalities",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -14176,8 +14224,8 @@
       "Poverty and Inequality"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Spatial Inequalities"
+      "Spatial Inequalities",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -14222,8 +14270,8 @@
       "Gender"
     ],
     "SSTopics": [
-      "Poverty and Inequality Metrics",
-      "Spatial Inequalities"
+      "Spatial Inequalities",
+      "Poverty and Inequality Metrics"
     ]
   },
   {
@@ -14394,9 +14442,11 @@
       "Environment"
     ],
     "SSTopics": [
-      "Chemicals and Waste: Heavy metals",
       "Chemicals and Waste: Waste Management",
-      "Green Economy"
+      "Green Economy",
+      "Mercury",
+      "Chemicals and Waste: HFCs",
+      "Chemicals and Waste: Heavy metals"
     ]
   },
   {
@@ -14439,8 +14489,15 @@
     ],
     "SSTopics": [
       "Climate Change Adaptation: Ecosystem-based adaptation and management",
+      "Environmental Governance: Environmental Accounting",
+      "Climate finance for forests",
+      "Green Economy",
+      "Ecosystems and Biodiversity: Protected and Conservation Areas and Systems",
+      "Ecosystems and Biodiversity: Sustainable Land Management and Restoration (outside Conservation/Protected Areas and Systems)",
+      "Environmental Governance: Blue Economy",
       "Just Green Transition",
-      "Green Economy"
+      "Forest sector NDC ambition and UNFCCC alignment",
+      "Implementing forest solutions with equity and integrity"
     ]
   },
   {
@@ -14482,10 +14539,11 @@
       "Environment"
     ],
     "SSTopics": [
-      "Climate Change Adaptation: Coastal Adaptation",
-      "Climate Change Adaptation: Fostering Food Security and resilient Agricultural systems",
+      "Environmental Governance: Poverty-Environment",
+      "Climate Change Adaptation: Ecosystem-based adaptation and management",
       "Climate Change Adaptation: Cross-sectoral climate resilient livelihoods",
-      "Climate Change Adaptation: Ecosystem-based adaptation and management"
+      "Climate Change Adaptation: Fostering Food Security and resilient Agricultural systems",
+      "Climate Change Adaptation: Coastal Adaptation"
     ]
   },
   {
@@ -14527,8 +14585,10 @@
       "Environment"
     ],
     "SSTopics": [
+      "Green Economy",
       "Chemicals and Waste: Heavy metals",
-      "Green Economy"
+      "Secondary metals",
+      "Mercury"
     ]
   },
   {
@@ -14570,11 +14630,19 @@
     ],
     "SSTopics": [
       "Water and Ocean: Sustainable Management of Oceans in a Changing Climate",
-      "Water and Ocean: Climate Resilient Integrated Water Resource & Coastal Area Management",
-      "Water and Ocean: Protection of Transboundary Surface & Groundwater Resources in a Changing Climate",
-      "Water and Ocean: Climate Resilient Access to Water Supply & Sanitation",
+      "Blue Economy",
       "Climate Change Adaptation: Water Resource Management and Access to Water",
-      "Green Economy"
+      "UN Biodiversity Lab",
+      "Green Economy",
+      "Water and Ocean: Climate Resilient Access to Water Supply & Sanitation",
+      "Environmental Governance: Public Administration Reform",
+      "Water and Ocean: Climate Resilient Integrated Water Resource & Coastal Area Management",
+      "Ecosystems and Biodiversity: Biodiversity Mainstreaming",
+      "Environmental Governance: Circular Economy",
+      "Waste to Energy",
+      "National Biodiversity Strategy",
+      "NBSAP",
+      "Water and Ocean: Protection of Transboundary Surface & Groundwater Resources in a Changing Climate"
     ]
   },
   {
@@ -14614,6 +14682,8 @@
       "Environment"
     ],
     "SSTopics": [
+      "Climate Change Adaptation: Climate-resilient Infrastructure",
+      "Climate Strategies and Policy: Transparency",
       "Climate Change Adaptation: Coastal Adaptation",
       "Climate Change Adaptation: Climate Information and Early Warning Systems (CI & EWS)"
     ]
@@ -14655,10 +14725,14 @@
       "Environment"
     ],
     "SSTopics": [
-      "Climate Change Adaptation: Climate change & Health",
       "Climate Change Adaptation: Urban Resilience",
-      "Climate Change Adaptation: Climate Information and Early Warning Systems (CI & EWS)",
-      "Climate Change Adaptation: Coastal Adaptation"
+      "Climate Change Adaptation: Climate change & Health",
+      "Risk Governance: Disaster and Climate Risk Governance",
+      "Climate Change Adaptation: Cross-sectoral Climate-Resilient Livelihoods",
+      "Climate Change Adaptation: Coastal Adaptation",
+      "Climate change adaptation policy and planning: National Adaptation Plans",
+      "Climate Change Adaptation: Fostering Resilience for Food Security",
+      "Climate Change Adaptation: Climate Information and Early Warning Systems (CI & EWS)"
     ]
   },
   {
@@ -14738,10 +14812,13 @@
       "Environment"
     ],
     "SSTopics": [
-      "Climate Change Adaptation: Climate change & Health",
       "Climate Change Adaptation: Urban Resilience",
-      "Climate Change Adaptation: Climate Information and Early Warning Systems (CI & EWS)",
-      "Climate Change Adaptation: Coastal Adaptation"
+      "Climate Change Adaptation: Climate change & Health",
+      "Environmental Governance: Safeguards",
+      "Climate Change Adaptation: Coastal Adaptation",
+      "Risk-informed Development: Integrating/Mainstreaming Disaster Risk Reduction and Climate Adaptation into Development",
+      "Early Warning, Anticipation and Preparedness",
+      "Climate Change Adaptation: Climate Information and Early Warning Systems (CI & EWS)"
     ]
   },
   {
@@ -14784,7 +14861,12 @@
       "Environment"
     ],
     "SSTopics": [
-      "Climate Change Adaptation: Cross-sectoral climate resilient livelihoods"
+      "Climate Strategies and Policy: Policy and Institutional Building",
+      "Climate Change Adaptation: Cross-sectoral climate resilient livelihoods",
+      "Narrative and behavioural shift",
+      "Environmental Governance: Safeguards",
+      "Ecosystems and Biodiversity: Biodiversity Mainstreaming",
+      "Climate Change Adaptation: Ecosystem-based Adaptation "
     ]
   },
   {
@@ -14826,6 +14908,8 @@
       "Environment"
     ],
     "SSTopics": [
+      "Environmental Governance: Poverty-Environment",
+      "Environmental Governance: One Health Approaches",
       "Climate Change Adaptation: Climate change & Health"
     ]
   },
@@ -14866,10 +14950,11 @@
       "Environment"
     ],
     "SSTopics": [
-      "Water and Ocean: Climate Resilient Access to Water Supply & Sanitation", 
-      "Water and Ocean: Climate Resilient Integrated Water Resource & Coastal Area Management", 
-      "Water and Ocean: Protection of Transboundary Surface & Groundwater Resources in a Changing Climate", 
-      "Water and Ocean: Sustainable Management of Oceans in a Changing Climate"
+      "Water and Ocean: Sustainable Management of Oceans in a Changing Climate",
+      "Blue Economy",
+      "Water and Ocean: Climate Resilient Access to Water Supply & Sanitation",
+      "Water and Ocean: Climate Resilient Integrated Water Resource & Coastal Area Management",
+      "Water and Ocean: Protection of Transboundary Surface & Groundwater Resources in a Changing Climate"
     ]
   },
   {
@@ -14911,10 +14996,10 @@
       "Environment"
     ],
     "SSTopics": [
-      "Chemicals and Waste: HFCs", 
-      "Chemicals and Waste: Ozone Depleting Substances", 
-      "Chemicals and Waste: Heavy metals", 
-      "Chemicals and Waste: Waste Management"
+      "Chemicals and Waste: Waste Management",
+      "Chemicals and Waste: Ozone Depleting Substances",
+      "Chemicals and Waste: HFCs",
+      "Chemicals and Waste: Heavy metals"
     ]
   },
   {
@@ -14956,8 +15041,8 @@
       "Environment"
     ],
     "SSTopics": [
-      "Chemicals and Waste: Ozone Depleting Substances", 
-      "Chemicals and Waste: Waste Management"
+      "Chemicals and Waste: Waste Management",
+      "Chemicals and Waste: Ozone Depleting Substances"
     ]
   }
 ]
