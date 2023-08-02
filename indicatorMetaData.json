@@ -693,7 +693,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Deaths from Organized Conflict",
+    "IndicatorLabelTable": "Deaths from Organized Conflict (Internal)",
     "IndicatorDescription": "A ranked index of the number of deaths in a given country",
     "DataKey": "Deaths from Organised Conflict (Internal)",
     "DataSourceName": "Vision of Humanity",
@@ -763,7 +763,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Deaths from Organized Conflict",
+    "IndicatorLabelTable": "Deaths from Organized Conflict (External)",
     "IndicatorDescription": "A component of the Global Peace Index comparatively ranking a country's number of deaths (minimum of 25) related to government-involved conflict.",
     "DataKey": "Deaths from Organised Conflict (External)",
     "DataSourceName": "Vision of Humanity",
