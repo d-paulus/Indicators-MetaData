@@ -44,7 +44,8 @@
       "Promoting Effective and Inclusive Governance for HIV",
       "Sexual and reproductive health and rights",
       "Gender equality and empowering women and girls in the context of HIV and health"
-    ]
+    ],
+    "id": "mmrlatest_gii"
   },
   {
     "IndicatorLabelTable": "Gender inequality index, female population with secondary education",
@@ -92,7 +93,8 @@
       "Data for Social Norms change and Innovative Policies",
       "Socio-Economic Mobility",
       "States capabilities to deliver Gender Equality"
-    ]
+    ],
+    "id": "secedufemalelatest_gii"
   },
   {
     "IndicatorLabelTable": "Gender inequality index- male labour force participation rate",
@@ -141,7 +143,8 @@
       "Data for Social Norms change and Innovative Policies",
       "Future of Work through a systems lens",
       "States capabilities to deliver Gender Equality"
-    ]
+    ],
+    "id": "labourforcemalelatest_gii"
   },
   {
     "IndicatorLabelTable": "Gender inequality index - male population with at least secondary education",
@@ -188,7 +191,8 @@
       "States capabilities to deliver Gender Equality",
       "Socio-Economic Mobility",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "secedumalelatest_gii"
   },
   {
     "IndicatorLabelTable": "Gender inequality index - women share of parliament seats",
@@ -236,7 +240,8 @@
       "Data for Social Norms change and Innovative Policies",
       "States capabilities to deliver Gender Equality",
       "Parliamentary Development"
-    ]
+    ],
+    "id": "parlimentseatsfemale_gii"
   },
   {
     "IndicatorLabelTable": "Gender inequality index - adolescent birth rate",
@@ -286,7 +291,8 @@
       "States capabilities to deliver Gender Equality",
       "Sexual and reproductive health and rights",
       "Gender equality and empowering women and girls in the context of HIV and health"
-    ]
+    ],
+    "id": "adolescentbirthratelatest_gii"
   },
   {
     "IndicatorLabelTable": "Gender Inequality Index",
@@ -336,7 +342,8 @@
       "Data for Social Norms change and Innovative Policies",
       "Informal Economy Facility",
       "States capabilities to deliver Gender Equality"
-    ]
+    ],
+    "id": "genderinequalityindexlatest_gii"
   },
   {
     "IndicatorLabelTable": "Gender inequality index - female labour force participation rate",
@@ -385,7 +392,8 @@
       "Data for Social Norms change and Innovative Policies",
       "Future of Work through a systems lens",
       "States capabilities to deliver Gender Equality"
-    ]
+    ],
+    "id": "labourforcefemalelatest_gii"
   },
   {
     "IndicatorLabelTable": "Rule of Law",
@@ -430,7 +438,8 @@
       "Human right's defenders",
       "Anti-corruption",
       "Rule of Law and Human Rights for Sustainable Peace and Development"
-    ]
+    ],
+    "id": "ruleoflawestimatevallatest_wbankinfo"
   },
   {
     "IndicatorLabelTable": "Financial Contributions",
@@ -471,7 +480,8 @@
       "HDP nexus",
       "Rule of Law and Human Rights for Sustainable Peace and Development",
       "Women, Peace and Security"
-    ]
+    ],
+    "id": "finantialcontributiononun_globalpi"
   },
   {
     "IndicatorLabelTable": "Internal Security/ 100,00 people",
@@ -506,7 +516,8 @@
     "SSTopics": [
       "Conflict Prevention and Peacebuilding",
       "Women, Peace and Security"
-    ]
+    ],
+    "id": "noofinternalsecurityofficers_globalpi"
   },
   {
     "IndicatorLabelTable": "Strength of legal rights index (0=weak to 12=strong",
@@ -546,7 +557,8 @@
     "SSTopics": [
       "Human right's defenders",
       "Human Rights for Sustainable Development"
-    ]
+    ],
+    "id": "strengthoflegalrightsindex_cpiaslri"
   },
   {
     "IndicatorLabelTable": "Jailed Population/100,00 people",
@@ -580,7 +592,8 @@
     ],
     "SSTopics": [
       "Conflict Prevention and Peacebuilding"
-    ]
+    ],
+    "id": "noofjailedpopulation_globalpi"
   },
   {
     "IndicatorLabelTable": "Organized Internal Conflict",
@@ -618,7 +631,8 @@
       "Human Security",
       "SDGs in Fragile Contexts Fragile-to-Fragile Cooperation",
       "Women, Peace and Security"
-    ]
+    ],
+    "id": "organisedinternalconflict_globalpi"
   },
   {
     "IndicatorLabelTable": "Social Security Conflict",
@@ -655,7 +669,8 @@
       "Human right's defenders",
       "Women, Peace and Security",
       "Masculinities"
-    ]
+    ],
+    "id": "socialsafetysecurityconflict_globalpi"
   },
   {
     "IndicatorLabelTable": "Level of Violent Crime",
@@ -690,7 +705,8 @@
     "SSTopics": [
       "Conflict Prevention and Peacebuilding",
       "Preventing Violent Extremism"
-    ]
+    ],
+    "id": "levelofviolentcrime_globalpi"
   },
   {
     "IndicatorLabelTable": "Deaths from Organized Conflict (Internal)",
@@ -725,7 +741,8 @@
     "SSTopics": [
       "Conflict Prevention and Peacebuilding",
       "Preventing Violent Extremism"
-    ]
+    ],
+    "id": "deathsfrominternalorganisedconflict_globalpi"
   },
   {
     "IndicatorLabelTable": "External Conflicts",
@@ -760,7 +777,8 @@
     "SSTopics": [
       "Socio-Economic Mobility",
       "Conflict Prevention and Peacebuilding"
-    ]
+    ],
+    "id": "externalconflicts_globalpi"
   },
   {
     "IndicatorLabelTable": "Deaths from Organized Conflict (External)",
@@ -795,7 +813,8 @@
     "SSTopics": [
       "Conflict Prevention and Peacebuilding",
       "Preventing Violent Extremism"
-    ]
+    ],
+    "id": "noofdeathsdueexternalorganisedconflict_globalpi"
   },
   {
     "IndicatorLabelTable": "Relations with Neighboring Countries",
@@ -829,7 +848,8 @@
     ],
     "SSTopics": [
       "Conflict Prevention and Peacebuilding"
-    ]
+    ],
+    "id": "relwithneighbouringcountries_globalpi"
   },
   {
     "IndicatorLabelTable": "Global Peace Index Rank",
@@ -863,7 +883,8 @@
     ],
     "SSTopics": [
       "Conflict Prevention and Peacebuilding"
-    ]
+    ],
+    "id": "globalpeaceindexrank_globalpi"
   },
   {
     "IndicatorLabelTable": "Political Instability",
@@ -901,7 +922,8 @@
       "Anti-corruption",
       "HDP nexus",
       "Women, Peace and Security"
-    ]
+    ],
+    "id": "politicalinstability_globalpi"
   },
   {
     "IndicatorLabelTable": "Level of Perceived Criminality",
@@ -935,7 +957,8 @@
     ],
     "SSTopics": [
       "Conflict Prevention and Peacebuilding"
-    ]
+    ],
+    "id": "levelofperceivedcriminality_globalpi"
   },
   {
     "IndicatorLabelTable": "Militarisation",
@@ -971,7 +994,8 @@
       "Conflict Prevention and Peacebuilding",
       "Preventing Violent Extremism",
       "Women, Peace and Security"
-    ]
+    ],
+    "id": "militarisationindex_globalpi"
   },
   {
     "IndicatorLabelTable": "% of Refugee and Internally Displaced People",
@@ -1007,7 +1031,8 @@
       "Socio-Economic Mobility",
       "Conflict Prevention and Peacebuilding",
       "HDP nexus"
-    ]
+    ],
+    "id": "refugeesandinternalldisplacedpeople_globalpi"
   },
   {
     "IndicatorLabelTable": "Impact of Terrorism",
@@ -1042,7 +1067,8 @@
     "SSTopics": [
       "Conflict Prevention and Peacebuilding",
       "Preventing Violent Extremism"
-    ]
+    ],
+    "id": "impactofterrorism_globalpi"
   },
   {
     "IndicatorLabelTable": "Armed ServicesPersonnel/1000 people",
@@ -1076,7 +1102,8 @@
     ],
     "SSTopics": [
       "Conflict Prevention and Peacebuilding"
-    ]
+    ],
+    "id": "noofarmedpersonnel_globalpi"
   },
   {
     "IndicatorLabelTable": "Violent Demonstrations",
@@ -1111,7 +1138,8 @@
     "SSTopics": [
       "Conflict Prevention and Peacebuilding",
       "Human right's defenders"
-    ]
+    ],
+    "id": "violentdemonstation_globalpi"
   },
   {
     "IndicatorLabelTable": "Military Expenditure",
@@ -1147,7 +1175,8 @@
     "SSTopics": [
       "Conflict Prevention and Peacebuilding",
       "Public Finance"
-    ]
+    ],
+    "id": "militaryexpenditure_globalpi"
   },
   {
     "IndicatorLabelTable": "Internal Conflicts",
@@ -1183,7 +1212,8 @@
       "Conflict Prevention and Peacebuilding",
       "HDP nexus",
       "Women, Peace and Security"
-    ]
+    ],
+    "id": "internalconflicts_globalpi"
   },
   {
     "IndicatorLabelTable": "Access to arms and weapons",
@@ -1217,7 +1247,8 @@
     ],
     "SSTopics": [
       "Conflict Prevention and Peacebuilding"
-    ]
+    ],
+    "id": "accesstosmallweapons_globalpi"
   },
   {
     "IndicatorLabelTable": "Global Peace Index Score",
@@ -1258,7 +1289,8 @@
     ],
     "SSTopics": [
       "Conflict Prevention and Peacebuilding"
-    ]
+    ],
+    "id": "globalpeaceindexscore_globalpi"
   },
   {
     "IndicatorLabelTable": "Monopoly on Use of Force",
@@ -1300,7 +1332,8 @@
       "Conflict Prevention and Peacebuilding",
       "Anti-corruption",
       "Preventing Violent Extremism"
-    ]
+    ],
+    "id": "monopolyonuseofforce_btiproject"
   },
   {
     "IndicatorLabelTable": "CPIA Public Sector Management and institution clusters",
@@ -1342,7 +1375,8 @@
       "Informal Economy Facility",
       "Inclusive governance and Women_s participation and representation",
       "Core Government functions"
-    ]
+    ],
+    "id": "publicsectormanagementinstitutions_cpiapsmi"
   },
   {
     "IndicatorLabelTable": "CPIA policies for social inclusion/ equity cluster average",
@@ -1388,7 +1422,8 @@
       "Social Protection",
       "Informal Economy Facility",
       "States capabilities to deliver Gender Equality"
-    ]
+    ],
+    "id": "socialinclusionequityclusteraverage_cpiasiea"
   },
   {
     "IndicatorLabelTable": "Literacy rate female",
@@ -1440,7 +1475,8 @@
       "Future of Work through a systems lens",
       "Informal Economy Facility",
       "States capabilities to deliver Gender Equality"
-    ]
+    ],
+    "id": "literacyratefemale_cpialrf"
   },
   {
     "IndicatorLabelTable": "Male literacy rate",
@@ -1491,7 +1527,8 @@
       "Future of Work through a systems lens",
       "Informal Economy Facility",
       "States capabilities to deliver Gender Equality"
-    ]
+    ],
+    "id": "literacyratemale_cpialrm"
   },
   {
     "IndicatorLabelTable": "GINI index",
@@ -1537,7 +1574,8 @@
       "Future of Work through a systems lens",
       "Informal Economy Facility",
       "States capabilities to deliver Gender Equality"
-    ]
+    ],
+    "id": "giniindex_cpiagi"
   },
   {
     "IndicatorLabelTable": "Male labor force participation rate",
@@ -1585,7 +1623,8 @@
       "Future of Work",
       "Future of Work through a systems lens",
       "Informal Economy Facility"
-    ]
+    ],
+    "id": "malelaborforceparticipationrate_cpiamlpr"
   },
   {
     "IndicatorLabelTable": "Labor force with advanced education",
@@ -1630,7 +1669,8 @@
       "Future of Work",
       "Socio-Economic Mobility",
       "Future of Work through a systems lens"
-    ]
+    ],
+    "id": "laborforcewithadvanced education_cpialfae"
   },
   {
     "IndicatorLabelTable": "Female labor force participation rate",
@@ -1679,7 +1719,8 @@
       "Future of Work",
       "Future of Work through a systems lens",
       "Informal Economy Facility"
-    ]
+    ],
+    "id": "femalelaborforceparticipationrate_cpiaflfpr"
   },
   {
     "IndicatorLabelTable": "Unemployment youth total",
@@ -1728,7 +1769,8 @@
       "Youth Economic Empowerment",
       "Future of Work through a systems lens",
       "Informal Economy Facility"
-    ]
+    ],
+    "id": "unemploymentyouthtotal_cpiauyt"
   },
   {
     "IndicatorLabelTable": "Percentile Rank",
@@ -1772,7 +1814,8 @@
     "SSTopics": [
       "Anti-corruption",
       "Rule of Law and Human Rights for Sustainable Peace and Development"
-    ]
+    ],
+    "id": "ruleoflawpercentilerank_cpiarlpr"
   },
   {
     "IndicatorLabelTable": "CPIA Structural policies",
@@ -1811,7 +1854,8 @@
     ],
     "SSTopics": [
       "Core Government functions"
-    ]
+    ],
+    "id": "structuralpoliciesclusteraverage_cpiaspca"
   },
   {
     "IndicatorLabelTable": "Government Effectiveness",
@@ -1860,7 +1904,8 @@
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
       "Informal Economy Facility",
       "Anti-corruption"
-    ]
+    ],
+    "id": "governmenteffectivenessestimate_wbge"
   },
   {
     "IndicatorLabelTable": "Government Effectiveness: Percentile Rank",
@@ -1908,7 +1953,8 @@
       "Inclusive governance and Women_s participation and representation",
       "Informal Economy Facility",
       "Anti-corruption"
-    ]
+    ],
+    "id": "governmenteffectivenessrank_wbge"
   },
   {
     "IndicatorLabelTable": "Practices of informal sector as biggest obstacle chosen by firms",
@@ -1950,7 +1996,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)"
-    ]
+    ],
+    "id": "informalsectorasbiggestobstacle_isabo"
   },
   {
     "IndicatorLabelTable": "Voice and Accountability (estimate)",
@@ -2000,7 +2047,8 @@
       "Digital Governance",
       "Anti-corruption",
       "Civic Engagement"
-    ]
+    ],
+    "id": "voiceandaccountabilityestimate_wbva"
   },
   {
     "IndicatorLabelTable": "Composite Fragile States Index",
@@ -2057,7 +2105,8 @@
       "Disaster Risk Reduction and Disaster Risk Management",
       "Informal Economy Facility",
       "Risk Governance"
-    ]
+    ],
+    "id": "voiceandaccountabilityrank_wbva"
   },
   {
     "IndicatorLabelTable": "Economic Inequality",
@@ -2099,7 +2148,8 @@
       "Informal Economy Facility",
       "Poverty and Inequality Metrics",
       "inclusive economies"
-    ]
+    ],
+    "id": "economicinequalitytotal_globaldatafsi"
   },
   {
     "IndicatorLabelTable": "Security Apparatus",
@@ -2146,7 +2196,8 @@
       "Conflict Prevention and Peacebuilding",
       "Poverty and Inequality Metrics",
       "Preventing Violent Extremism"
-    ]
+    ],
+    "id": "securityapparatus_globaldatafsi"
   },
   {
     "IndicatorLabelTable": "Factionalized Elites",
@@ -2193,7 +2244,8 @@
       "Inclusive governance and Women_s participation and representation",
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
       "Socio-Economic Mobility"
-    ]
+    ],
+    "id": "factionalizedelites_globaldatafsi"
   },
   {
     "IndicatorLabelTable": "Group Divisions in Society",
@@ -2245,7 +2297,8 @@
       "Masculinities",
       "Socio-Economic Mobility",
       "States capabilities to deliver Gender Equality"
-    ]
+    ],
+    "id": "groupgrievance_globaldatafsi"
   },
   {
     "IndicatorLabelTable": "Economic Decline and Poverty",
@@ -2293,7 +2346,8 @@
       "Future of Work through a systems lens",
       "Core Government functions",
       "Productivity and Resilience"
-    ]
+    ],
+    "id": "economy_globaldatafsi"
   },
   {
     "IndicatorLabelTable": "External Peace",
@@ -2337,7 +2391,8 @@
     ],
     "SSTopics": [
       "Joint Programme on building national capacities on conflict prevention"
-    ]
+    ],
+    "id": "externalpeace_globaldatafsi"
   },
   {
     "IndicatorLabelTable": "Human Flight and Brain Drain",
@@ -2381,7 +2436,8 @@
     ],
     "SSTopics": [
       "Human Mobility"
-    ]
+    ],
+    "id": "humanflightandbraindrain_globaldatafsi"
   },
   {
     "IndicatorLabelTable": "State Legitimacy",
@@ -2428,7 +2484,8 @@
       "Electoral Cycle Support",
       "Anti-corruption",
       "Women, Peace and Security"
-    ]
+    ],
+    "id": "statelegitimacy_globaldatafsi"
   },
   {
     "IndicatorLabelTable": "Public Services",
@@ -2478,7 +2535,8 @@
       "Core Government functions",
       "Development Planning",
       "Prevention of Sexual Exploitation and abuse"
-    ]
+    ],
+    "id": "publicservices_globaldatafsi"
   },
   {
     "IndicatorLabelTable": "Human Rights",
@@ -2524,7 +2582,8 @@
       "Human right's defenders",
       "Human Rights for Sustainable Development",
       "Rule of Law and Human Rights for Sustainable Peace and Development"
-    ]
+    ],
+    "id": "humanrights_globaldatafsi"
   },
   {
     "IndicatorLabelTable": "Demographic Pressure",
@@ -2571,7 +2630,8 @@
       "Poverty and Inequality Metrics",
       "Core Government functions",
       "Planetary health, including environment, climate, energy and health"
-    ]
+    ],
+    "id": "demographicpressure_globaldatafsi"
   },
   {
     "IndicatorLabelTable": "Refugees and IDPs",
@@ -2619,7 +2679,8 @@
       "Human Mobility",
       "Social Protection",
       "Socio-Economic Mobility"
-    ]
+    ],
+    "id": "refugeesandidps_globaldatafsi"
   },
   {
     "IndicatorLabelTable": "Migrant Acceptance Index",
@@ -2658,7 +2719,8 @@
     "SSTopics": [
       "Human Mobility",
       "HDP nexus"
-    ]
+    ],
+    "id": "migrantacceptanceindex_mdpma"
   },
   {
     "IndicatorLabelTable": "People who think increasing number of different races, ethnic groups and nationalities makes a better place",
@@ -2698,7 +2760,8 @@
     "SSTopics": [
       "Human Mobility",
       "Legal Identity"
-    ]
+    ],
+    "id": "betterplacetolive_mdpbpl"
   },
   {
     "IndicatorLabelTable": "Adult respondents wanting lower immigration levels",
@@ -2742,7 +2805,8 @@
       "Human Mobility",
       "Legal Identity",
       "Recovery Solutions and Human Mobility"
-    ]
+    ],
+    "id": "wantinglowerimmigrationlevels_mdpild"
   },
   {
     "IndicatorLabelTable": "Government Response Stringency Index",
@@ -2788,7 +2852,8 @@
       "Support to the Global Fund and other Health Programmes",
       "Building Resilient and Sustainable Systems for Health",
       "COVID-19 Pandemic and Response"
-    ]
+    ],
+    "id": "covidresponsestringency_oxcgrt"
   },
   {
     "IndicatorLabelTable": "Economic freedom global ranking",
@@ -2826,7 +2891,8 @@
     ],
     "SSTopics": [
       "Core Government functions"
-    ]
+    ],
+    "id": "economicfreedomglobalrank_heritageid"
   },
   {
     "IndicatorLabelTable": "Country wise Military Expenditure",
@@ -2866,7 +2932,8 @@
     "SSTopics": [
       "Public Finance",
       "Core Government functions"
-    ]
+    ],
+    "id": "countrywisemilitaryexpenditure_sipri"
   },
   {
     "IndicatorLabelTable": "Transparency Corruption Perceptions Index",
@@ -2909,7 +2976,8 @@
     ],
     "SSTopics": [
       "Anti-corruption"
-    ]
+    ],
+    "id": "corruptionperceptionsindex_cpi"
   },
   {
     "IndicatorLabelTable": "CSO participatory environment",
@@ -2957,7 +3025,8 @@
       "States capabilities to deliver Gender Equality",
       "Disaster Risk Reduction: Capacity Development",
       "Civic Engagement"
-    ]
+    ],
+    "id": "civilsocietyparticipatoryenvironment_vdem"
   },
   {
     "IndicatorLabelTable": "Civil society index",
@@ -3007,7 +3076,8 @@
       "States capabilities to deliver Gender Equality",
       "Risk Governance",
       "Women, Peace and Security"
-    ]
+    ],
+    "id": "civilsocietyinfrastructurerobustness_vdem"
   },
   {
     "IndicatorLabelTable": "Egalitarian component index: Protection of rights and freedoms",
@@ -3058,7 +3128,8 @@
       "Masculinities",
       "States capabilities to deliver Gender Equality",
       "Women, Peace and Security"
-    ]
+    ],
+    "id": "protectionofrightsandfreedoms_vdem"
   },
   {
     "IndicatorLabelTable": "Equal protection of rights and freedoms across groups",
@@ -3102,7 +3173,8 @@
     "SSTopics": [
       "Human right's defenders",
       "Core Government functions"
-    ]
+    ],
+    "id": "equalprotectionofrightsandfreedomsacrosssocialgroups_vdem"
   },
   {
     "IndicatorLabelTable": "Equal access index",
@@ -3149,7 +3221,8 @@
       "Masculinities",
       "Anti-corruption",
       "Women, Peace and Security"
-    ]
+    ],
+    "id": "powerdistribution_vdem"
   },
   {
     "IndicatorLabelTable": "Equal distribution of resources index",
@@ -3197,7 +3270,8 @@
       "inclusive economies",
       "Prevention of Sexual Exploitation and abuse",
       "Masculinities"
-    ]
+    ],
+    "id": "resourcedistribution_vdem"
   },
   {
     "IndicatorLabelTable": "Civil liberties index",
@@ -3245,7 +3319,8 @@
       "Inclusive governance and Women_s participation and representation",
       "Masculinities",
       "Civic Engagement"
-    ]
+    ],
+    "id": "civilliberties_vdem"
   },
   {
     "IndicatorLabelTable": "Electoral Democracy Index",
@@ -3290,7 +3365,8 @@
       "Anti-corruption",
       "Inclusive governance and Women_s participation and representation",
       "Civic Engagement"
-    ]
+    ],
+    "id": "electoraldemocracy_vdem"
   },
   {
     "IndicatorLabelTable": "Homicides/100,00 people",
@@ -3325,7 +3401,8 @@
     "SSTopics": [
       "Conflict Prevention and Peacebuilding",
       "Preventing Violent Extremism"
-    ]
+    ],
+    "id": "homicidesperhundredthousandpeople_globalpi"
   },
   {
     "IndicatorLabelTable": "Weapons transfers",
@@ -3360,7 +3437,8 @@
     "SSTopics": [
       "Conflict Prevention and Peacebuilding",
       "Preventing Violent Extremism"
-    ]
+    ],
+    "id": "weaponstransfers_globalpi"
   },
   {
     "IndicatorLabelTable": "Access to internet, percent of population",
@@ -3411,7 +3489,8 @@
       "Digital Governance",
       "Future of Work through a systems lens",
       "Informal Economy Facility"
-    ]
+    ],
+    "id": "accesstointernet_cpiaati"
   },
   {
     "IndicatorLabelTable": "School enrollment, tertiary (% gross)",
@@ -3457,7 +3536,8 @@
       "Socio-Economic Mobility",
       "Poverty and Inequality Metrics",
       "Future of Work through a systems lens"
-    ]
+    ],
+    "id": "schoolenrollment_cpiasen"
   },
   {
     "IndicatorLabelTable": "Expenditure on tertiary education (% of government expenditure on education)",
@@ -3503,7 +3583,8 @@
       "Fiscal Sustainability",
       "Public Finance",
       "Futures of Work through a systems lens"
-    ]
+    ],
+    "id": "expenditureontertiaryeducation_cpiaeote"
   },
   {
     "IndicatorLabelTable": "Access to water services, percent of population",
@@ -3547,7 +3628,8 @@
     "SSTopics": [
       "Development Planning",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "accesstowaterservices_cpiaatws"
   },
   {
     "IndicatorLabelTable": "Employment in services, % of total employment",
@@ -3599,7 +3681,8 @@
       "Just Energy Transition",
       "Informal Economy Facility",
       "Energy Access"
-    ]
+    ],
+    "id": "employmentinservices_cpiaeis"
   },
   {
     "IndicatorLabelTable": "Employment in industry, % of total employment",
@@ -3654,7 +3737,8 @@
       "Just Energy Transition",
       "Informal Economy Facility",
       "Energy Access"
-    ]
+    ],
+    "id": "employmentinindustry_cpiaeii"
   },
   {
     "IndicatorLabelTable": "Employment in agriculture, % of total employment",
@@ -3699,7 +3783,8 @@
       "Informal Economy Facility",
       "Jobs",
       "Trade and Value Chains"
-    ]
+    ],
+    "id": "employmentinagriculture_cpiaeia"
   },
   {
     "IndicatorLabelTable": "Enterprises excluded from legal coverage",
@@ -3736,7 +3821,8 @@
       "Social Protection",
       "Future of Work through a systems lens",
       "Informal Economy Facility"
-    ]
+    ],
+    "id": "enterprisesexcluded_iloee"
   },
   {
     "IndicatorLabelTable": "MSME employment, % of total",
@@ -3781,7 +3867,8 @@
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)",
       "Future of Work through a systems lens"
-    ]
+    ],
+    "id": "mameemploymentpercentageoftotal_sme"
   },
   {
     "IndicatorLabelTable": "Micro enterprises, % of all enterprises",
@@ -3823,7 +3910,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)"
-    ]
+    ],
+    "id": "microenterprisespercentageofallenterprises_sme"
   },
   {
     "IndicatorLabelTable": "Small enterprises, % of all enterprises",
@@ -3867,7 +3955,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)"
-    ]
+    ],
+    "id": "smallenterprisespercentageofallenterprises_sme"
   },
   {
     "IndicatorLabelTable": "Medium enterprises, % of all enterprises",
@@ -3909,7 +3998,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)"
-    ]
+    ],
+    "id": "mediumenterprisespercentageofallenterprises_sme"
   },
   {
     "IndicatorLabelTable": "MSMEs, % of all enterprises",
@@ -3952,7 +4042,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)"
-    ]
+    ],
+    "id": "msmespercentageofallenterprises_sme"
   },
   {
     "IndicatorLabelTable": "SMEs, % of all enterprises",
@@ -3994,7 +4085,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)"
-    ]
+    ],
+    "id": "smespercentageofallenterprises_sme"
   },
   {
     "IndicatorLabelTable": "Large enterprises, % of all enterprises",
@@ -4036,7 +4128,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)"
-    ]
+    ],
+    "id": "largeenterprisespercentageofallenterprises_sme"
   },
   {
     "IndicatorLabelTable": "Micro Enterprises employment, % of total",
@@ -4078,7 +4171,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)"
-    ]
+    ],
+    "id": "microeterprisesemploymentpercentageoftotal_sme"
   },
   {
     "IndicatorLabelTable": "SME employment, % of total",
@@ -4121,7 +4215,8 @@
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)",
       "Future of Work through a systems lens"
-    ]
+    ],
+    "id": "smeemploymentpercentageoftotal_sme"
   },
   {
     "IndicatorLabelTable": "Large Enterprises employment, % of total",
@@ -4164,7 +4259,8 @@
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)",
       "Future of Work through a systems lens"
-    ]
+    ],
+    "id": "largeenterprisesemploymentpercentageoftotal_sme"
   },
   {
     "IndicatorLabelTable": "GHG emissions, MtCO2e",
@@ -4226,7 +4322,8 @@
       "Productive Use of Energy",
       "Sustainable Energy",
       "Zero Waste"
-    ]
+    ],
+    "id": "emissionlevelsallghg_ghgndc"
   },
   {
     "IndicatorLabelTable": "Ease of Doing Business Score",
@@ -4270,7 +4367,8 @@
       "Micro, Small, and Medium-sized Enterprises (MSMEs)",
       "Trade and Value Chains",
       "Core Government functions"
-    ]
+    ],
+    "id": "easeofdoingbusinessscore_ebwbdb"
   },
   {
     "IndicatorLabelTable": "Number of new LLCs",
@@ -4313,7 +4411,8 @@
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)",
       "Core Government functions"
-    ]
+    ],
+    "id": "numberofnewllc_nbwbdb"
   },
   {
     "IndicatorLabelTable": "New business entry rate",
@@ -4357,7 +4456,8 @@
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)",
       "Core Government functions"
-    ]
+    ],
+    "id": "newbusinessdensityrate_nbbwbdb"
   },
   {
     "IndicatorLabelTable": "Share of female business owners of new LLCs",
@@ -4406,7 +4506,8 @@
       "UNDP Gender Seal",
       "Informal Economy Facility",
       "States capabilities to deliver Gender Equality"
-    ]
+    ],
+    "id": "shareoffemalebusinessowners_sofbwbdb"
   },
   {
     "IndicatorLabelTable": "Share of female sole proprietors",
@@ -4455,7 +4556,8 @@
       "UNDP Gender Seal",
       "Informal Economy Facility",
       "States capabilities to deliver Gender Equality"
-    ]
+    ],
+    "id": "shareoffemalesoleproprietors_sofswbdb"
   },
   {
     "IndicatorLabelTable": "Share of female directors of new LLCs",
@@ -4502,7 +4604,8 @@
       "inclusive economies",
       "UNDP Gender Seal",
       "States capabilities to deliver Gender Equality"
-    ]
+    ],
+    "id": "shareoffemaledirectors_sofdwbdb"
   },
   {
     "IndicatorLabelTable": "Natural capita, USD per capita",
@@ -4561,7 +4664,8 @@
       "Sustainable Energy",
       "Just Green Transition",
       "Energy Access"
-    ]
+    ],
+    "id": "naturalcapital_naturalcapital"
   },
   {
     "IndicatorLabelTable": "Cumulative number of COVID-19 cases",
@@ -4604,7 +4708,8 @@
     "SSTopics": [
       "Resilient Recovery",
       "COVID-19 Pandemic and Response"
-    ]
+    ],
+    "id": "cumulativecases_whoglobal"
   },
   {
     "IndicatorLabelTable": "Cumulative number of COVID-19 deaths",
@@ -4645,7 +4750,8 @@
     "SSTopics": [
       "Resilient Recovery",
       "COVID-19 Pandemic and Response"
-    ]
+    ],
+    "id": "cumulativedeaths_whoglobal"
   },
   {
     "IndicatorLabelTable": "Fatality rate of COVID-19",
@@ -4688,7 +4794,8 @@
       "Resilience: Community-based Resilience Building",
       "Resilient Recovery",
       "COVID-19 Pandemic and Response"
-    ]
+    ],
+    "id": "testdeathrate_whoglobal"
   },
   {
     "IndicatorLabelTable": "Number of hospital beds per 10,000 people",
@@ -4729,7 +4836,8 @@
     "SSTopics": [
       "Building Resilient and Sustainable Systems for Health",
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics"
-    ]
+    ],
+    "id": "numberofhospitalbedsper10000people_whohb"
   },
   {
     "IndicatorLabelTable": "Physicians per 10,000 people",
@@ -4775,7 +4883,8 @@
       "Building Resilient and Sustainable Systems for Health",
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
       "Pandemic preparedness and response"
-    ]
+    ],
+    "id": "physiciansper10000people_whops"
   },
   {
     "IndicatorLabelTable": "Nurses and midwives per 10,000 people",
@@ -4818,7 +4927,8 @@
     "SSTopics": [
       "Building Resilient and Sustainable Systems for Health",
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics"
-    ]
+    ],
+    "id": "nursesandmidwivesper10000people_whonam"
   },
   {
     "IndicatorLabelTable": "Fiscal Response, USD",
@@ -4863,7 +4973,8 @@
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
       "Support to the Global Fund and other Health Programmes",
       "Informal Economy Facility"
-    ]
+    ],
+    "id": "totalgovernmentfiscalresponse_unescwafr"
   },
   {
     "IndicatorLabelTable": "Emission levels associated with GHG target set by (I)NDCs",
@@ -4930,7 +5041,8 @@
       "Climate Strategies and Policy: Financing Strategies, Plans and Investment Frameworks",
       "Unlocking finance for climate change adaptation",
       "Local action \u2013 Financing"
-    ]
+    ],
+    "id": "emissionsassociatedwithghgtarget_cwndc"
   },
   {
     "IndicatorLabelTable": "IFI financial response packages",
@@ -4975,7 +5087,8 @@
       "Fiscal Sustainability",
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
       "Support to the Global Fund and other Health Programmes"
-    ]
+    ],
+    "id": "ififinancialresponsepackages_imfifi"
   },
   {
     "IndicatorLabelTable": "Government net lending/borrowing as percent of GDP, baseline",
@@ -5020,7 +5133,8 @@
       "Informal Economy Facility",
       "Fiscal Sustainability",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "governmentnetlendingbaseline_imfweobaseline"
   },
   {
     "IndicatorLabelTable": "% change in GDP, baseline",
@@ -5078,7 +5192,8 @@
       "Energy and Health",
       "Informal Economy Facility",
       "Energy Access"
-    ]
+    ],
+    "id": "gdpbaseline_imfweobaseline"
   },
   {
     "IndicatorLabelTable": "Inflation, percent change, baseline",
@@ -5122,7 +5237,8 @@
     "SSTopics": [
       "Fiscal Sustainability",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "inflationbaseline_imfweobaseline"
   },
   {
     "IndicatorLabelTable": "Unemployment rate, baseline",
@@ -5167,7 +5283,8 @@
       "Jobs",
       "Future of Work",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "unemploymentbaseline_imfweobaseline"
   },
   {
     "IndicatorLabelTable": "Net debt as percent of GDP",
@@ -5212,7 +5329,8 @@
       "Informal Economy Facility",
       "Fiscal Sustainability",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "governmentdebt_imfweo"
   },
   {
     "IndicatorLabelTable": "Net debt as percent of GDP (baseline)",
@@ -5257,7 +5375,8 @@
       "Informal Economy Facility",
       "Fiscal Sustainability",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "governmentdebtbaseline_imfweobaseline"
   },
   {
     "IndicatorLabelTable": "Government net lending/borrowing as percent of GDP",
@@ -5301,7 +5420,8 @@
     "SSTopics": [
       "Fiscal Sustainability",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "governmentnetlending_imfweo"
   },
   {
     "IndicatorLabelTable": "% change in GDP per capita",
@@ -5358,7 +5478,8 @@
       "Energy and Health",
       "Sustainable Energy",
       "Energy Access"
-    ]
+    ],
+    "id": "gdppercapitapercentagechange_imfweo"
   },
   {
     "IndicatorLabelTable": "% change in GDP",
@@ -5415,7 +5536,8 @@
       "Energy and Health",
       "Sustainable Energy",
       "Energy Access"
-    ]
+    ],
+    "id": "gdp_imfweo"
   },
   {
     "IndicatorLabelTable": "Inflation, percent change",
@@ -5459,7 +5581,8 @@
     "SSTopics": [
       "Fiscal Sustainability",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "inflation_imfweo"
   },
   {
     "IndicatorLabelTable": "Unemployment rate",
@@ -5504,7 +5627,8 @@
       "Jobs",
       "Future of Work",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "unemployment_imfweo"
   },
   {
     "IndicatorLabelTable": "Percent change of mean daily CO2 emissions",
@@ -5554,7 +5678,8 @@
       "Just Green Transition",
       "Zero Waste",
       "Planetary health, including environment, climate, energy and health"
-    ]
+    ],
+    "id": "dailyco2emissionspercentagechange_natureco2"
   },
   {
     "IndicatorLabelTable": "Percentage of secondary schools with access to the internet",
@@ -5599,7 +5724,8 @@
       "Future of Growth",
       "Gender Digital Divide",
       "Future of Work through a systems lens"
-    ]
+    ],
+    "id": "secondaryschoolswithinternet_acctoi"
   },
   {
     "IndicatorLabelTable": "Percentage of primary schools with access to the internet",
@@ -5644,7 +5770,8 @@
       "Future of Growth",
       "Gender Digital Divide",
       "Future of Work through a systems lens"
-    ]
+    ],
+    "id": "primaryschoolswithinternet_acctoi"
   },
   {
     "IndicatorLabelTable": "Multidimensional Poverty Index (MPI)",
@@ -5687,7 +5814,8 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "multidimensionalpovertyindex_undpmpi"
   },
   {
     "IndicatorLabelTable": "Inequality-adjusted HDI",
@@ -5733,7 +5861,8 @@
       "Spatial Inequalities",
       "Futures of Work through a systems lens",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "inequilityadjustedhdi_inequilityhdi"
   },
   {
     "IndicatorLabelTable": "Human development index (HDI)",
@@ -5772,7 +5901,8 @@
       "SIDS",
       "Poverty and Inequality Metrics",
       "Informal Economy Facility"
-    ]
+    ],
+    "id": "humandevelopmentindex_undphdi"
   },
   {
     "IndicatorLabelTable": "Prevalence of moderate or severe food insecurity",
@@ -5817,7 +5947,8 @@
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
       "Poverty and Inequality Metrics",
       "Building Resilient and Sustainable Systems for Health"
-    ]
+    ],
+    "id": "moderateorseverefoodinsecurity_fao"
   },
   {
     "IndicatorLabelTable": "Population living in slums, % of urban population",
@@ -5861,7 +5992,8 @@
     "SSTopics": [
       "Spatial Inequalities",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "populationlivinginslums_cpiaplis"
   },
   {
     "IndicatorLabelTable": "GDP per capita, PPP (current international $)",
@@ -5914,7 +6046,8 @@
       "Informal Economy Facility",
       "Energy Access",
       "Productivity and Resilience"
-    ]
+    ],
+    "id": "gdppercapita_cpiagdp"
   },
   {
     "IndicatorLabelTable": "Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of women age 15-49)",
@@ -5958,7 +6091,8 @@
     "SSTopics": [
       "Preventing and Responding to Gender-Based Violence",
       "Prevention of Sexual Exploitation and abuse"
-    ]
+    ],
+    "id": "womensubjectedtophysicalsexualviolence_cpiawsv"
   },
   {
     "IndicatorLabelTable": "Percent of population using at least basic drinking-water services",
@@ -6000,7 +6134,8 @@
     "SSTopics": [
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
       "Building Resilient and Sustainable Systems for Health"
-    ]
+    ],
+    "id": "populationusingbasicdrinkingwater_cpiapbd"
   },
   {
     "IndicatorLabelTable": "Percent of population using at least basic sanitation services",
@@ -6044,7 +6179,8 @@
     "SSTopics": [
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics",
       "Building Resilient and Sustainable Systems for Health"
-    ]
+    ],
+    "id": "populationusingbasicsanitationservices_cpiapbss"
   },
   {
     "IndicatorLabelTable": "Poverty headcount ratio at $2.15 a day (2017 PPP), % of population",
@@ -6089,7 +6225,8 @@
       "Informal Economy Facility",
       "Socio-Economic Mobility",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "povertyheadcountratioat$1.90_cpiaphr19"
   },
   {
     "IndicatorLabelTable": "Poverty headcount ratio at $3.65 a day (2017 PPP), % of population",
@@ -6134,7 +6271,8 @@
       "Informal Economy Facility",
       "Socio-Economic Mobility",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "povertyheadcountratioat$3.20_cpiaphr32"
   },
   {
     "IndicatorLabelTable": "Poverty headcount ratio at $6.85 a day (2017 PPP), % of population",
@@ -6179,7 +6317,8 @@
       "Informal Economy Facility",
       "Socio-Economic Mobility",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "povertyheadcountratioat$5.50_cpiaphr55"
   },
   {
     "IndicatorLabelTable": "Refugee population by country or territory of asylum",
@@ -6224,7 +6363,8 @@
       "Human Mobility",
       "Socio-Economic Mobility",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "refugeepopulationbycountry_cpiarpbc"
   },
   {
     "IndicatorLabelTable": "Population ages 65 and above, % of total population",
@@ -6267,7 +6407,8 @@
     "SSTopics": [
       "Social Protection",
       "Aging"
-    ]
+    ],
+    "id": "populationages65andabove_cpiapa65a"
   },
   {
     "IndicatorLabelTable": "Rural Population, total",
@@ -6314,7 +6455,8 @@
       "Spatial Inequalities",
       "Future of Work through a systems lens",
       "Informal Economy Facility"
-    ]
+    ],
+    "id": "totalruralpopulation_cpiatrp"
   },
   {
     "IndicatorLabelTable": "Urban Population, total",
@@ -6373,7 +6515,8 @@
       "Future of Work through a systems lens",
       "Informal Economy Facility",
       "Energy Access"
-    ]
+    ],
+    "id": "totalurbanpopulation_cpiatup"
   },
   {
     "IndicatorLabelTable": "Total population",
@@ -6432,7 +6575,8 @@
       "Energy and Health",
       "Informal Economy Facility",
       "Energy Access"
-    ]
+    ],
+    "id": "totalpopulation_untp"
   },
   {
     "IndicatorLabelTable": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
@@ -6470,7 +6614,8 @@
     ],
     "SSTopics": [
       "Building Resilient and Sustainable Systems for Health"
-    ]
+    ],
+    "id": "mortalityattributedtononspreadingdisease_sdgmr"
   },
   {
     "IndicatorLabelTable": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70: Female",
@@ -6508,7 +6653,8 @@
     ],
     "SSTopics": [
       "Building Resilient and Sustainable Systems for Health"
-    ]
+    ],
+    "id": "mortalityattributedtononspreadingdiseasefemale_sdgmr"
   },
   {
     "IndicatorLabelTable": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70: Male",
@@ -6546,7 +6692,8 @@
     ],
     "SSTopics": [
       "Building Resilient and Sustainable Systems for Health"
-    ]
+    ],
+    "id": "mortalityattributedtononspreadingdiseasemale_sdgmr"
   },
   {
     "IndicatorLabelTable": "Proportion of population above statutory pensionable age receiving a pension, by sex (%), Total",
@@ -6591,7 +6738,8 @@
       "Informal Economy Facility",
       "Social Protection",
       "Aging"
-    ]
+    ],
+    "id": "receivingapensiontotal_sdgrap"
   },
   {
     "IndicatorLabelTable": "Proportion of population above statutory pensionable age receiving a pension, by sex (%), Male",
@@ -6636,7 +6784,8 @@
       "Informal Economy Facility",
       "Social Protection",
       "Aging"
-    ]
+    ],
+    "id": "receivingapensionmale_sdgrap"
   },
   {
     "IndicatorLabelTable": "Proportion of population above statutory pensionable age receiving a pension, by sex (%), Female",
@@ -6682,7 +6831,8 @@
       "Social Protection",
       "Aging",
       "Data for Social Norms change and Innovative Policies"
-    ]
+    ],
+    "id": "receivingapensionfemale_sdgrap"
   },
   {
     "IndicatorLabelTable": "Proportion of population above statutory pensionable age receiving a pension, by sex, percent: Female",
@@ -6729,7 +6879,8 @@
       "Social Protection",
       "Aging",
       "Data for Social Norms change and Innovative Policies"
-    ]
+    ],
+    "id": "personsaboveretirementagereceivingapensionfemale_ilospf"
   },
   {
     "IndicatorLabelTable": "Proportion of population above statutory pensionable age receiving a pension, by sex, percent: Male",
@@ -6776,7 +6927,8 @@
       "Social Protection",
       "Aging",
       "Data for Social Norms change and Innovative Policies"
-    ]
+    ],
+    "id": "personsaboveretirementagereceivingapensionmale_ilospf"
   },
   {
     "IndicatorLabelTable": "Population covered by at least one social protection benefit, percent",
@@ -6831,7 +6983,8 @@
       "Recognize, reduce and redistribute care",
       "Environmental Governance: Human Rights-based Approaches",
       "Implementing forest solutions with equity and integrity"
-    ]
+    ],
+    "id": "populationcoveredbyatleastonesocialprotectionbenefit_ilospf"
   },
   {
     "IndicatorLabelTable": "Mothers with newborns receiving maternity benefits, Females",
@@ -6879,7 +7032,8 @@
       "inclusive economies",
       "Social Protection",
       "States capabilities to deliver Gender Equality"
-    ]
+    ],
+    "id": "motherswithnewbornsreceivingmaternitybenefits_ilospf"
   },
   {
     "IndicatorLabelTable": "Vulnerable persons covered by social assistance",
@@ -6924,7 +7078,8 @@
       "Informal Economy Facility",
       "Prevention of Sexual Exploitation and abuse",
       "Social Protection"
-    ]
+    ],
+    "id": "vulnerablepersonscoveredbysocialassistance_ilospf"
   },
   {
     "IndicatorLabelTable": "Unemployed receiving unemployment benefits, percent",
@@ -6970,7 +7125,8 @@
       "Social Protection",
       "Poverty and Inequality Metrics",
       "Productivity and Resilience"
-    ]
+    ],
+    "id": "unemployedreceivingunemploymentbenefits_ilospf"
   },
   {
     "IndicatorLabelTable": "Poor persons covered by social protection systems, percent",
@@ -7019,7 +7175,8 @@
       "Informal Economy Facility",
       "Recognize, reduce and redistribute care",
       "Productivity and Resilience"
-    ]
+    ],
+    "id": "poorpersonscoveredbysocialprotectionsystems_ilospf"
   },
   {
     "IndicatorLabelTable": "Employed covered in the event of work injury, percent",
@@ -7064,7 +7221,8 @@
       "Informal Economy Facility",
       "Social Protection",
       "Futures of Work through a systems lens"
-    ]
+    ],
+    "id": "employedcoveredintheeventofworkinjury_ilospf"
   },
   {
     "IndicatorLabelTable": "Children/households receiving child/family cash benefits, percent",
@@ -7110,7 +7268,8 @@
       "Informal Economy Facility",
       "Social Protection",
       "Public Finance"
-    ]
+    ],
+    "id": "childrenorhouseholdsreceivingchildorfamilycashbenefits_ilospf"
   },
   {
     "IndicatorLabelTable": "Persons with severe disabilities collecting disability social protection benefits",
@@ -7160,7 +7319,8 @@
       "Social Protection",
       "Informal Economy Facility",
       "Recognize, reduce and redistribute care"
-    ]
+    ],
+    "id": "personswithseveredisabilitiescollectingdisabilitysocialprotectionbenefits_ilospf"
   },
   {
     "IndicatorLabelTable": "Persons above retirement age receiving a pension",
@@ -7205,7 +7365,8 @@
       "Informal Economy Facility",
       "Social Protection",
       "Aging"
-    ]
+    ],
+    "id": "personsaboveretirementagereceivingapension_ilospf"
   },
   {
     "IndicatorLabelTable": "Number of people living with HIV",
@@ -7245,7 +7406,8 @@
       "Promoting Effective and Inclusive Governance for HIV",
       "Support to the Global Fund and other Health Programmes",
       "Reducing Inequalities and Social Exclusion That Affect Health and Drive Epidemics"
-    ]
+    ],
+    "id": "estimatednumberofpeoplehwithhiv_whoephiv"
   },
   {
     "IndicatorLabelTable": "Percentage of informal employment",
@@ -7289,7 +7451,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Local Economic Development (LED)"
-    ]
+    ],
+    "id": "informalemploymentinnonagricultureemployment_ilopiena"
   },
   {
     "IndicatorLabelTable": "Internet users, total (% of population)",
@@ -7338,7 +7501,8 @@
       "Digital Governance",
       "Future of Work through a systems lens",
       "Informal Economy Facility"
-    ]
+    ],
+    "id": "internetusersofpopulation_ituict"
   },
   {
     "IndicatorLabelTable": "Current health expenditure (% of GDP)",
@@ -7387,7 +7551,8 @@
       "Energy and Health ",
       "States capabilities to deliver Gender Equality",
       "Recognize, reduce and redistribute care"
-    ]
+    ],
+    "id": "currenthealthexpenditure_whoche"
   },
   {
     "IndicatorLabelTable": "International migrant stock at mid-year (both sexes)",
@@ -7430,7 +7595,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Human Mobility"
-    ]
+    ],
+    "id": "internationalmigrantstock_imsmy"
   },
   {
     "IndicatorLabelTable": "Population using at least basic drinking-water services (%): Urban",
@@ -7476,7 +7642,8 @@
       "Urban Resilience",
       "Spatial Inequalities",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "populationusingbasicdrinkingwaterurban_cpiapbdwu"
   },
   {
     "IndicatorLabelTable": "Population using at least basic drinking-water services (%): Rural",
@@ -7520,7 +7687,8 @@
     "SSTopics": [
       "Spatial Inequalities",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "populationusingbasicdrinkingwaterrural_cpiapbdwr"
   },
   {
     "IndicatorLabelTable": "Political Terror Scale (1 to 5)",
@@ -7555,7 +7723,8 @@
     "SSTopics": [
       "Anti-corruption",
       "Civic Engagement"
-    ]
+    ],
+    "id": "politicalterrorscale_pts"
   },
   {
     "IndicatorLabelTable": "External Intervention",
@@ -7592,7 +7761,8 @@
     "SignatureSolution": [],
     "SSTopics": [
       ""
-    ]
+    ],
+    "id": "externalintervention_globaldatafsi"
   },
   {
     "IndicatorLabelTable": "Employment outside the formal sector (% of total employment; International Labour Organization; harmonized series)",
@@ -7636,7 +7806,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "infsizep_wb"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and age (thousands), Total, 15 and above",
@@ -7679,7 +7850,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "informalemploymentbysexandagethousandstotal15andabove_iloniflage"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and age (thousands), Male, 15 and above",
@@ -7722,7 +7894,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "informalemploymentbysexandagethousandsmale15andabove_iloniflage"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and age (thousands), Female, 15 and above",
@@ -7766,7 +7939,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "inclusive economies"
-    ]
+    ],
+    "id": "informalemploymentbysexandagethousandsfemale15andabove_iloniflage"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and age (thousands), Total, 15-24",
@@ -7810,7 +7984,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Youth Economic Empowerment"
-    ]
+    ],
+    "id": "informalemploymentbysexandagethousandstotal1524_iloniflage"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and age (thousands), Male, 15-24",
@@ -7854,7 +8029,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Youth Economic Empowerment"
-    ]
+    ],
+    "id": "informalemploymentbysexandagethousandsmale1524_iloniflage"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and age (thousands), Female, 15-24",
@@ -7899,7 +8075,8 @@
       "Informal Economy",
       "Youth Economic Empowerment",
       "inclusive economies"
-    ]
+    ],
+    "id": "informalemploymentbysexandagethousandsfemale1524_iloniflage"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and age (thousands), Total, 15-64",
@@ -7942,7 +8119,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "informalemploymentbysexandagethousandstotal1564_iloniflage"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and age (thousands), Male, 15-64",
@@ -7985,7 +8163,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "informalemploymentbysexandagethousandsmale1564_iloniflage"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and age (thousands), Female, 15-64",
@@ -8029,7 +8208,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "inclusive economies"
-    ]
+    ],
+    "id": "informalemploymentbysexandagethousandsfemale1564_iloniflage"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and age (thousands), Total, 25 and above",
@@ -8072,7 +8252,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "informalemploymentbysexandagethousandstotal25andabove_iloniflage"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and age (thousands), Male, 25 and above",
@@ -8115,7 +8296,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "informalemploymentbysexandagethousandsmale25andabove_iloniflage"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and age (thousands), Female, 25 and above",
@@ -8159,7 +8341,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "inclusive economies"
-    ]
+    ],
+    "id": "informalemploymentbysexandagethousandsfemale25andabove_iloniflage"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and age (%), Total, 15 and above",
@@ -8203,7 +8386,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandagetotal15andabove_iloniflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and age (%), Male, 15 and above",
@@ -8247,7 +8431,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandagemale15andabove_iloniflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and age (%), Female, 15 and above",
@@ -8292,7 +8477,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "inclusive economies"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandagefemale15andabove_iloniflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and age (%), Total, 15-24",
@@ -8337,7 +8523,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Youth Economic Empowerment"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandagetotal1524_iloniflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and age (%), Male, 15-24",
@@ -8382,7 +8569,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Youth Economic Empowerment"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandagemale1524_iloniflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and age (%), Female, 15-24",
@@ -8428,7 +8616,8 @@
       "Informal Economy",
       "Youth Economic Empowerment",
       "inclusive economies"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandagefemale1524_iloniflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and age (%), Total, 25 and above",
@@ -8472,7 +8661,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandagetotal25andabove_iloniflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and age (%), Male, 25 and above",
@@ -8516,7 +8706,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandagemale25andabove_iloniflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and age (%), Female, 25 and above",
@@ -8561,7 +8752,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "inclusive economies"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandagefemale25andabove_iloniflrtage"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and economic activity (thousands), Total, Agriculture",
@@ -8605,7 +8797,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Productivity and Resilience"
-    ]
+    ],
+    "id": "informalemploymentbysexandeconomicactivitythousandstotalagriculture_ilonifleco"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and economic activity (thousands), Male, Agriculture",
@@ -8649,7 +8842,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Productivity and Resilience"
-    ]
+    ],
+    "id": "informalemploymentbysexandeconomicactivitythousandsmaleagriculture_ilonifleco"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and economic activity (thousands), Female, Agriculture",
@@ -8693,7 +8887,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Productivity and Resilience"
-    ]
+    ],
+    "id": "informalemploymentbysexandeconomicactivitythousandsfemaleagriculture_ilonifleco"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and economic activity (thousands), Total, Non-agriculture",
@@ -8737,7 +8932,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Local Economic Development (LED)"
-    ]
+    ],
+    "id": "informalemploymentbysexandeconomicactivitythousandstotalnonagriculture_ilonifleco"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and economic activity (thousands), Male, Non-agriculture",
@@ -8781,7 +8977,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Local Economic Development (LED)"
-    ]
+    ],
+    "id": "informalemploymentbysexandeconomicactivitythousandsmalenonagriculture_ilonifleco"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and economic activity (thousands), Female, Non-agriculture",
@@ -8825,7 +9022,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Local Economic Development (LED)"
-    ]
+    ],
+    "id": "informalemploymentbysexandeconomicactivitythousandsfemalenonagriculture_ilonifleco"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and economic activity (%), Total, Agriculture",
@@ -8869,7 +9067,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandeconomicactivitytotalagriculture_iloniflrteco"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and economic activity (%), Male, Agriculture",
@@ -8913,7 +9112,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandeconomicactivitymaleagriculture_iloniflrteco"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and economic activity (%), Female, Agriculture",
@@ -8957,7 +9157,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandeconomicactivityfemaleagriculture_iloniflrteco"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and economic activity (%), Total, Non-agriculture",
@@ -9001,7 +9202,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Local Economic Development (LED)"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandeconomicactivitytotalnonagriculture_iloniflrteco"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and economic activity (%), Male, Non-agriculture",
@@ -9045,7 +9247,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Local Economic Development (LED)"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandeconomicactivitymalenonagriculture_iloniflrteco"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and economic activity (%), Female, Non-agriculture",
@@ -9089,7 +9292,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Local Economic Development (LED)"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandeconomicactivityfemalenonagriculture_iloniflrteco"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and status in employment (thousands), Total, Employees",
@@ -9132,7 +9336,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "informalemploymentbysexandstatusinemploymentthousandstotalemployees_iloniflste"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and status in employment (thousands), Male, Employees",
@@ -9176,7 +9381,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "informalemploymentbysexandstatusinemploymentthousandsmaleemployees_iloniflste"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and status in employment (thousands), Female, Employees",
@@ -9220,7 +9426,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "informalemploymentbysexandstatusinemploymentthousandsfemaleemployees_iloniflste"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and status in employment (thousands), Total, Self-employed",
@@ -9263,7 +9470,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "informalemploymentbysexandstatusinemploymentthousandstotalselfemployed_iloniflste"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and status in employment (thousands), Male, Self-employed",
@@ -9307,7 +9515,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "informalemploymentbysexandstatusinemploymentthousandsmaleselfemployed_iloniflste"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and status in employment (thousands), Female, Self-employed",
@@ -9351,7 +9560,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "informalemploymentbysexandstatusinemploymentthousandsfemaleselfemployed_iloniflste"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and status in employment (thousands), Total, Not classified",
@@ -9394,7 +9604,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "informalemploymentbysexandstatusinemploymentthousandsnotclotalassified_iloniflste"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and status in employment (thousands), Male, Not classified",
@@ -9438,7 +9649,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "informalemploymentbysexandstatusinemploymentthousandsmalenotclassified_iloniflste"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex and status in employment (thousands), Female, Not classified",
@@ -9482,7 +9694,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "informalemploymentbysexandstatusinemploymentthousandsfemalenotclassified_iloniflste"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and status in employment (%), Total, Employees",
@@ -9526,7 +9739,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandstatusinemploymenttotalemployees_iloniflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and status in employment (%), Male, Employees",
@@ -9571,7 +9785,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandstatusinemploymentmaleemployees_iloniflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and status in employment (%), Female, Employees",
@@ -9616,7 +9831,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandstatusinemploymentfemaleemployees_iloniflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and status in employment (%), Total, Self-employed",
@@ -9660,7 +9876,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandstatusinemploymenttotalselfemployed_iloniflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and status in employment (%), Male, Self-employed",
@@ -9705,7 +9922,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandstatusinemploymentmaleselfemployed_iloniflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and status in employment (%), Female, Self-employed",
@@ -9750,7 +9968,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandstatusinemploymentfemaleselfemployed_iloniflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and status in employment (%), Total, Not classified",
@@ -9794,7 +10013,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandstatusinemploymenttotalnotclassified_iloniflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and status in employment (%), Male, Not classified",
@@ -9839,7 +10059,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandstatusinemploymentmalenotclassified_iloniflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex and status in employment (%), Female, Not classified",
@@ -9884,7 +10105,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexandstatusinemploymentfemalenotclassified_iloniflrtste"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and age (thousands), Total, 15 and above",
@@ -9927,7 +10149,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandagethousandstotal15andabove_ilopiflage"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and age (thousands), Male, 15 and above",
@@ -9970,7 +10193,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandagethousandsmale15andabove_ilopiflage"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and age (thousands), Female, 15 and above",
@@ -10015,7 +10239,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Future-proof and resilient jobs for women"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandagethousandsfemale15andabove_ilopiflage"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and age (thousands), Total, 15-24",
@@ -10058,7 +10283,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Youth Economic Empowerment"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandagethousandstotal1524_ilopiflage"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and age (thousands), Male, 15-24",
@@ -10101,7 +10327,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Youth Economic Empowerment"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandagethousandsmale1524_ilopiflage"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and age (thousands), Female, 15-24",
@@ -10146,7 +10373,8 @@
       "Informal Economy Facility",
       "Youth Economic Empowerment",
       "Future-proof and resilient jobs for women"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandagethousandsfemale1524_ilopiflage"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and age (thousands), Total, 15-64",
@@ -10189,7 +10417,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandagethousandstotal1564_ilopiflage"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and age (thousands), Male, 15-64",
@@ -10232,7 +10461,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandagethousandsmale1564_ilopiflage"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and age (thousands), Female, 15-64",
@@ -10277,7 +10507,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Future-proof and resilient jobs for women"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandagethousandsfemale1564_ilopiflage"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and age (thousands), Total, 25 and above",
@@ -10320,7 +10551,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandagethousandstotal25andabove_ilopiflage"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and age (thousands), Male, 25 and above",
@@ -10363,7 +10595,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandagethousandsmale25andabove_ilopiflage"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and age (thousands), Female, 25 and above",
@@ -10408,7 +10641,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Future-proof and resilient jobs for women"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandagethousandsfemale25andabove_ilopiflage"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and age (%), Total, 15 and above",
@@ -10452,7 +10686,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandagetotal15andabove_iloipflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and age (%), Male, 15 and above",
@@ -10496,7 +10731,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandagemale15andabove_iloipflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and age (%), Female, 15 and above",
@@ -10543,7 +10779,8 @@
       "Informal Economy",
       "inclusive economies",
       "Future-proof and resilient jobs for women"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandagefemale15andabove_iloipflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and age (%), Total, 15-24",
@@ -10588,7 +10825,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Youth Economic Empowerment"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandagetotal1524_iloipflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and age (%), Male, 15-24",
@@ -10633,7 +10871,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Youth Economic Empowerment"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandagemale1524_iloipflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and age (%), Female, 15-24",
@@ -10681,7 +10920,8 @@
       "inclusive economies",
       "Youth Economic Empowerment",
       "Informal Economy Facility"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandagefemale1524_iloipflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and age (%), Total, 25 and above",
@@ -10725,7 +10965,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandagetotal25andabove_iloipflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and age (%), Male, 25 and above",
@@ -10770,7 +11011,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandagemale25andabove_iloipflrtage"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and age (%), Female, 25 and above",
@@ -10818,7 +11060,8 @@
       "Informal Economy",
       "inclusive economies",
       "Informal Economy Facility"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandagefemale25andabove_iloipflrtage"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and economic activity (thousands), Total, Agriculture",
@@ -10861,7 +11104,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandeconomicactivitythousandstotalagriculture_ilopifleco"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and economic activity (thousands), Male, Agriculture",
@@ -10904,7 +11148,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandeconomicactivitythousandsmaleagriculture_ilopifleco"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and economic activity (thousands), Female, Agriculture",
@@ -10949,7 +11194,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Future-proof and resilient jobs for women"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandeconomicactivitythousandsfemaleagriculture_ilopifleco"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and economic activity (thousands), Total, Non-agriculture",
@@ -10992,7 +11238,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Local Economic Development (LED)"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandeconomicactivitythousandstotalnonagriculture_ilopifleco"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and economic activity (thousands), Male, Non-agriculture",
@@ -11035,7 +11282,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Local Economic Development (LED)"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandeconomicactivitythousandsmalenonagriculture_ilopifleco"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and economic activity (thousands), Female, Non-agriculture",
@@ -11080,7 +11328,8 @@
       "Informal Economy Facility",
       "Local Economic Development (LED)",
       "Future-proof and resilient jobs for women"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandeconomicactivitythousandsfemalenonagriculture_ilopifleco"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and economic activity (%), Total, Agriculture",
@@ -11124,7 +11373,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandeconomicactivitytotalagriculture_ilopiflrteco"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and economic activity (%), Male, Agriculture",
@@ -11169,7 +11419,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandeconomicactivitymaleagriculture_ilopiflrteco"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and economic activity (%), Female, Agriculture",
@@ -11216,7 +11467,8 @@
       "Informal Economy",
       "Future-proof and resilient jobs for women",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandeconomicactivityfemaleagriculture_ilopiflrteco"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and economic activity (%), Total, Non-agriculture",
@@ -11261,7 +11513,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Local Economic Development (LED)"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandeconomicactivitytotalnonagriculture_ilopiflrteco"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and economic activity (%), Male, Non-agriculture",
@@ -11306,7 +11559,8 @@
       "Informal Economy Facility",
       "Local Economic Development (LED)",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandeconomicactivitymalenonagriculture_ilopiflrteco"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and economic activity (%), Female, Non-agriculture",
@@ -11353,7 +11607,8 @@
       "Local Economic Development (LED)",
       "Future-proof and resilient jobs for women",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandeconomicactivityfemalenonagriculture_ilopiflrteco"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and status in employment (thousands), Total, Employees",
@@ -11396,7 +11651,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandstatusinemploymentthousandstotalemployees_ilopiflste"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and status in employment (thousands), Male, Employees",
@@ -11439,7 +11695,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandstatusinemploymentthousandsmaleemployees_ilopiflste"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and status in employment (thousands), Female, Employees",
@@ -11484,7 +11741,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Future-proof and resilient jobs for women"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandstatusinemploymentthousandsfemaleemployees_ilopiflste"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and status in employment (thousands), Total, Self-employed",
@@ -11527,7 +11785,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandstatusinemploymentthousandstotalselfemployed_ilopiflste"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and status in employment (thousands), Male, Self-employed",
@@ -11570,7 +11829,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandstatusinemploymentthousandsmaleselfemployed_ilopiflste"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and status in employment (thousands), Female, Self-employed",
@@ -11615,7 +11875,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Future-proof and resilient jobs for women"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandstatusinemploymentthousandsfemaleselfemployed_ilopiflste"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and status in employment (thousands), Total, Not classified",
@@ -11658,7 +11919,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandstatusinemploymentthousandstotalnotclassified_ilopiflste"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and status in employment (thousands), Male, Not classified",
@@ -11701,7 +11963,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandstatusinemploymentthousandsmalenotclassified_ilopiflste"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex and status in employment (thousands), Female, Not classified",
@@ -11746,7 +12009,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Future-proof and resilient jobs for women"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexandstatusinemploymentthousandsfemalenotclassified_ilopiflste"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and status in employment (%), Total, Employees",
@@ -11790,7 +12054,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymenttotalemployees_ilopiflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and status in employment (%), Male, Employees",
@@ -11834,7 +12099,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymentmaleemployees_ilopiflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and status in employment (%), Female, Employees",
@@ -11880,7 +12146,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Future-proof and resilient jobs for women"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymentfemaleemployees_ilopiflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and status in employment (%), Total, Self-employed",
@@ -11924,7 +12191,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymenttotalselfemployed_ilopiflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and status in employment (%), Male, Self-employed",
@@ -11968,7 +12236,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymentmaleselfemployed_ilopiflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and status in employment (%), Female, Self-employed",
@@ -12012,7 +12281,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymentfemaleselfemployed_ilopiflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and status in employment (%), Total, Not classified",
@@ -12056,7 +12326,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymenttotalnotclassified_ilopiflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and status in employment (%), Male, Not classified",
@@ -12100,7 +12371,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymentmalenotclassified_ilopiflrtste"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex and status in employment (%), Female, Not classified",
@@ -12144,7 +12416,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymentfemalenotclassified_ilopiflrtste"
   },
   {
     "IndicatorLabelTable": "Dynamic general equilibrium model-based (DGE) estimates of informal output (% of official GDP)",
@@ -12188,7 +12461,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Productivity and Resilience"
-    ]
+    ],
+    "id": "dge_wb"
   },
   {
     "IndicatorLabelTable": "Percent of firms competing against unregistered or informal firms (World Bank Enterprise Surveys)",
@@ -12232,7 +12506,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)"
-    ]
+    ],
+    "id": "wbentp1_wb"
   },
   {
     "IndicatorLabelTable": "Percent of firms formally registered when they started operations in the country (World Bank Enterprise Surveys)",
@@ -12276,7 +12551,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)"
-    ]
+    ],
+    "id": "wbentp2_wb"
   },
   {
     "IndicatorLabelTable": "Number of years firm operated without formal registration (World Bank Enterprise Surveys)",
@@ -12320,7 +12596,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Micro, Small, and Medium-sized Enterprises (MSMEs)"
-    ]
+    ],
+    "id": "wbentp3_wb"
   },
   {
     "IndicatorLabelTable": "Renewable energy consumption (% of total final energy consumption)",
@@ -12379,7 +12656,8 @@
       "Just Green Transition",
       "Energy Access",
       "Planetary health, including environment, climate, energy and health"
-    ]
+    ],
+    "id": "data_energy_consumption_wb"
   },
   {
     "IndicatorLabelTable": "Energy imports, net (% of energy use)",
@@ -12427,7 +12705,8 @@
       "Energy Governance",
       "Just Energy Transition",
       "Energy Access"
-    ]
+    ],
+    "id": "data_energy_imports_wb"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex (%), Female",
@@ -12473,7 +12752,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Future-proof and resilient jobs for women"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexthousandsfemale_ilopiflrt"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex (%), Male",
@@ -12517,7 +12797,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexthousandsmale_ilopiflrt"
   },
   {
     "IndicatorLabelTable": "Share of Employment outside the Formal Sector by sex (%), Total",
@@ -12561,7 +12842,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofemployementoutsidetheformalsectorbysexthousandstotal_ilopiflrt"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex (%), Female",
@@ -12608,7 +12890,8 @@
       "Informal Economy",
       "Future-proof and resilient jobs for women",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexthousandsfemale_iloniflrt"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex (%), Male",
@@ -12653,7 +12936,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexthousandsmale_iloniflrt"
   },
   {
     "IndicatorLabelTable": "Share of Informal employment by sex (%), Total",
@@ -12697,7 +12981,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "shareofinformalemploymentbysexthousandstotal_iloniflrt"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex (thousands), Female",
@@ -12743,7 +13028,8 @@
       "Informal Economy",
       "Jobs",
       "Future-proof and resilient jobs for women"
-    ]
+    ],
+    "id": "Informalemploymentbysexthousandsfemale"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex (thousands), Male",
@@ -12787,7 +13073,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Jobs"
-    ]
+    ],
+    "id": "Informalemploymentbysexthousandsmale_ilolfs"
   },
   {
     "IndicatorLabelTable": "Informal employment by sex (thousands), Total",
@@ -12831,7 +13118,8 @@
       "Informal Economy Facility",
       "Informal Economy",
       "Jobs"
-    ]
+    ],
+    "id": "Informalemploymentbysexthousandstotal_ilolfs"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex (thousands), Female",
@@ -12874,7 +13162,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexthousandsfemale_ilopiflnb"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex (thousands), Male",
@@ -12917,7 +13206,8 @@
     "SSTopics": [
       "Informal Economy Facility",
       "Informal Economy"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexthousandsmale_ilopiflnb"
   },
   {
     "IndicatorLabelTable": "Employment outside the Formal Sector by sex (thousands), Total",
@@ -12969,7 +13259,8 @@
       "Just Energy Transition",
       "Informal Economy Facility",
       "Energy Access"
-    ]
+    ],
+    "id": "employementoutsidetheformalsectorbysexthousandstotal_ilopiflnb"
   },
   {
     "IndicatorLabelTable": "Primary energy consumption per capita, measured in kilowatt-hours",
@@ -13024,7 +13315,8 @@
       "Energy and Health",
       "Sustainable Energy",
       "Energy Access"
-    ]
+    ],
+    "id": "energypercapita_owided"
   },
   {
     "IndicatorLabelTable": "Primary energy consumption from coal",
@@ -13076,7 +13368,8 @@
       "Energy and Health",
       "Sustainable Energy",
       "Energy Access"
-    ]
+    ],
+    "id": "coalconsumption_owided"
   },
   {
     "IndicatorLabelTable": "Access to electricity (% of population)",
@@ -13131,7 +13424,8 @@
       "Energy and Health",
       "Sustainable Energy",
       "Energy Access"
-    ]
+    ],
+    "id": "access_elec_wb"
   },
   {
     "IndicatorLabelTable": "Access to electricity, urban (% of urban population)",
@@ -13186,7 +13480,8 @@
       "Energy and Health",
       "Sustainable Energy",
       "Energy Access"
-    ]
+    ],
+    "id": "access_elec_urban_wb"
   },
   {
     "IndicatorLabelTable": "Access to electricity, rural (% of rural population)",
@@ -13241,7 +13536,8 @@
       "Energy and Health",
       "Sustainable Energy",
       "Energy Access"
-    ]
+    ],
+    "id": "access_elec_rural_wb"
   },
   {
     "IndicatorLabelTable": "Access to clean fuels and technologies for cooking (% of population)",
@@ -13291,7 +13587,8 @@
       "Energy and Health",
       "Sustainable Energy",
       "Energy Access"
-    ]
+    ],
+    "id": "access_fuel_tech_wb"
   },
   {
     "IndicatorLabelTable": "Electricity generation from coal, measured in terawatt-hours",
@@ -13340,7 +13637,8 @@
       "Energy and Health",
       "Sustainable Energy",
       "Energy Access"
-    ]
+    ],
+    "id": "coalelectricity_owided"
   },
   {
     "IndicatorLabelTable": "Gross National Income Per Capita (2017 PPP$)",
@@ -13383,7 +13681,8 @@
       "Informal Economy Facility",
       "Development Planning",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "gross_national_income_per_capita_hdr"
   },
   {
     "IndicatorLabelTable": "Gross National Income Per Capita, female (2017 PPP$)",
@@ -13425,7 +13724,8 @@
     ],
     "SSTopics": [
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "gross_national_income_per_capita_female_hdr"
   },
   {
     "IndicatorLabelTable": "Gross National Income Per Capita, male (2017 PPP$)",
@@ -13467,7 +13767,8 @@
     ],
     "SSTopics": [
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "gross_national_income_per_capita_male_hdr"
   },
   {
     "IndicatorLabelTable": "Human Development Index (female)",
@@ -13504,7 +13805,8 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "human_development_index_female_hdr"
   },
   {
     "IndicatorLabelTable": "Human Development Index (male)",
@@ -13541,7 +13843,8 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "human_development_index_male_hdr"
   },
   {
     "IndicatorLabelTable": "Planetary pressures adjusted Human Development Index (value)",
@@ -13580,7 +13883,8 @@
       "Green Economy",
       "Just Green Transition",
       "Planetary health, including environment, climate, energy and health"
-    ]
+    ],
+    "id": "planetary_pressures_adjusted_human_development_index_value_hdr"
   },
   {
     "IndicatorLabelTable": "Gender inequality index - men share of parliament seats",
@@ -13627,7 +13931,8 @@
       "States capabilities to deliver Gender Equality",
       "Parliamentary Development",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "share_of_seats_in_parliament_male_held_by_men_hdr"
   },
   {
     "IndicatorLabelTable": "Expected Years of Schooling",
@@ -13669,7 +13974,8 @@
     "SSTopics": [
       "Socio-Economic Mobility",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "expected_years_of_schooling_hdr"
   },
   {
     "IndicatorLabelTable": "Expected Years of Schooling, female",
@@ -13711,7 +14017,8 @@
     "SSTopics": [
       "Socio-Economic Mobility",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "expected_years_of_schooling_female_hdr"
   },
   {
     "IndicatorLabelTable": "Expected Years of Schooling, male",
@@ -13753,7 +14060,8 @@
     "SSTopics": [
       "Socio-Economic Mobility",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "expected_years_of_schooling_male_hdr"
   },
   {
     "IndicatorLabelTable": "Mean Years of Schooling",
@@ -13795,7 +14103,8 @@
     "SSTopics": [
       "Socio-Economic Mobility",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "mean_years_of_schooling_years_hdr"
   },
   {
     "IndicatorLabelTable": "Mean Years of Schooling, female",
@@ -13838,7 +14147,8 @@
     "SSTopics": [
       "Socio-Economic Mobility",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "mean_years_of_schooling_female_years_hdr"
   },
   {
     "IndicatorLabelTable": "Mean Years of Schooling, male",
@@ -13881,7 +14191,8 @@
     "SSTopics": [
       "Socio-Economic Mobility",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "mean_years_of_schooling_male_years_hdr"
   },
   {
     "IndicatorLabelTable": "Gender Development Index",
@@ -13924,7 +14235,8 @@
     "SSTopics": [
       "Poverty and Inequality Metrics",
       "Women's Economic Empowerment"
-    ]
+    ],
+    "id": "gender_development_index_hdr"
   },
   {
     "IndicatorLabelTable": "Carbon dioxide emissions per capita (production) (tonnes)",
@@ -13981,7 +14293,8 @@
       "Sustainable Energy",
       "Energy Access",
       "Planetary health, including environment, climate, energy and health"
-    ]
+    ],
+    "id": "carbon_dioxide_emissions_per_capita_hdr"
   },
   {
     "IndicatorLabelTable": "Life Expectancy at Birth",
@@ -14023,7 +14336,8 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "life_expectancy_at_birth_years_hdr"
   },
   {
     "IndicatorLabelTable": "Life Expectancy at Birth, male",
@@ -14066,7 +14380,8 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "life_expectancy_at_birth_male_years_hdr"
   },
   {
     "IndicatorLabelTable": "Life Expectancy at Birth, female",
@@ -14109,7 +14424,8 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "life_expectancy_at_birth_female_years_hdr"
   },
   {
     "IndicatorLabelTable": "Material footprint per capita (tonnes)",
@@ -14153,7 +14469,8 @@
       "Cold Chain",
       "Environmental Governance: Sustainable Production",
       "Planetary health, including environment, climate, energy and health"
-    ]
+    ],
+    "id": "material_footprint_per_capita_tonnes_hdr"
   },
   {
     "IndicatorLabelTable": "Inequality in life expectancy",
@@ -14197,7 +14514,8 @@
     "SSTopics": [
       "Spatial Inequalities",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "inequality_in_life_expectancy_hdr"
   },
   {
     "IndicatorLabelTable": "Inequality in education",
@@ -14241,7 +14559,8 @@
     "SSTopics": [
       "Spatial Inequalities",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "inequality_in_eduation_hdr"
   },
   {
     "IndicatorLabelTable": "Inequality in income",
@@ -14287,7 +14606,8 @@
     "SSTopics": [
       "Spatial Inequalities",
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "inequality_in_income_hdr"
   },
   {
     "IndicatorLabelTable": "Coefficient of human inequality",
@@ -14330,7 +14650,8 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "coefficient_of_human_inequality_hdr"
   },
   {
     "IndicatorLabelTable": "Difference from HDI value (%)",
@@ -14374,7 +14695,8 @@
     "SSTopics": [
       "Development Planning",
       "Planetary health, including environment, climate, energy and health"
-    ]
+    ],
+    "id": "difference_from_hdi_value_hdr"
   },
   {
     "IndicatorLabelTable": "% difference between HDI and inequality-adjusted HDI",
@@ -14418,7 +14740,8 @@
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics"
-    ]
+    ],
+    "id": "overall_loss_hdr"
   },
   {
     "IndicatorLabelTable": "Chemicals (% of value added in manufacturing)",
@@ -14463,7 +14786,8 @@
       "Mercury",
       "Chemicals and Waste: HFCs",
       "Chemicals and Waste: Heavy metals"
-    ]
+    ],
+    "id": "chemicals_value_added_manufacturing_wb"
   },
   {
     "IndicatorLabelTable": "Forest area (% of land area)",
@@ -14514,7 +14838,8 @@
       "Just Green Transition",
       "Forest sector NDC ambition and UNFCCC alignment",
       "Implementing forest solutions with equity and integrity"
-    ]
+    ],
+    "id": "forest_area_wb"
   },
   {
     "IndicatorLabelTable": "Percent of population affected by droughts, floods, extreme temperatures (average 1990-2009)",
@@ -14560,7 +14885,8 @@
       "Climate Change Adaptation: Cross-sectoral climate resilient livelihoods",
       "Climate Change Adaptation: Fostering Food Security and resilient Agricultural systems",
       "Climate Change Adaptation: Coastal Adaptation"
-    ]
+    ],
+    "id": "dfet_population_average_wb"
   },
   {
     "IndicatorLabelTable": "Ores and metals exports (% of merchandise exports)",
@@ -14605,7 +14931,8 @@
       "Chemicals and Waste: Heavy metals",
       "Secondary metals",
       "Mercury"
-    ]
+    ],
+    "id": "ores_metals_exports_wb"
   },
   {
     "IndicatorLabelTable": "Renewable internal freshwater resources per capita (cubic meters)",
@@ -14660,7 +14987,8 @@
       "NBSAP",
       "Water and Ocean: Protection of Transboundary Surface and Groundwater Resources in a Changing Climate",
       "Planetary health, including environment, climate, energy and health"
-    ]
+    ],
+    "id": "renewable_internal_freshwater_resources_wb"
   },
   {
     "IndicatorLabelTable": "Climate vulnerability ranking",
@@ -14704,7 +15032,8 @@
       "Climate Change Adaptation: Coastal Adaptation",
       "Climate Change Adaptation: Climate Information and Early Warning Systems (CI and EWS)",
       "Planetary health, including environment, climate, energy and health"
-    ]
+    ],
+    "id": "vulnerability_rank_cw"
   },
   {
     "IndicatorLabelTable": "Climate Risks Index Ranking",
@@ -14751,7 +15080,8 @@
       "Climate change adaptation policy and planning: National Adaptation Plans",
       "Climate Change Adaptation: Fostering Resilience for Food Security",
       "Climate Change Adaptation: Climate Information and Early Warning Systems (CI and EWS)"
-    ]
+    ],
+    "id": "climate_risks_rank_cw"
   },
   {
     "IndicatorLabelTable": "Climate Change Readiness Ranking",
@@ -14791,7 +15121,8 @@
     ],
     "SSTopics": [
       "Climate Change Adaptation: Cross-sectoral climate resilient livelihoods"
-    ]
+    ],
+    "id": "readiness_rank_nd"
   },
   {
     "IndicatorLabelTable": "Climate Risks Index Score",
@@ -14837,7 +15168,8 @@
       "Risk-informed Development: Integrating/Mainstreaming Disaster Risk Reduction and Climate Adaptation into Development",
       "Early Warning, Anticipation and Preparedness",
       "Climate Change Adaptation: Climate Information and Early Warning Systems (CI and EWS)"
-    ]
+    ],
+    "id": "climate_risks_index_cw"
   },
   {
     "IndicatorLabelTable": "Climate Change Readiness Score",
@@ -14886,7 +15218,8 @@
       "Ecosystems and Biodiversity: Biodiversity Mainstreaming",
       "Climate Change Adaptation: Ecosystem-based Adaptation",
       "Planetary health, including environment, climate, energy and health"
-    ]
+    ],
+    "id": "readiness_index_nd"
   },
   {
     "IndicatorLabelTable": "Air pollution deaths from fossil fuels",
@@ -14930,7 +15263,8 @@
       "Environmental Governance: Poverty-Environment",
       "Environmental Governance: One Health Approaches",
       "Climate Change Adaptation: Climate change and Health"
-    ]
+    ],
+    "id": "pollution_deaths_fossil_fuels_owid"
   },
   {
     "IndicatorLabelTable": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
@@ -14975,7 +15309,8 @@
       "Water and Ocean: Climate Resilient Integrated Water Resource and Coastal Area Management",
       "Water and Ocean: Protection of Transboundary Surface and Groundwater Resources in a Changing Climate",
       "Planetary health, including environment, climate, energy and health"
-    ]
+    ],
+    "id": "level _of_water_stress_wb"
   },
   {
     "IndicatorLabelTable": "Consumption of controlled substance (zero-filled) - Chemical: Hydrochlorofluorocarbons (HCFCs)",
@@ -15021,7 +15356,8 @@
       "Chemicals and Waste: HFCs",
       "Chemicals and Waste: Heavy metals",
       "Planetary health, including environment, climate, energy and health"
-    ]
+    ],
+    "id": "consumption_of_controlled_substance_hydrochlorofluorocarbons_owid"
   },
   {
     "IndicatorLabelTable": "Consumption of controlled substance (zero-filled) - Chemical: Total",
@@ -15065,7 +15401,8 @@
       "Chemicals and Waste: Waste Management",
       "Chemicals and Waste: Ozone Depleting Substances",
       "Planetary health, including environment, climate, energy and health"
-    ]
+    ],
+    "id": "consumption_of_controlled_substance_total_owid"
   },
   {
     "IndicatorLabelTable": "Health Service Provision (IHR SPAR)",
@@ -15109,7 +15446,8 @@
     ],
     "SSTopics": [
       "Health Emergencies, including surge capacity and support"
-    ]
+    ],
+    "id": "health_service_provision"
   },
   {
     "IndicatorLabelTable": "National Health Emergency Framework (IHR SPAR)",
@@ -15153,7 +15491,8 @@
     ],
     "SSTopics": [
       "Health Emergencies, including surge capacity and support"
-    ]
+    ],
+    "id": "national_health_emergency_framework"
   },
   {
     "IndicatorLabelTable": "Legislation and Financing (IHR SPAR)",
@@ -15196,7 +15535,8 @@
     ],
     "SSTopics": [
       "Legal, policy and regulatory environments for HIV and health"
-    ]
+    ],
+    "id": "legislation_and_financing"
   },
   {
     "IndicatorLabelTable": "Proportion of forest area with a long-term management plan",
@@ -15241,7 +15581,8 @@
     ],
     "SSTopics": [
       "Planetary health, including environment, climate, energy and health"
-    ]
+    ],
+    "id": "proportion_of_forest_area_with_long_term_management_plan"
   },
   {
     "IndicatorLabelTable": "Proportion of forest area within legally established protected areas (%)",
@@ -15286,7 +15627,8 @@
     ],
     "SSTopics": [
       "Planetary health, including environment, climate, energy and health"
-    ]
+    ],
+    "id": "percentage_of_forest_area_within_legally_established_protected_areas"
   },
   {
     "IndicatorLabelTable": "Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
@@ -15329,7 +15671,8 @@
     ],
     "SSTopics": [
       "Climate Change Adaptation: Climate change and Health"
-    ]
+    ],
+    "id": "climate_change_related_change_in_death_rater_per_100000_population_45"
   },
   {
     "IndicatorLabelTable": "Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
@@ -15372,7 +15715,8 @@
     ],
     "SSTopics": [
       "Climate Change Adaptation: Climate change and Health"
-    ]
+    ],
+    "id": "climate_change_related_change_in_death_rater_per_100000_population_85"
   },
   {
     "IndicatorLabelTable": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)",
@@ -15415,7 +15759,8 @@
     ],
     "SSTopics": [
       "Disaster Risk Reduction: Health Risk Management"
-    ]
+    ],
+    "id": "proportion_local_governments_that_adopt_and_implement_local_disaster_risk_reduction_strategies_in_line_with_national_disaster_risk_reduction_strategies"
   },
   {
     "IndicatorLabelTable": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework",
@@ -15458,7 +15803,8 @@
     ],
     "SSTopics": [
       "Disaster Risk Reduction: Health Risk Management"
-    ]
+    ],
+    "id": "score_of_adoption_and_implementation_of_national_drr_strategies_sendai_framework"
   },
   {
     "IndicatorLabelTable": "Women's share of population ages 15+ living with HIV (%)",
@@ -15501,7 +15847,8 @@
     ],
     "SSTopics": [
       "Gender equality and empowering women and girls in the context of HIV and health"
-    ]
+    ],
+    "id": "women_share_of_population_living_with_hiv_15_plus"
   },
   {
     "DataKey": "Healthcare facilities basic waste management services- hospital",
@@ -15545,7 +15892,8 @@
     ],
     "SSTopics": [
       "Health waste management"
-    ]
+    ],
+    "id": "healthcare_facilities_basic_waste_management_services"
   },
   {
     "DataKey": "Healthcare facilities- No waste management service- non-hospital",
@@ -15589,7 +15937,8 @@
     ],
     "SSTopics": [
       "Health waste management"
-    ]
+    ],
+    "id": "healthcare_facilities_no_waste_management_service_non_hospital"
   },
   {
     "IndicatorLabelTable": "People Denied health services because of their HIV status in the last 12 months",
@@ -15632,7 +15981,8 @@
     ],
     "SSTopics": [
       "Inclusion and rights of key populations at risk of HIV and other excluded groups"
-    ]
+    ],
+    "id": "people_denied_health_services_because_of_hiv_last_12_months"
   },
   {
     "IndicatorLabelTable": "Prevalence of HIV, total (% of population ages 15-49): Q1 (lowest)",
@@ -15675,7 +16025,8 @@
     "SSTopics": [
       "Inclusive social protection in the context of HIV and health",
       "Inclusion and rights of key populations at risk of HIV and other excluded groups"
-    ]
+    ],
+    "id": "prevalence_of_hiv_total_perc_of_population_ages_15_49_q1"
   },
   {
     "IndicatorLabelTable": "Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure (%)",
@@ -15720,7 +16071,8 @@
     "SSTopics": [
       "Inclusive social protection in the context of HIV and health",
       "Universal Health Coverage"
-    ]
+    ],
+    "id": "proportion_of_population_pushed_below_60_perc_median_consumption_poverty_line_by_out_of_pocket_expenditure"
   },
   {
     "IndicatorLabelTable": "Mental hospitals (per 100,000)",
@@ -15763,7 +16115,8 @@
     "SSTopics": [
       "Mental Health and Psychosocial Support in Prevention and Peacebuilding",
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
-    ]
+    ],
+    "id": "mental_hospitals_per_100000"
   },
   {
     "IndicatorLabelTable": "Prevalence of Mental health disorders: Both (age-standardized percent)",
@@ -15806,7 +16159,8 @@
     "SSTopics": [
       "Mental Health and Psychosocial Support in Prevention and Peacebuilding",
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
-    ]
+    ],
+    "id": "prevalence_of_mental_health_disorders"
   },
   {
     "IndicatorLabelTable": "Global Health Security Index",
@@ -15850,7 +16204,8 @@
     ],
     "SSTopics": [
       "Pandemic preparedness and response"
-    ]
+    ],
+    "id": "global_health_security_index"
   },
   {
     "IndicatorLabelTable": "Zoonotic Events and the Human-animal Interface (IHR SPAR)",
@@ -15896,7 +16251,8 @@
       "Pandemic preparedness and response",
       "Environmental Governance: One Health Approaches",
       "Health Emergencies, including surge capacity and support"
-    ]
+    ],
+    "id": "zoonotic_events_and_the_human_animal_interface"
   },
   {
     "IndicatorLabelTable": "Births attended by skilled health personnel (%)",
@@ -15939,7 +16295,8 @@
     ],
     "SSTopics": [
       "Sexual and reproductive health and rights"
-    ]
+    ],
+    "id": "births_attended_by_skilled_health_personnel"
   },
   {
     "IndicatorLabelTable": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)",
@@ -15982,7 +16339,8 @@
     ],
     "SSTopics": [
       "Sexual and reproductive health and rights"
-    ]
+    ],
+    "id": "extent_to_which_countries_have_laws_and_regulations_that_guarantee_full_and_equal_access_to_women_and_men_aged_15_years_plus_to_sexual_and_reproductive_health_care_information_and_education"
   },
   {
     "IndicatorLabelTable": "Domestic General Government Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs), as % of gross domestic product (GDP)",
@@ -16026,7 +16384,8 @@
     ],
     "SSTopics": [
       "Sustainable Financing for HIV and health"
-    ]
+    ],
+    "id": "domestic_general_government_expenditure_on_hiv_aids_and_stds_as_perc_of_gdp"
   },
   {
     "IndicatorLabelTable": "Domestic Private Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs), as % of gross domestic product (GDP)",
@@ -16070,7 +16429,8 @@
     ],
     "SSTopics": [
       "Sustainable Financing for HIV and health"
-    ]
+    ],
+    "id": "domestic_private_expenditure_on_hiv_aids_and_stds_as_perc_of_gdp"
   },
   {
     "IndicatorLabelTable": "UHC Service Coverage Index",
@@ -16115,7 +16475,8 @@
     ],
     "SSTopics": [
       "Universal Health Coverage"
-    ]
+    ],
+    "id": "uhc_service_coverage_index"
   },
   {
     "IndicatorLabelTable": "UHC Service Coverage sub-index on infectious diseases",
@@ -16160,7 +16521,8 @@
     ],
     "SSTopics": [
       "Universal Health Coverage"
-    ]
+    ],
+    "id": "uhc_service_coverage_sub_index_on_infectious_diseases"
   },
   {
     "IndicatorLabelTable": "UHC Service Coverage sub-index on noncommunicable diseases",
@@ -16206,7 +16568,8 @@
     "SSTopics": [
       "Universal Health Coverage",
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
-    ]
+    ],
+    "id": "uhc_service_index_on_non_communicable_diseases"
   },
   {
     "IndicatorLabelTable": "UHC Service Coverage sub-index on reproductive, maternal, newborn and child health",
@@ -16251,7 +16614,8 @@
     ],
     "SSTopics": [
       "Universal Health Coverage"
-    ]
+    ],
+    "id": "uhc_service_coverage_sub_index_on_reproductive_maternal_newborn_and_child_death"
   },
   {
     "IndicatorLabelTable": "UHC Service Coverage sub-index on service capacity an access",
@@ -16296,7 +16660,8 @@
     ],
     "SSTopics": [
       "Universal Health Coverage"
-    ]
+    ],
+    "id": "uhc_service_coverage_sub_index_on_service_capacity_and_access"
   },
   {
     "IndicatorLabelTable": "Problems in accessing health care (any of the specified problems) (% of women): Q1 (lowest)",
@@ -16341,7 +16706,8 @@
     "SSTopics": [
       "Universal Health Coverage",
       "Gender equality and empowering women and girls in the context of HIV and health"
-    ]
+    ],
+    "id": "problems_accessing_health_care_perc_of_women"
   },
   {
     "IndicatorLabelTable": "Laboratory (IHR SPAR)",
@@ -16385,7 +16751,8 @@
     ],
     "SSTopics": [
       "Pandemic preparedness and response"
-    ]
+    ],
+    "id": "laboratory_ihr"
   },
   {
     "IndicatorLabelTable": "LGBTQ+ Equality Index",
@@ -16429,6 +16796,7 @@
     ],
     "SSTopics": [
       "LGBTIQ rights"
-    ]
+    ],
+    "id": "lgbtq_equality_index"
   }
 ]
