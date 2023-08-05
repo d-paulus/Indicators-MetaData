@@ -13542,7 +13542,7 @@
   {
     "IndicatorLabelTable": "Access to clean fuels and technologies for cooking (% of population)",
     "IndicatorDescription": "Access to clean fuels and technologies for cooking is the proportion of total population primarily using clean cooking fuels and technologies for cooking. Under WHO guidelines, kerosene is excluded from clean cooking fuels.",
-    "DataKey": "Access to clean fuels and technologies for cooking  (% of population)",
+    "DataKey": "Access to clean fuels and technologies for cooking (% of population)",
     "DataSourceName": "World Bank",
     "DataSourceLink": "https://data.worldbank.org/indicator/EG.CFT.ACCS.ZS",
     "LabelSuffix": "%",
