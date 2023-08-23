@@ -504,8 +504,8 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Strength of legal rights index (0=weak to 12=strong",
-    "IndicatorDescription": "Strength of legal rights index measures the degree to which collateral and bankruptcy laws protect the rights of borrowers and lenders and thus facilitate lending. The index ranges from 0 to 12, with higher scores indicating that these laws are better designed to expand access to credit.",
+    "IndicatorLabelTable": "Strength of legal rights index (0=weak to 12=strong)",
+    "IndicatorDescription": "Strength of legal rights index measures the degree to which collateral and bankruptcy laws protect the rights of borrowers and lenders and thus facilitate lending. The index ranges from 0 to 12, with higher scores indicating that these laws are better designed to expand access to credit. Index ranges from 0 to 12 with 0 being weak and 12 being strong",
     "DataKey": "Strength of legal rights index (0=weak to 12=strong)",
     "DataSourceName": "World Bank",
     "DataSourceLink": "https://data.worldbank.org/indicator/IC.LGL.CRED.XQ",
