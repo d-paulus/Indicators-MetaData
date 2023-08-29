@@ -343,7 +343,7 @@
     "DataSourceLink": "http://hdr.undp.org/en/content/gender-inequality-index-gii",
     "LabelSuffix": "",
     "LabelPrefix": "",
-    "LabelFormat": "",
+    "LabelFormat": ",.3f",
     "BinningRange5": [
       0.2,
       0.4,
@@ -6352,7 +6352,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Informal Employment, percent",
+    "IndicatorLabelTable": "Informal Employment in Non-Agriculture Employment, percent",
     "IndicatorDescription": "Proportion of informal employment in non-agriculture employment (% of total employment in non-agriculture)",
     "DataKey": "Proportion of informal employment in non-agriculture employment (% of total employment in non-agriculture)",
     "DataSourceName": "International Labour Organization (ILO)",
