@@ -2149,6 +2149,7 @@
       "Future of Work",
       "Digital Governance",
       "Future of Work through a systems lens",
+      "Informal Economy",
       "Informal Economy Facility"
     ],
     "id": "accesstointernet_cpiaati",
@@ -3740,7 +3741,6 @@
       "Environment"
     ],
     "SSTopics": [
-      "",
       "Chemicals and Waste: Waste Management",
       "Policy and practice shift",
       "Climate finance for forests",
@@ -3783,8 +3783,8 @@
     "IndicatorLabelTable": "COVID-19 IFI financial response packages, USD",
     "IndicatorDescription": "IMF and World Bank country-level financing (lending, grants, debt service relief) in response to COVID",
     "DataKey": "IFI Response",
-    "DataSourceName": "IMF; World Bank",
-    "DataSourceLink": "https://www.imf.org/en/Topics/imf-and-covid19/COVID-Lending-Tracker; https://www.worldbank.org/en/about/what-we-do/brief/world-bank-group-operational-response-covid-19-coronavirus-projects-list",
+    "DataSourceName": "International Monetary Fund (IMF);World Bank",
+    "DataSourceLink": "https://www.imf.org/en/Topics/imf-and-covid19/COVID-Lending-Tracker;https://www.worldbank.org/en/about/what-we-do/brief/world-bank-group-operational-response-covid-19-coronavirus-projects-list",
     "LabelSuffix": "",
     "LabelPrefix": "US $",
     "LabelFormat": "",
