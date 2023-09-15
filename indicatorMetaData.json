@@ -1945,51 +1945,6 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Economic Freedom Global Ranking",
-    "IndicatorDescription": "The economic freedom global ranking is an index ranking the world's open economies by taking into account rule of law, regulatory efficiency, government size, and market freedom.",
-    "DataKey": "Economic Freedom Global Ranking",
-    "DataSourceName": "Index of Economic Freedom",
-    "DataSourceLink": "https://www.heritage.org/index/about",
-    "LabelSuffix": "",
-    "LabelPrefix": "",
-    "LabelFormat": "",
-    "BinningRange5": [
-      35,
-      70,
-      105,
-      140
-    ],
-    "BinningRangeLarge": [
-      35,
-      70,
-      105,
-      140
-    ],
-    "Categories": [],
-    "CategorizeByRanking": true,
-    "IsCategorical": false,
-    "IsDivergent": false,
-    "ScatterPlot": false,
-    "Map": true,
-    "BarGraph": false,
-    "Sizing": false,
-    "Color": false,
-    "RegionalAggregation": false,
-    "SignatureSolution": [
-      "Governance"
-    ],
-    "SSTopics": [
-      "Core Government functions"
-    ],
-    "id": "economicfreedomglobalrank_heritageid",
-    "SDGs": [
-      "SDG 8"
-    ],
-    "tags": [
-      "Economic Development"
-    ]
-  },
-  {
     "IndicatorLabelTable": "CSO participatory environment",
     "IndicatorDescription": "VDEM's Civil Society Participatory Environment Index quantifies how inclusive and representative is a country's civil society space.",
     "DataKey": "Civil Society Participatory Environment",
