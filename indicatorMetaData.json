@@ -6029,7 +6029,12 @@
     "LabelSuffix": "",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [],
+    "BinningRange5": [
+      2,
+      4,
+      6,
+      8
+    ],
     "BinningRangeLarge": [
       1,
       2,
