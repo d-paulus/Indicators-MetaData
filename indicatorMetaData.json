@@ -6030,8 +6030,7 @@
     "LabelPrefix": "",
     "LabelFormat": "",
     "BinningRange5": [],
-    "BinningRangeLarge": [],
-    "Categories": [
+    "BinningRangeLarge": [
       1,
       2,
       3,
@@ -6040,12 +6039,12 @@
       6,
       7,
       8,
-      9,
-      10
+      9
     ],
-    "IsCategorical": true,
+    "Categories": [],
+    "IsCategorical": false,
     "IsDivergent": false,
-    "Sizing": false,
+    "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
       "Governance"
