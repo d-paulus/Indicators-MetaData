@@ -1,0 +1,17 @@
+[
+  {
+    "indicator_id": "MPI",
+    "indicator_name": "Multidimensional Poverty Index",
+    "group": "Multidimensional poverty"
+  },
+  {
+    "indicator_id": "headcountRatio",
+    "indicator_name": "Headcount Ratio (%)",
+    "group": "Multidimensional poverty"
+  },
+  {
+    "indicator_id": "intensity",
+    "indicator_name": "Poverty Intensity (%)",
+    "group": "Multidimensional poverty"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "indicator_id": "RH_ANCP_W_SKP",
+    "indicator_name": "Antenatal care from a skilled provider",
+    "group": "Antenatal care"
+  },
+  {
+    "indicator_id": "RH_ANCP_W_NON",
+    "indicator_name": "No antenatal care",
+    "group": "Antenatal care"
+  },
+  {
+    "indicator_id": "MA_MSTY_W_UNI",
+    "indicator_name": "Current marital status [Young women]: Married or living in union",
+    "group": "Background characteristics"
+  },
+  {
+    "indicator_id": "CH_DIAR_C_DIA",
+    "indicator_name": "Children with diarrhea",
+    "group": "Diarrhea"
+  },
+  {
+    "indicator_id": "CH_KORS_W_ORS",
+    "indicator_name": "Knowledge of ORS",
+    "group": "Diarrhea"
+  },
+  {
+    "indicator_id": "FP_CUSY_W_NCU",
+    "indicator_name": "Young women not currently using any method",
+    "group": "Knowledge and use of contraception"
+  },
+  {
+    "indicator_id": "CM_ECMR_C_IMR",
+    "indicator_name": "Infant mortality rate",
+    "group": "Mortality rate"
+  },
+  {
+    "indicator_id": "CM_ECMR_C_PNR",
+    "indicator_name": "Postneonatal mortality rate",
+    "group": "Mortality rate"
+  },
+  {
+    "indicator_id": "CN_BFDR_C_MDA",
+    "indicator_name": "Median duration of any breastfeeding",
+    "group": "Nutrition"
+  },
+  {
+    "indicator_id": "FE_FRTR_W_TFR",
+    "indicator_name": "Total fertility rate 15-49",
+    "group": "Reproduction"
+  },
+  {
+    "indicator_id": "percentAccess",
+    "indicator_name": "Access to Reliable Energy Services (%)",
+    "group": "Electricity access"
+  },
+  {
+    "indicator_id": "popNoAccess",
+    "indicator_name": "No. People With No Access to Reliable Energy Services",
+    "group": "Electricity access"
+  },
+  {
+    "indicator_id": "percentRuralPop",
+    "indicator_name": "Rural Population % (2015)",
+    "group": "Population data"
+  },
+  {
+    "indicator_id": "percentUrbanPop",
+    "indicator_name": "Urban Population % (2015)",
+    "group": "Population data"
+  }
+]

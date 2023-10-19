@@ -1,0 +1,172 @@
+[
+  {
+    "indicator_id": "ED_EDUC_M_MYR",
+    "indicator_name": "Median years of education completed [Men]",
+    "group": "Adult education and literacy"
+  },
+  {
+    "indicator_id": "ED_EDUC_W_MYR",
+    "indicator_name": "Median years of education completed [Women]",
+    "group": "Adult education and literacy"
+  },
+  {
+    "indicator_id": "RH_ANCP_W_SKP",
+    "indicator_name": "Antenatal care from a skilled provider",
+    "group": "Antenatal care"
+  },
+  {
+    "indicator_id": "RH_ANCP_W_NON",
+    "indicator_name": "No antenatal care",
+    "group": "Antenatal care"
+  },
+  {
+    "indicator_id": "MA_MSTY_M_UNI",
+    "indicator_name": "Current marital status [Young men]: Married or living in union",
+    "group": "Background characteristics"
+  },
+  {
+    "indicator_id": "MA_MSTY_W_UNI",
+    "indicator_name": "Current marital status [Young women]: Married or living in union",
+    "group": "Background characteristics"
+  },
+  {
+    "indicator_id": "ED_EDAT_B_HGH",
+    "indicator_name": "Population age 6 and over who attended higher education",
+    "group": "Child well-being and household structure"
+  },
+  {
+    "indicator_id": "ED_EDAT_B_CPR",
+    "indicator_name": "Population age 6 and over with completed primary education",
+    "group": "Child well-being and household structure"
+  },
+  {
+    "indicator_id": "ED_EDAT_B_CSC",
+    "indicator_name": "Population age 6 and over with completed secondary education",
+    "group": "Child well-being and household structure"
+  },
+  {
+    "indicator_id": "WE_DMAK_W_MPC",
+    "indicator_name": "Final say in making large purchases [Women]",
+    "group": "Decision making"
+  },
+  {
+    "indicator_id": "EM_MERN_M_HUS",
+    "indicator_name": "Men who decide themselves how their earnings are used",
+    "group": "Employment "
+  },
+  {
+    "indicator_id": "EM_MERN_M_WIF",
+    "indicator_name": "Men whose partner decides how their earnings are used",
+    "group": "Employment "
+  },
+  {
+    "indicator_id": "EM_WERN_W_WIF",
+    "indicator_name": "Women who decide themselves how their earnings are used",
+    "group": "Employment "
+  },
+  {
+    "indicator_id": "EM_WERN_W_HUS",
+    "indicator_name": "Women whose partner decides how their earnings are used",
+    "group": "Employment "
+  },
+  {
+    "indicator_id": "WS_SRCE_P_IMP",
+    "indicator_name": "Population using an improved water source",
+    "group": "Household characteristics"
+  },
+  {
+    "indicator_id": "WS_TLET_P_IMP",
+    "indicator_name": "Population with an improved sanitation facility",
+    "group": "Household characteristics"
+  },
+  {
+    "indicator_id": "HC_ELEC_P_ELC",
+    "indicator_name": "Population with electricity",
+    "group": "Household characteristics"
+  },
+  {
+    "indicator_id": "HC_HHHD_H_FEM",
+    "indicator_name": "Female-headed households",
+    "group": "Household number and size"
+  },
+  {
+    "indicator_id": "HC_ORPH_H_FOR",
+    "indicator_name": "Households with foster children and/or orphan children",
+    "group": "Household number and size"
+  },
+  {
+    "indicator_id": "HC_HHHD_H_MAL",
+    "indicator_name": "Male-headed households",
+    "group": "Household number and size"
+  },
+  {
+    "indicator_id": "HC_MEMB_H_MNM",
+    "indicator_name": "Mean number of household members",
+    "group": "Household number and size"
+  },
+  {
+    "indicator_id": "FP_NADM_W_PDS",
+    "indicator_name": "Demand for family planning satisfied",
+    "group": "Knowledge and use of contraception"
+  },
+  {
+    "indicator_id": "FP_CUSY_W_NCU",
+    "indicator_name": "Young women not currently using any method",
+    "group": "Knowledge and use of contraception"
+  },
+  {
+    "indicator_id": "CM_ECMR_C_IMR",
+    "indicator_name": "Infant mortality rate",
+    "group": "Mortality rate"
+  },
+  {
+    "indicator_id": "CM_ECMR_C_PNR",
+    "indicator_name": "Postneonatal mortality rate",
+    "group": "Mortality rate"
+  },
+  {
+    "indicator_id": "CM_PNMR_C_SBR",
+    "indicator_name": "Stillbirth rate",
+    "group": "Mortality rate"
+  },
+  {
+    "indicator_id": "CN_BFDR_C_MDA",
+    "indicator_name": "Median duration of any breastfeeding",
+    "group": "Nutrition"
+  },
+  {
+    "indicator_id": "HC_LVAR_C_BTH",
+    "indicator_name": "Children living with both parents",
+    "group": "Orphanhood"
+  },
+  {
+    "indicator_id": "HC_LVAR_C_P1D",
+    "indicator_name": "Prevalence of orphanhood: children under 18 who are orphans - mother, father or both dead",
+    "group": "Orphanhood"
+  },
+  {
+    "indicator_id": "AH_CIGA_M_NUM",
+    "indicator_name": "Number of men cigarette smokers",
+    "group": "Other health issues"
+  },
+  {
+    "indicator_id": "HC_AGEG_P_ADT",
+    "indicator_name": "Adult population 18+",
+    "group": "Population distribution"
+  },
+  {
+    "indicator_id": "HC_AGEG_P_CHL",
+    "indicator_name": "Child population 0-17",
+    "group": "Population distribution"
+  },
+  {
+    "indicator_id": "HC_OLDR_H_W65",
+    "indicator_name": "Households with members age 65+",
+    "group": "Population distribution"
+  },
+  {
+    "indicator_id": "FE_FRTR_W_TFR",
+    "indicator_name": "Total fertility rate 15-49",
+    "group": "Reproduction"
+  }
+]
