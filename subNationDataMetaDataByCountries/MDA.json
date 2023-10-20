@@ -2,201 +2,401 @@
   {
     "indicator_id": "ED_EDUC_M_MYR",
     "indicator_name": "Median years of education completed [Men]",
-    "group": "Adult education and literacy"
+    "group": "Adult education and literacy",
+    "sourceLayer": "Median years of education completed [Men]",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Adult_education_and_literacy/Adult_education_and_literacy.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "ED_EDUC_W_MYR",
     "indicator_name": "Median years of education completed [Women]",
-    "group": "Adult education and literacy"
+    "group": "Adult education and literacy",
+    "sourceLayer": "Median years of education completed [Women]",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Adult_education_and_literacy/Adult_education_and_literacy.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "ED_LITR_M_LIT",
     "indicator_name": "Men who are literate",
-    "group": "Adult education and literacy"
+    "group": "Adult education and literacy",
+    "sourceLayer": "Men who are literate",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Adult_education_and_literacy/Adult_education_and_literacy.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "ED_LITR_W_LIT",
     "indicator_name": "Women who are literate",
-    "group": "Adult education and literacy"
+    "group": "Adult education and literacy",
+    "sourceLayer": "Women who are literate",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Adult_education_and_literacy/Adult_education_and_literacy.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "RH_ANCP_W_SKP",
     "indicator_name": "Antenatal care from a skilled provider",
-    "group": "Antenatal care"
+    "group": "Antenatal care",
+    "sourceLayer": "Antenatal care from a skilled provider",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Antenatal_care/Antenatal_care.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "RH_ANCP_W_NON",
     "indicator_name": "No antenatal care",
-    "group": "Antenatal care"
+    "group": "Antenatal care",
+    "sourceLayer": "No antenatal care",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Antenatal_care/Antenatal_care.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "MA_MSTY_M_UNI",
     "indicator_name": "Current marital status [Young men]: Married or living in union",
-    "group": "Background characteristics"
+    "group": "Background characteristics",
+    "sourceLayer": "Current marital status [Young men]: Married or living in union",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Background_characteristics/Background_characteristics.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "MA_MSTY_W_UNI",
     "indicator_name": "Current marital status [Young women]: Married or living in union",
-    "group": "Background characteristics"
+    "group": "Background characteristics",
+    "sourceLayer": "Current marital status [Young women]: Married or living in union",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Background_characteristics/Background_characteristics.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "ED_EDAT_B_HGH",
     "indicator_name": "Population age 6 and over who attended higher education",
-    "group": "Child well-being and household structure"
+    "group": "Child well-being and household structure",
+    "sourceLayer": "Population age 6 and over who attended higher education",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Child_well-being_and_household_structure/Child_well-being_and_household_structure.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "ED_EDAT_B_CPR",
     "indicator_name": "Population age 6 and over with completed primary education",
-    "group": "Child well-being and household structure"
+    "group": "Child well-being and household structure",
+    "sourceLayer": "Population age 6 and over with completed primary education",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Child_well-being_and_household_structure/Child_well-being_and_household_structure.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "ED_EDAT_B_CSC",
     "indicator_name": "Population age 6 and over with completed secondary education",
-    "group": "Child well-being and household structure"
+    "group": "Child well-being and household structure",
+    "sourceLayer": "Population age 6 and over with completed secondary education",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Child_well-being_and_household_structure/Child_well-being_and_household_structure.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "WE_DMAK_W_MPC",
     "indicator_name": "Final say in making large purchases [Women]",
-    "group": "Decision making"
+    "group": "Decision making",
+    "sourceLayer": "Final say in making large purchases [Women]",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Decision_making/Decision_making.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "CH_DIAR_C_DIA",
     "indicator_name": "Children with diarrhea",
-    "group": "Diarrhea"
+    "group": "Diarrhea",
+    "sourceLayer": "Children with diarrhea",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Diarrhea/Diarrhea.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "CH_KORS_W_ORS",
     "indicator_name": "Knowledge of ORS",
-    "group": "Diarrhea"
+    "group": "Diarrhea",
+    "sourceLayer": "Knowledge of ORS",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Diarrhea/Diarrhea.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "EM_WERN_W_WIF",
     "indicator_name": "Women who decide themselves how their earnings are used",
-    "group": "Employment "
+    "group": "Employment ",
+    "sourceLayer": "Women who decide themselves how their earnings are used",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Employment_/Employment_.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "EM_WERN_W_HUS",
     "indicator_name": "Women whose partner decides how their earnings are used",
-    "group": "Employment "
+    "group": "Employment ",
+    "sourceLayer": "Women whose partner decides how their earnings are used",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Employment_/Employment_.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "WS_SRCE_P_IMP",
     "indicator_name": "Population using an improved water source",
-    "group": "Household characteristics"
+    "group": "Household characteristics",
+    "sourceLayer": "Population using an improved water source",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Household_characteristics/Household_characteristics.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "WS_TLET_P_IMP",
     "indicator_name": "Population with an improved sanitation facility",
-    "group": "Household characteristics"
+    "group": "Household characteristics",
+    "sourceLayer": "Population with an improved sanitation facility",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Household_characteristics/Household_characteristics.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "HC_ELEC_P_ELC",
     "indicator_name": "Population with electricity",
-    "group": "Household characteristics"
+    "group": "Household characteristics",
+    "sourceLayer": "Population with electricity",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Household_characteristics/Household_characteristics.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "HC_HHHD_H_FEM",
     "indicator_name": "Female-headed households",
-    "group": "Household number and size"
+    "group": "Household number and size",
+    "sourceLayer": "Female-headed households",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Household_number_and_size/Household_number_and_size.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "HC_ORPH_H_FOR",
     "indicator_name": "Households with foster children and/or orphan children",
-    "group": "Household number and size"
+    "group": "Household number and size",
+    "sourceLayer": "Households with foster children and/or orphan children",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Household_number_and_size/Household_number_and_size.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "HC_HHHD_H_MAL",
     "indicator_name": "Male-headed households",
-    "group": "Household number and size"
+    "group": "Household number and size",
+    "sourceLayer": "Male-headed households",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Household_number_and_size/Household_number_and_size.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "HC_MEMB_H_MNM",
     "indicator_name": "Mean number of household members",
-    "group": "Household number and size"
+    "group": "Household number and size",
+    "sourceLayer": "Mean number of household members",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Household_number_and_size/Household_number_and_size.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "FP_NADM_W_PDS",
     "indicator_name": "Demand for family planning satisfied",
-    "group": "Knowledge and use of contraception"
+    "group": "Knowledge and use of contraception",
+    "sourceLayer": "Demand for family planning satisfied",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Knowledge_and_use_of_contraception/Knowledge_and_use_of_contraception.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "FP_CUSY_W_NCU",
     "indicator_name": "Young women not currently using any method",
-    "group": "Knowledge and use of contraception"
+    "group": "Knowledge and use of contraception",
+    "sourceLayer": "Young women not currently using any method",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Knowledge_and_use_of_contraception/Knowledge_and_use_of_contraception.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "CM_ECMR_C_IMR",
     "indicator_name": "Infant mortality rate",
-    "group": "Mortality rate"
+    "group": "Mortality rate",
+    "sourceLayer": "Infant mortality rate",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Mortality_rate/Mortality_rate.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "CM_ECMR_C_PNR",
     "indicator_name": "Postneonatal mortality rate",
-    "group": "Mortality rate"
+    "group": "Mortality rate",
+    "sourceLayer": "Postneonatal mortality rate",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Mortality_rate/Mortality_rate.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "CM_PNMR_C_SBR",
     "indicator_name": "Stillbirth rate",
-    "group": "Mortality rate"
+    "group": "Mortality rate",
+    "sourceLayer": "Stillbirth rate",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Mortality_rate/Mortality_rate.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "CN_NUTS_C_HA3",
     "indicator_name": "Children severely stunted",
-    "group": "Nutrition"
+    "group": "Nutrition",
+    "sourceLayer": "Children severely stunted",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Nutrition/Nutrition.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "CN_NUTS_C_WA3",
     "indicator_name": "Children severely underweight",
-    "group": "Nutrition"
+    "group": "Nutrition",
+    "sourceLayer": "Children severely underweight",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Nutrition/Nutrition.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "CN_NUTS_C_WH3",
     "indicator_name": "Children severely wasted",
-    "group": "Nutrition"
+    "group": "Nutrition",
+    "sourceLayer": "Children severely wasted",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Nutrition/Nutrition.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "CN_BFDR_C_MDA",
     "indicator_name": "Median duration of any breastfeeding",
-    "group": "Nutrition"
+    "group": "Nutrition",
+    "sourceLayer": "Median duration of any breastfeeding",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Nutrition/Nutrition.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "HC_LVAR_C_BTH",
     "indicator_name": "Children living with both parents",
-    "group": "Orphanhood"
+    "group": "Orphanhood",
+    "sourceLayer": "Children living with both parents",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Orphanhood/Orphanhood.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "HC_LVAR_C_P1D",
     "indicator_name": "Prevalence of orphanhood: children under 18 who are orphans - mother, father or both dead",
-    "group": "Orphanhood"
+    "group": "Orphanhood",
+    "sourceLayer": "Prevalence of orphanhood: children under 18 who are orphans - mother, father or both dead",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Orphanhood/Orphanhood.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "AH_CIGA_M_NUM",
     "indicator_name": "Number of men cigarette smokers",
-    "group": "Other health issues"
+    "group": "Other health issues",
+    "sourceLayer": "Number of men cigarette smokers",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Other_health_issues/Other_health_issues.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "HC_AGEG_P_ADT",
     "indicator_name": "Adult population 18+",
-    "group": "Population distribution"
+    "group": "Population distribution",
+    "sourceLayer": "Adult population 18+",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Population_distribution/Population_distribution.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "HC_AGEG_P_CHL",
     "indicator_name": "Child population 0-17",
-    "group": "Population distribution"
+    "group": "Population distribution",
+    "sourceLayer": "Child population 0-17",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Population_distribution/Population_distribution.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "HC_OLDR_H_W65",
     "indicator_name": "Households with members age 65+",
-    "group": "Population distribution"
+    "group": "Population distribution",
+    "sourceLayer": "Households with members age 65+",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Population_distribution/Population_distribution.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "CH_VACC_C_APP",
     "indicator_name": "Received all age appropriate vaccinations",
-    "group": "Postnatal care"
+    "group": "Postnatal care",
+    "sourceLayer": "Received all age appropriate vaccinations",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Postnatal_care/Postnatal_care.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   },
   {
     "indicator_id": "FE_FRTR_W_TFR",
     "indicator_name": "Total fertility rate 15-49",
-    "group": "Reproduction"
+    "group": "Reproduction",
+    "sourceLayer": "Total fertility rate 15-49",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Reproduction/Reproduction.pmtiles",
+    "hasId": "value",
+    "countryId": "Country",
+    "regionId": "AdminName"
   }
 ]
