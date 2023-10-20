@@ -255,13 +255,18 @@
     "group": "Electricity access"
   },
   {
+    "indicator_id": "TotPopulation",
+    "indicator_name": "Total Population (2015)",
+    "group": "Population distribution"
+  },
+  {
     "indicator_id": "percentRuralPop",
     "indicator_name": "Rural Population % (2015)",
-    "group": "Population data"
+    "group": "Population distribution"
   },
   {
     "indicator_id": "percentUrbanPop",
     "indicator_name": "Urban Population % (2015)",
-    "group": "Population data"
+    "group": "Population distribution"
   }
 ]
