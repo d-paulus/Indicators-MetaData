@@ -5,7 +5,7 @@
     "group": "Orphanhood",
     "sourceLayer": "Children living with both parents",
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Orphanhood/Orphanhood.pmtiles",
-    "hasId": "value",
+    "hasId": "Value",
     "countryId": "Country",
     "regionId": "AdminName"
   },
@@ -15,7 +15,7 @@
     "group": "Orphanhood",
     "sourceLayer": "Prevalence of orphanhood: children under 18 who are orphans - mother, father or both dead",
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Orphanhood/Orphanhood.pmtiles",
-    "hasId": "value",
+    "hasId": "Value",
     "countryId": "Country",
     "regionId": "AdminName"
   },

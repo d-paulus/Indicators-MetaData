@@ -5,7 +5,7 @@
     "group": "Antenatal care",
     "sourceLayer": "Antenatal care from a skilled provider",
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Antenatal_care/Antenatal_care.pmtiles",
-    "hasId": "value",
+    "hasId": "Value",
     "countryId": "Country",
     "regionId": "AdminName"
   },
@@ -15,7 +15,7 @@
     "group": "Antenatal care",
     "sourceLayer": "No antenatal care",
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Antenatal_care/Antenatal_care.pmtiles",
-    "hasId": "value",
+    "hasId": "Value",
     "countryId": "Country",
     "regionId": "AdminName"
   },
@@ -25,7 +25,7 @@
     "group": "Background characteristics",
     "sourceLayer": "Current marital status [Young women]: Married or living in union",
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Background_characteristics/Background_characteristics.pmtiles",
-    "hasId": "value",
+    "hasId": "Value",
     "countryId": "Country",
     "regionId": "AdminName"
   },
@@ -35,7 +35,7 @@
     "group": "Diarrhea",
     "sourceLayer": "Children with diarrhea",
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Diarrhea/Diarrhea.pmtiles",
-    "hasId": "value",
+    "hasId": "Value",
     "countryId": "Country",
     "regionId": "AdminName"
   },
@@ -45,7 +45,7 @@
     "group": "Knowledge and use of contraception",
     "sourceLayer": "Young women not currently using any method",
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Knowledge_and_use_of_contraception/Knowledge_and_use_of_contraception.pmtiles",
-    "hasId": "value",
+    "hasId": "Value",
     "countryId": "Country",
     "regionId": "AdminName"
   },
@@ -55,7 +55,7 @@
     "group": "Mortality rate",
     "sourceLayer": "Infant mortality rate",
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Mortality_rate/Mortality_rate.pmtiles",
-    "hasId": "value",
+    "hasId": "Value",
     "countryId": "Country",
     "regionId": "AdminName"
   },
@@ -65,7 +65,7 @@
     "group": "Mortality rate",
     "sourceLayer": "Postneonatal mortality rate",
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Mortality_rate/Mortality_rate.pmtiles",
-    "hasId": "value",
+    "hasId": "Value",
     "countryId": "Country",
     "regionId": "AdminName"
   },
@@ -75,7 +75,7 @@
     "group": "Nutrition",
     "sourceLayer": "Median duration of any breastfeeding",
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Nutrition/Nutrition.pmtiles",
-    "hasId": "value",
+    "hasId": "Value",
     "countryId": "Country",
     "regionId": "AdminName"
   },
@@ -85,7 +85,7 @@
     "group": "Reproduction",
     "sourceLayer": "Total fertility rate 15-49",
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Reproduction/Reproduction.pmtiles",
-    "hasId": "value",
+    "hasId": "Value",
     "countryId": "Country",
     "regionId": "AdminName"
   },
