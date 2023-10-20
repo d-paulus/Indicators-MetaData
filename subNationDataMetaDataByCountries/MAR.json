@@ -7,7 +7,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Orphanhood/Orphanhood.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "HC_LVAR_C_P1D",
@@ -17,7 +18,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Orphanhood/Orphanhood.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "percentAccess",
@@ -27,7 +29,8 @@
     "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
     "hasId": "PopAccess2020",
     "countryId": "iso_3",
-    "regionId": "adm2_name"
+    "regionId": "adm2_name",
+    "useCountryLookup": false
   },
   {
     "indicator_id": "popNoAccess",
@@ -37,7 +40,8 @@
     "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
     "hasId": "PopAccess2020",
     "countryId": "iso_3",
-    "regionId": "adm2_name"
+    "regionId": "adm2_name",
+    "useCountryLookup": false
   },
   {
     "indicator_id": "TotPopulation",
@@ -47,7 +51,8 @@
     "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
     "hasId": "TotPopulation",
     "countryId": "iso_3",
-    "regionId": "adm2_name"
+    "regionId": "adm2_name",
+    "useCountryLookup": false
   },
   {
     "indicator_id": "percentRuralPop",
@@ -57,7 +62,8 @@
     "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
     "hasId": "TotPopRural",
     "countryId": "iso_3",
-    "regionId": "adm2_name"
+    "regionId": "adm2_name",
+    "useCountryLookup": false
   },
   {
     "indicator_id": "percentUrbanPop",
@@ -67,7 +73,8 @@
     "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
     "hasId": "TotPopUrban",
     "countryId": "iso_3",
-    "regionId": "adm2_name"
+    "regionId": "adm2_name",
+    "useCountryLookup": false
   },
   {
     "indicator_id": "MPI",
@@ -77,7 +84,8 @@
     "pmtilesURL": "pmtiles://https://raw.githubusercontent.com/UNDP-Data/Access-All-Data-Viz/production/public/data/PMTiles/adm_Export_jso_FeaturesToJSO.pmtiles",
     "hasId": "MPI",
     "countryId": "ISO",
-    "regionId": "region"
+    "regionId": "region",
+    "useCountryLookup": false
   },
   {
     "indicator_id": "headcountRatio",
@@ -87,7 +95,8 @@
     "pmtilesURL": "pmtiles://https://raw.githubusercontent.com/UNDP-Data/Access-All-Data-Viz/production/public/data/PMTiles/adm_Export_jso_FeaturesToJSO.pmtiles",
     "hasId": "Headcount Ratio (H, %)",
     "countryId": "ISO",
-    "regionId": "region"
+    "regionId": "region",
+    "useCountryLookup": false
   },
   {
     "indicator_id": "intensity",
@@ -97,6 +106,7 @@
     "pmtilesURL": "pmtiles://https://raw.githubusercontent.com/UNDP-Data/Access-All-Data-Viz/production/public/data/PMTiles/adm_Export_jso_FeaturesToJSO.pmtiles",
     "hasId": "Intensity (A, %)",
     "countryId": "ISO",
-    "regionId": "region"
+    "regionId": "region",
+    "useCountryLookup": false
   }
 ]

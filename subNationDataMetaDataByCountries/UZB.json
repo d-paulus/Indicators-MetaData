@@ -7,7 +7,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Adult_education_and_literacy/Adult_education_and_literacy.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "RH_ANCP_W_SKP",
@@ -17,7 +18,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Antenatal_care/Antenatal_care.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "RH_ANCP_W_NON",
@@ -27,7 +29,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Antenatal_care/Antenatal_care.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "MA_MSTY_W_UNI",
@@ -37,7 +40,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Background_characteristics/Background_characteristics.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "ED_EDAT_B_HGH",
@@ -47,7 +51,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Child_well-being_and_household_structure/Child_well-being_and_household_structure.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "ED_EDAT_B_CPR",
@@ -57,7 +62,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Child_well-being_and_household_structure/Child_well-being_and_household_structure.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "ED_EDAT_B_CSC",
@@ -67,7 +73,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Child_well-being_and_household_structure/Child_well-being_and_household_structure.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "CH_DIAR_C_DIA",
@@ -77,7 +84,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Diarrhea/Diarrhea.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "CH_KORS_W_ORS",
@@ -87,7 +95,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Diarrhea/Diarrhea.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "WS_SRCE_P_IMP",
@@ -97,7 +106,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Household_characteristics/Household_characteristics.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "WS_TLET_P_IMP",
@@ -107,7 +117,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Household_characteristics/Household_characteristics.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "HC_ELEC_P_ELC",
@@ -117,7 +128,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Household_characteristics/Household_characteristics.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "HC_HHHD_H_FEM",
@@ -127,7 +139,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Household_number_and_size/Household_number_and_size.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "HC_HHHD_H_MAL",
@@ -137,7 +150,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Household_number_and_size/Household_number_and_size.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "HC_MEMB_H_MNM",
@@ -147,7 +161,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Household_number_and_size/Household_number_and_size.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "FP_NADM_W_PDS",
@@ -157,7 +172,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Knowledge_and_use_of_contraception/Knowledge_and_use_of_contraception.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "FP_CUSY_W_NCU",
@@ -167,7 +183,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Knowledge_and_use_of_contraception/Knowledge_and_use_of_contraception.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "CM_ECMR_C_IMR",
@@ -177,7 +194,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Mortality_rate/Mortality_rate.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "CM_ECMR_C_PNR",
@@ -187,7 +205,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Mortality_rate/Mortality_rate.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "CM_PNMR_C_SBR",
@@ -197,7 +216,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Mortality_rate/Mortality_rate.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "CN_NUTS_C_HA3",
@@ -207,7 +227,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Nutrition/Nutrition.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "CN_NUTS_C_WA3",
@@ -217,7 +238,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Nutrition/Nutrition.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "CN_NUTS_C_WH3",
@@ -227,7 +249,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Nutrition/Nutrition.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "CN_BFDR_C_MDA",
@@ -237,7 +260,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Nutrition/Nutrition.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "HC_LVAR_C_BTH",
@@ -247,7 +271,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Orphanhood/Orphanhood.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "HC_LVAR_C_P1D",
@@ -257,7 +282,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Orphanhood/Orphanhood.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "HC_AGEG_P_ADT",
@@ -267,7 +293,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Population_distribution/Population_distribution.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "HC_AGEG_P_CHL",
@@ -277,7 +304,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Population_distribution/Population_distribution.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "HC_OLDR_H_W65",
@@ -287,7 +315,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Population_distribution/Population_distribution.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "CH_VACC_C_APP",
@@ -297,7 +326,8 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Postnatal_care/Postnatal_care.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   },
   {
     "indicator_id": "FE_FRTR_W_TFR",
@@ -307,6 +337,7 @@
     "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Reproduction/Reproduction.pmtiles",
     "hasId": "Value",
     "countryId": "Country",
-    "regionId": "AdminName"
+    "regionId": "AdminName",
+    "useCountryLookup": true
   }
 ]

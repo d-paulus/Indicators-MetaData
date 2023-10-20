@@ -7,7 +7,8 @@
     "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
     "hasId": "PopAccess2020",
     "countryId": "iso_3",
-    "regionId": "adm2_name"
+    "regionId": "adm2_name",
+    "useCountryLookup": false
   },
   {
     "indicator_id": "popNoAccess",
@@ -17,7 +18,8 @@
     "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
     "hasId": "PopAccess2020",
     "countryId": "iso_3",
-    "regionId": "adm2_name"
+    "regionId": "adm2_name",
+    "useCountryLookup": false
   },
   {
     "indicator_id": "TotPopulation",
@@ -27,7 +29,8 @@
     "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
     "hasId": "TotPopulation",
     "countryId": "iso_3",
-    "regionId": "adm2_name"
+    "regionId": "adm2_name",
+    "useCountryLookup": false
   },
   {
     "indicator_id": "percentRuralPop",
@@ -37,7 +40,8 @@
     "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
     "hasId": "TotPopRural",
     "countryId": "iso_3",
-    "regionId": "adm2_name"
+    "regionId": "adm2_name",
+    "useCountryLookup": false
   },
   {
     "indicator_id": "percentUrbanPop",
@@ -47,6 +51,7 @@
     "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
     "hasId": "TotPopUrban",
     "countryId": "iso_3",
-    "regionId": "adm2_name"
+    "regionId": "adm2_name",
+    "useCountryLookup": false
   }
 ]

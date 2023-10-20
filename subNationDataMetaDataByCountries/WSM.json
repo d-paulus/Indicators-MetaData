@@ -7,7 +7,8 @@
     "pmtilesURL": "pmtiles://https://raw.githubusercontent.com/UNDP-Data/Access-All-Data-Viz/production/public/data/PMTiles/adm_Export_jso_FeaturesToJSO.pmtiles",
     "hasId": "MPI",
     "countryId": "ISO",
-    "regionId": "region"
+    "regionId": "region",
+    "useCountryLookup": false
   },
   {
     "indicator_id": "headcountRatio",
@@ -17,7 +18,8 @@
     "pmtilesURL": "pmtiles://https://raw.githubusercontent.com/UNDP-Data/Access-All-Data-Viz/production/public/data/PMTiles/adm_Export_jso_FeaturesToJSO.pmtiles",
     "hasId": "Headcount Ratio (H, %)",
     "countryId": "ISO",
-    "regionId": "region"
+    "regionId": "region",
+    "useCountryLookup": false
   },
   {
     "indicator_id": "intensity",
@@ -27,6 +29,7 @@
     "pmtilesURL": "pmtiles://https://raw.githubusercontent.com/UNDP-Data/Access-All-Data-Viz/production/public/data/PMTiles/adm_Export_jso_FeaturesToJSO.pmtiles",
     "hasId": "Intensity (A, %)",
     "countryId": "ISO",
-    "regionId": "region"
+    "regionId": "region",
+    "useCountryLookup": false
   }
 ]
