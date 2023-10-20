@@ -541,8 +541,8 @@
   },
   {
     "indicator_id": "percentAccess",
-    "indicator_name": "Access to Reliable Energy Services (%)",
-    "group": "Electricity access",
+    "indicator_name": "Access to Reliable Energy Services (%) (based on satellite imaging)",
+    "group": "Household characteristics",
     "sourceLayer": "tmpl3ue0da4",
     "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
     "hasId": "PopAccess2020",
@@ -551,8 +551,8 @@
   },
   {
     "indicator_id": "popNoAccess",
-    "indicator_name": "No. People With No Access to Reliable Energy Services",
-    "group": "Electricity access",
+    "indicator_name": "No. People With No Access to Reliable Energy Services (based on satellite imaging)",
+    "group": "Household characteristics",
     "sourceLayer": "tmpl3ue0da4",
     "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
     "hasId": "PopAccess2020",
