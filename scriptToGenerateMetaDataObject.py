@@ -23,7 +23,7 @@ for index, row in df.iterrows():
             description=row['indicatorname']
     
     arr.append({
-        "IndicatorLabelTable": row['indicatorname'],
+        "IndicatorLabel": row['indicatorname'],
         "id": row['indicatorid'],
         "IndicatorDescription": description,
         "DataKey": row['indicatorname'],

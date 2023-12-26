@@ -3377,7 +3377,7 @@
       "Sustainable Energy",
       "Climate Strategies and Policy: Financing Strategies, Plans and Investment Frameworks",
       "Unlocking finance for climate change adaptation",
-      "Local action \u2013 Financing"
+      "Local action – Financing"
     ],
     "id": "emissionsassociatedwithghgtarget_cwndc",
     "SDGs": [
@@ -15788,10 +15788,7 @@
       "Environment"
     ],
     "SSTopics": [
-      "\"Planetary health",
-      " including environment",
-      " climate",
-      " energy and health\""
+      "Planetary health, including environment, climate, energy and health"
     ],
     "SDGs": [
       "SDG 3",
@@ -15947,7 +15944,7 @@
       "Governance"
     ],
     "SSTopics": [
-      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding"
     ],
     "SDGs": [
       "SDG 3"
@@ -15998,7 +15995,7 @@
       "Governance"
     ],
     "SSTopics": [
-      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding"
     ],
     "SDGs": [
       "SDG 3"
@@ -16072,21 +16069,22 @@
     "LabelPrefix": "",
     "LabelFormat": "",
     "BinningRange5": [
+      -200000,
       0,
-      10000,
-      50000,
-      100000
+      500000,
+      1000000
     ],
     "BinningRangeLarge": [
-      -50000,
-      -10000,
+      -100000,
       0,
-      1000,
-      10000,
-      50000,
       100000,
       250000,
-      500000
+      500000,
+      1000000,
+      2500000,
+      3500000,
+      5500000,
+      7500000
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -16474,8 +16472,7 @@
       "Governance"
     ],
     "SSTopics": [
-      "\"Health Emergencies",
-      " including surge capacity and support\""
+      "Health Emergencies, including surge capacity and support"
     ],
     "SDGs": [
       "SDG 3"
@@ -16782,9 +16779,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -16836,9 +16831,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -16890,9 +16883,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -16944,9 +16935,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -16998,9 +16987,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -17052,9 +17039,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -17106,9 +17091,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -17160,9 +17143,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -17214,9 +17195,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -17268,9 +17247,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -17526,10 +17503,7 @@
       "Environment"
     ],
     "SSTopics": [
-      "\"Planetary health",
-      " including environment",
-      " climate",
-      " energy and health\""
+      "Planetary health, including environment, climate, energy and health"
     ],
     "SDGs": [
       "SDG 15"
@@ -17678,8 +17652,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Legal",
-      " policy and regulatory environments for HIV and health\"",
+      "Legal, policy and regulatory environments for HIV and health",
       "Sexual and reproductive health and rights "
     ],
     "SDGs": [
@@ -17732,8 +17705,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Legal",
-      " policy and regulatory environments for HIV and health\"",
+      "Legal, policy and regulatory environments for HIV and health",
       "Sexual and reproductive health and rights "
     ],
     "SDGs": [
@@ -17993,8 +17965,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Legal",
-      " policy and regulatory environments for HIV and health\"",
+      "Legal, policy and regulatory environments for HIV and health",
       "Sexual and reproductive health and rights "
     ],
     "SDGs": [
@@ -18046,10 +18017,7 @@
       "Environment"
     ],
     "SSTopics": [
-      "\"Planetary health",
-      " including environment",
-      " climate",
-      " energy and health\""
+      "Planetary health, including environment, climate, energy and health"
     ],
     "SDGs": [
       "SDG 3"
@@ -18311,7 +18279,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding"
     ],
     "SDGs": [
       "SDG 3"
@@ -18362,7 +18330,7 @@
       "Governance"
     ],
     "SSTopics": [
-      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding"
     ],
     "SDGs": [
       "SDG 3"
@@ -18414,7 +18382,7 @@
       "Resilience"
     ],
     "SSTopics": [
-      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding"
     ],
     "SDGs": [
       "SDG 3"
@@ -18466,7 +18434,7 @@
       "Resilience"
     ],
     "SSTopics": [
-      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding"
     ],
     "SDGs": [
       "SDG 3"
@@ -18778,7 +18746,7 @@
       "Governance"
     ],
     "SSTopics": [
-      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding"
     ],
     "SDGs": [
       "SDG 3"
@@ -19141,10 +19109,7 @@
       "Governance"
     ],
     "SSTopics": [
-      "\"Planetary health",
-      " including environment",
-      " climate",
-      " energy and health\""
+      "Planetary health, including environment, climate, energy and health"
     ],
     "SDGs": [
       "SDG 15"
@@ -19251,10 +19216,8 @@
       " Gender Equality"
     ],
     "SSTopics": [
-      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0",
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding",
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -19306,9 +19269,7 @@
       "Resilience"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -19360,9 +19321,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -19414,9 +19373,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -19467,9 +19424,7 @@
       "Governance"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -19521,9 +19476,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -19575,9 +19528,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -19629,9 +19580,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -19683,9 +19632,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -19734,9 +19681,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -19787,9 +19732,7 @@
       "Gender Equality"
     ],
     "SSTopics": [
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
@@ -19894,7 +19837,7 @@
       "Resilience"
     ],
     "SSTopics": [
-      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding"
     ],
     "SDGs": [
       "SDG 3"
@@ -19946,7 +19889,7 @@
       "Resilience"
     ],
     "SSTopics": [
-      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding"
     ],
     "SDGs": [
       "SDG 3"
@@ -20099,8 +20042,7 @@
       "Governance"
     ],
     "SSTopics": [
-      "\"Legal",
-      " policy and regulatory environments for HIV and health\"",
+      "Legal, policy and regulatory environments for HIV and health",
       "Sexual and reproductive health and rights "
     ],
     "SDGs": [
@@ -20308,7 +20250,7 @@
       "Governance"
     ],
     "SSTopics": [
-      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding"
     ],
     "SDGs": [
       "SDG 3"
@@ -20359,8 +20301,7 @@
       "Resilience"
     ],
     "SSTopics": [
-      "\"Health Emergencies",
-      " including surge capacity and support\""
+      "Health Emergencies, including surge capacity and support"
     ],
     "SDGs": [
       "SDG 3"
@@ -20411,10 +20352,8 @@
       "Governance"
     ],
     "SSTopics": [
-      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0",
-      "\"Governance",
-      " including to address NCDs",
-      " mental health and accelerate tobacco control\""
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding",
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
     ],
     "SDGs": [
       "SDG 3"
