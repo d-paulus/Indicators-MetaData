@@ -15644,5 +15644,4885 @@
       "Health and HIV",
       "Human Rights and Democracy"
     ]
+  },
+  {
+    "IndicatorLabel": "Abortion: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+    "id": "abortion_abrtlr",
+    "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 3: Abortion  ",
+    "DataKey": "Abortion: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+    "DataSourceName": "UN Stats",
+    "DataSourceLink": "https://unstats.un.org/sdgs/dataportal/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Sexual and reproductive health and rights "
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Adequacy of social safety net programs (percentage of total welfare of beneficiary households)",
+    "id": "adequacyofsocialsafetynetprograms_wdi",
+    "IndicatorDescription": "Adequacy of social safety net programs is measured by the total transfer amount received by the population participating in social safety netprograms as a share of their total welfare. Social safety net programs include cash transfers, social pensions, cash transfers, school feeding, andother social assistance programs.",
+    "DataKey": "Adequacy of social safety net programs (percentage of total welfare of beneficiary households)",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "BinningRangeLarge": [
+      2.5,
+      5,
+      7.5,
+      10,
+      12.5,
+      15,
+      17.5,
+      20,
+      25
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Structural Transformation"
+    ],
+    "SDGs": [
+      "SDG 1"
+    ],
+    "Tags": [
+      "Poverty"
+    ]
+  },
+  {
+    "IndicatorLabel": "Ambient particulate matter pollution exposure",
+    "id": "ambientparticulatematterpollutionexposure_apmattpe",
+    "IndicatorDescription": "Ambient particulate matter pollution exposure (mean estimate)",
+    "DataKey": "Ambient particulate matter pollution exposure",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://ghdx.healthdata.org/gbd-2019",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      20,
+      30,
+      40
+    ],
+    "BinningRangeLarge": [
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40,
+      50,
+      75
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "\"Planetary health",
+      " including environment",
+      " climate",
+      " energy and health\""
+    ],
+    "SDGs": [
+      "SDG 3",
+      "SDG 13"
+    ],
+    "Tags": [
+      "Health and HIV",
+      "Climate Change"
+    ]
+  },
+  {
+    "IndicatorLabel": "Antiretroviral therapy coverage among men who have sex with men living with HIV",
+    "id": "antiretroviraltherapycoverageamongmenhavingsexwithmenhiv_menss",
+    "IndicatorDescription": "Antiretroviral therapy coverage among men who have sex with men living with HIV (all ages)",
+    "DataKey": "Antiretroviral therapy coverage among men who have sex with men living with HIV",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://aidsinfo.unaids.org/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Men who have sex with men: Avoidance of health care because of stigma and discrimination",
+    "id": "avoidanceofhealthcareduetostigmaanddiscrimination_menahcsd",
+    "IndicatorDescription": "Men who have sex with men: Avoidance of health care because of stigma and discrimination, all ages",
+    "DataKey": "Men who have sex with men: Avoidance of health care because of stigma and discrimination",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "BinningRangeLarge": [
+      2.5,
+      5,
+      7.5,
+      10,
+      12.5,
+      15,
+      20,
+      25,
+      50
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups",
+      "Inclusive social protection in the context of HIV and health"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Beds for mental health in general hospitals (per 100,000)",
+    "id": "bedsformentalhealthingeneralhospital_bedsmhgh",
+    "IndicatorDescription": "Beds for mental health in general hospitals, per 100,000 ",
+    "DataKey": "Beds for mental health in general hospitals (per 100,000)",
+    "DataSourceName": "WHO",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/beds-for-mental-health-in-general-hospitals-(per-100-000)",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      2.5,
+      5,
+      10,
+      20
+    ],
+    "BinningRangeLarge": [
+      1,
+      1.5,
+      2.5,
+      5,
+      7.5,
+      10,
+      15,
+      25,
+      50
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Beds in mental hospitals (per 100,000) ",
+    "id": "bedsinmentalhospitals_bedsmh",
+    "IndicatorDescription": "Beds in mental hospitals, per 100,000 ",
+    "DataKey": "Beds in mental hospitals (per 100,000) ",
+    "DataSourceName": "WHO",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/beds-in-mental-hospitals-(per-100-000)",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      5,
+      10,
+      25,
+      50
+    ],
+    "BinningRangeLarge": [
+      1,
+      2.5,
+      5,
+      7.5,
+      15,
+      25,
+      40,
+      50,
+      75
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Change in absolute number of people exposed to coastal floods - SSP3, RCP 8.5 (2050)",
+    "id": "changeinabsolutenumberofpeopleexposedtocoastalfloods_informcc",
+    "IndicatorDescription": "Change in absolute number of people exposed to coastal floods under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry \u2013 high challenges for both mitigation and adaptation, including higher population growth) scenarios",
+    "DataKey": "Change in absolute number of people exposed to coastal floods - SSP3, RCP 8.5 (2050)",
+    "DataSourceName": "European Commission",
+    "DataSourceLink": "https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Climate-Change/Results-and-data",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0,
+      10000,
+      50000,
+      100000
+    ],
+    "BinningRangeLarge": [
+      -10000,
+      0,
+      1000,
+      10000,
+      50000,
+      100000,
+      250000,
+      500000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment",
+      "Resilience",
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Climate change & Health"
+    ],
+    "SDGs": [
+      "SDG 3",
+      "SDG 13"
+    ],
+    "Tags": [
+      "Health and HIV",
+      "Climate Change"
+    ]
+  },
+  {
+    "IndicatorLabel": "Change in absolute number of people exposed to drought - SSP3, RCP 8.5 (2050)",
+    "id": "changeinabsolutenumberofpeopleexposedtodrought_informcc",
+    "IndicatorDescription": "Change in absolute number of people exposed to drought under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry \u2013 high challenges for both mitigation and adaptation, including higher population growth) scenarios",
+    "DataKey": "Change in absolute number of people exposed to drought - SSP3, RCP 8.5 (2050)",
+    "DataSourceName": "European Commission",
+    "DataSourceLink": "https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Climate-Change/Results-and-data",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0,
+      10000,
+      50000,
+      100000
+    ],
+    "BinningRangeLarge": [
+      -50000,
+      -10000,
+      0,
+      1000,
+      10000,
+      50000,
+      100000,
+      250000,
+      500000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment",
+      "Poverty and Inequality",
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Climate change & Health"
+    ],
+    "SDGs": [
+      "SDG 3",
+      "SDG 13"
+    ],
+    "Tags": [
+      "Health and HIV",
+      "Climate Change"
+    ]
+  },
+  {
+    "IndicatorLabel": "Change in absolute number of people exposed to Floods - SSP3, RCP 8.5 (2050)",
+    "id": "changeinabsolutenumberofpeopleexposedtofloods_informcc",
+    "IndicatorDescription": "Change in absolute number of people exposed to floods under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry \u2013 high challenges for both mitigation and adaptation, including higher population growth) scenarios",
+    "DataKey": "Change in absolute number of people exposed to Floods - SSP3, RCP 8.5 (2050)",
+    "DataSourceName": "European Commission",
+    "DataSourceLink": "https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Climate-Change/Results-and-data",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0,
+      10000,
+      50000,
+      100000
+    ],
+    "BinningRangeLarge": [
+      -50000,
+      -10000,
+      0,
+      1000,
+      10000,
+      50000,
+      100000,
+      250000,
+      500000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience",
+      "Environment"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Climate change & Health"
+    ],
+    "SDGs": [
+      "SDG 3",
+      "SDG 13"
+    ],
+    "Tags": [
+      "Health and HIV",
+      "Climate Change"
+    ]
+  },
+  {
+    "IndicatorLabel": "Change in absolute number of people exposed to malaria and dengue -SSP3, RCP 8.5 (2050)",
+    "id": "changeinabsolutenumberofpeopleexposedtomalariaanddengue_informcc",
+    "IndicatorDescription": "Change in absolute number of people exposed to malaria and dengue under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry \u2013 high challenges for both mitigation and adaptation, including higher population growth) scenarios",
+    "DataKey": "Change in absolute number of people exposed to malaria and dengue -SSP3, RCP 8.5 (2050)",
+    "DataSourceName": "European Commission",
+    "DataSourceLink": "https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Climate-Change/Results-and-data",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0,
+      50000,
+      500000,
+      5000000
+    ],
+    "BinningRangeLarge": [
+      -25000,
+      -10000,
+      0,
+      50000,
+      100000,
+      500000,
+      1000000,
+      5000000,
+      10000000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Climate change & Health"
+    ],
+    "SDGs": [
+      "SDG 3",
+      "SDG 13"
+    ],
+    "Tags": [
+      "Health and HIV",
+      "Climate Change"
+    ]
+  },
+  {
+    "IndicatorLabel": "Change in Human Hazard & Exposure to conflict -SSP3, RCP 8.5 (2050)",
+    "id": "changeinhumanhazardandexposuretoconflict_informcc",
+    "IndicatorDescription": "Change in absolute number of people exposed to conflict under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry \u2013 high challenges for both mitigation and adaptation, including higher population growth) scenarios",
+    "DataKey": "Change in Human Hazard & Exposure to conflict -SSP3, RCP 8.5 (2050)",
+    "DataSourceName": "European Commission",
+    "DataSourceLink": "https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Climate-Change/Results-and-data",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0,
+      0.25,
+      0.5,
+      1
+    ],
+    "BinningRangeLarge": [
+      0,
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.75,
+      1,
+      2
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Climate change & Health"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV",
+      "Climate Change"
+    ]
+  },
+  {
+    "IndicatorLabel": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $1.90 poverty line",
+    "id": "changeinpovertygapduetooutofpockethealthspending$1.9povertyline_hefpi",
+    "IndicatorDescription": "Change (in international $) in poverty gap due to out-of-pocket health spending using $1.90 poverty line, defined as 1.9 times the difference between the per capita poverty gap for consumption (or income) net of out-of-pocket expenditures and the per capita poverty gap for consumption (or income) gross of out-of-pocket expenditures",
+    "DataKey": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $1.90 poverty line",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://datacatalog.worldbank.org/search/dataset/0038633/Health-Equity-and-Financial-Protection-Indicators%20worldbank",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0.01,
+      0.03,
+      0.04,
+      0.05
+    ],
+    "BinningRangeLarge": [
+      0.01,
+      0.02,
+      0.03,
+      0.04,
+      0.05,
+      0.06
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Universal Health Coverage",
+      "Inclusive social protection in the context of HIV and health"
+    ],
+    "SDGs": [
+      "SDG 1",
+      "SDG 3"
+    ],
+    "Tags": [
+      "Poverty",
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $3.20 poverty line",
+    "id": "changeinpovertygapduetooutofpockethealthspending$3.2povertyline_hefpi",
+    "IndicatorDescription": "Change (in international $) in poverty gap due to out-of-pocket health spending using $3.20 poverty line, defined as 3.2 times the difference between the per capita poverty gap for consumption (or income) net of out-of-pocket expenditures and the per capita poverty gap for consumption (or income) gross of out-of-pocket expenditures",
+    "DataKey": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $3.20 poverty line",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://datacatalog.worldbank.org/search/dataset/0038633/Health-Equity-and-Financial-Protection-Indicators",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0.02,
+      0.04,
+      0.06,
+      0.08
+    ],
+    "BinningRangeLarge": [
+      0.01,
+      0.02,
+      0.03,
+      0.04,
+      0.05,
+      0.06,
+      0.07,
+      0.08,
+      0.09
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Universal Health Coverage",
+      "Inclusive social protection in the context of HIV and health"
+    ],
+    "SDGs": [
+      "SDG 1",
+      "SDG 3"
+    ],
+    "Tags": [
+      "Poverty",
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $5.50 poverty line",
+    "id": "changeinpovertygapduetooutofpockethealthspending$5.5povertyline_hefpi",
+    "IndicatorDescription": "Change (in international $) in poverty gap due to out-of-pocket health spending using $5.50 poverty line, defined as 5.5 times the difference between the per capita poverty gap for consumption (or income) net of out-of-pocket expenditures and the per capita poverty gap for consumption (or income) gross of out-of-pocket expenditures",
+    "DataKey": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $5.50 poverty line",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://datacatalog.worldbank.org/search/dataset/0038633/Health-Equity-and-Financial-Protection-Indicators",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0.02,
+      0.04,
+      0.06,
+      0.08
+    ],
+    "BinningRangeLarge": [
+      0.01,
+      0.02,
+      0.03,
+      0.04,
+      0.05,
+      0.075,
+      0.1,
+      0.15
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Universal Health Coverage",
+      "Inclusive social protection in the context of HIV and health"
+    ],
+    "SDGs": [
+      "SDG 1",
+      "SDG 3"
+    ],
+    "Tags": [
+      "Poverty",
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Chemical Events (IHR SPAR)",
+    "id": "chemicalevents_chemevents",
+    "IndicatorDescription": "The self-reported proportion/percentage of attribute (a set of specific elements or functions which reflect the level of performance or achievement of Core Capacity: Chemical Events) that have been attained.",
+    "DataKey": "Chemical Events (IHR SPAR)",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/chemical-events",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90,
+      95
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment",
+      "Governance"
+    ],
+    "SSTopics": [
+      "\"Health Emergencies",
+      " including surge capacity and support\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Condoms distributed per person in prevention programmes for men who have sex with men",
+    "id": "condomdistributionperpersoninprevensionprogrammes_menss",
+    "IndicatorDescription": "Condoms distributed per person in prevention programmes for men who have sex with men, all ages",
+    "DataKey": "Condoms distributed per person in prevention programmes for men who have sex with men",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://aidsinfo.unaids.org/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      25,
+      50,
+      75,
+      100
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      75,
+      100,
+      125,
+      150
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Condoms distributed to prisoners",
+    "id": "condomdistributiontoprisoners_transgp",
+    "IndicatorDescription": "Condoms distributed to prisoners, total",
+    "DataKey": "Condoms distributed to prisoners",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      5000,
+      25000,
+      75000,
+      150000
+    ],
+    "BinningRangeLarge": [
+      2500,
+      5000,
+      10000,
+      20000,
+      30000,
+      50000,
+      100000,
+      250000,
+      500000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Governance",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Contraceptive Services: Laws & Regulations",
+    "id": "contraceptiveservices_cslr",
+    "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 5: Contraceptive Services (%)  SH_LGR_ACSRHEC5",
+    "DataKey": "Contraceptive Services: Laws & Regulations",
+    "DataSourceName": "UN Stats",
+    "DataSourceLink": "https://unstats.un.org/sdgs/dataportal/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Sexual and reproductive health and rights "
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Coverage of HIV prevention programmes among people who inject drugs",
+    "id": "coverageofhivpreventionprogrammesamongpeopleinjecteddrugs_pidhivc",
+    "IndicatorDescription": "Coverage of HIV prevention programmes among people who inject drugs, Total population",
+    "DataKey": "Coverage of HIV prevention programmes among people who inject drugs",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      50,
+      60
+    ],
+    "BinningRangeLarge": [
+      20,
+      25,
+      30,
+      35,
+      40,
+      45,
+      50,
+      60
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Coverage of protected areas in relation to marine areas",
+    "id": "coverageofprotectedareasinrelationtomarineareas_ermrmmpa",
+    "IndicatorDescription": "The extent of designated marine areas that are legally protected and managed for conservation purposes, expressed as a percentage of the total marine area within a given region or jurisdiction.",
+    "DataKey": "Coverage of protected areas in relation to marine areas",
+    "DataSourceName": "UNECE",
+    "DataSourceLink": "https://w3.unece.org/SDG/en/Indicator?id=62",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "Blue Economy"
+    ],
+    "SDGs": [
+      "SDG 14"
+    ],
+    "Tags": [
+      "Environment"
+    ]
+  },
+  {
+    "IndicatorLabel": "Deaths attributed to cardiovascular diseases, female (estimate), (rate)",
+    "id": "deathsattributedtocardiovasculardiseasesfemale_dcdfihme",
+    "IndicatorDescription": "Deaths attributed to cardiovascular diseases, female (estimate)",
+    "DataKey": "Deaths attributed to cardiovascular diseases, female (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      100,
+      200,
+      300,
+      400
+    ],
+    "BinningRangeLarge": [
+      100,
+      150,
+      200,
+      250,
+      300,
+      350,
+      400,
+      500,
+      750
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Deaths attributed to cardiovascular diseases, male (estimate), (rate)",
+    "id": "deathsattributedtocardiovasculardiseasesmale_dcdmihme",
+    "IndicatorDescription": "Deaths attributed to cardiovascular diseases, male (estimate)",
+    "DataKey": "Deaths attributed to cardiovascular diseases, male (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      100,
+      200,
+      300,
+      400
+    ],
+    "BinningRangeLarge": [
+      100,
+      150,
+      200,
+      250,
+      300,
+      350,
+      400,
+      500,
+      750
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Deaths attributed to chronic respiratory diseases, female (estimate), (rate)",
+    "id": "deathsattributedtochronicrespiratorydiseasesfemale_dcrdfihme",
+    "IndicatorDescription": "Deaths attributed to chronic respiratory diseases, female (estimate)",
+    "DataKey": "Deaths attributed to chronic respiratory diseases, female (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      20,
+      30,
+      50
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40,
+      50
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Deaths attributed to chronic respiratory diseases, male (estimate), (rate)",
+    "id": "deathsattributedtochronicrespiratorydiseasesmale_dcrdmihme",
+    "IndicatorDescription": "Deaths attributed to chronic respiratory diseases, male (estimate)",
+    "DataKey": "Deaths attributed to chronic respiratory diseases, male (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      20,
+      30,
+      50
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40,
+      50
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Deaths attributed to digestive diseases, female (estimate), (rate)",
+    "id": "deathsattributedtodigestivediseasesfemale_dddfihme",
+    "IndicatorDescription": "Deaths attributed to digestive diseases, female (estimate)",
+    "DataKey": "Deaths attributed to digestive diseases, female (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      20,
+      30,
+      50
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40,
+      50
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Deaths attributed to digestive diseases, male (estimate), (rate)",
+    "id": "deathsattributedtodigestivediseasesmale_dddmihme",
+    "IndicatorDescription": "Deaths attributed to digestive diseases, male (estimate)",
+    "DataKey": "Deaths attributed to digestive diseases, male (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      20,
+      30,
+      50
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40,
+      50
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Deaths attributed to neurological disorders, female (estimate), (rate)",
+    "id": "deathsattributedtoneurologicaldisordersfemale_dndfihme",
+    "IndicatorDescription": "Deaths attributed to neurological disorders, female (estimate)",
+    "DataKey": "Deaths attributed to neurological disorders, female (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      20,
+      30,
+      50
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40,
+      50
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Deaths attributed to neurological disorders, male (estimate), (rate)",
+    "id": "deathsattributedtoneurologicaldisordersmale_dndmihme",
+    "IndicatorDescription": "Deaths attributed to neurological disorders, male (estimate)",
+    "DataKey": "Deaths attributed to neurological disorders, male (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      20,
+      30,
+      50
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40,
+      50
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Deaths attributed to other non-communicable diseases, female (estimate), (rate)",
+    "id": "deathsattributedtononcommunicablediseasesfemale_doncdfihme",
+    "IndicatorDescription": "Deaths attributed to other non-communicable diseases, female (estimate)",
+    "DataKey": "Deaths attributed to other non-communicable diseases, female (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      15,
+      20,
+      25
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      12.5,
+      15,
+      17.5,
+      20,
+      25,
+      30,
+      50
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Deaths attributed to other non-communicable diseases, male (estimate), (rate)",
+    "id": "deathsattributedtononcommunicablediseasesmale_doncdmihme",
+    "IndicatorDescription": "Deaths attributed to other non-communicable diseases, male (estimate)",
+    "DataKey": "Deaths attributed to other non-communicable diseases, male (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      15,
+      20,
+      25
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      12.5,
+      15,
+      17.5,
+      20,
+      25,
+      30,
+      50
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of Current Health Expenditure (CHE)",
+    "id": "expeditureonhivandstdofche_stdexp",
+    "IndicatorDescription": "Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of Current Health Expenditure (CHE)",
+    "DataKey": "Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of Current Health Expenditure (CHE)",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://apps.who.int/nha/database/Select/Indicators/en",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      1,
+      5,
+      10,
+      15
+    ],
+    "BinningRangeLarge": [
+      0.5,
+      1,
+      2.5,
+      5,
+      7.5,
+      10,
+      15,
+      25,
+      35
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Sustainable Financing for HIV and health"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Experience of sexual and/or physical violence among men who have sex with men",
+    "id": "experienceofsexualphisicalviolenceamongmenhadsexwithmen_menss",
+    "IndicatorDescription": "Experience of sexual and/or physical violence among men who have sex with men, all ages",
+    "DataKey": "Experience of sexual and/or physical violence among men who have sex with men",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://aidsinfo.unaids.org/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      1,
+      5,
+      10,
+      15
+    ],
+    "BinningRangeLarge": [
+      0.5,
+      1,
+      2.5,
+      5,
+      7.5,
+      10,
+      15,
+      25,
+      35
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Experience of stigma and discrimination among men who have sex with men",
+    "id": "experienceofstigmaanddiscriminationamongmenhadsexwithmen_menss",
+    "IndicatorDescription": "Experience of stigma and discrimination among men who have sex with men, all ages",
+    "DataKey": "Experience of stigma and discrimination among men who have sex with men",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://aidsinfo.unaids.org/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      1,
+      5,
+      20,
+      35
+    ],
+    "BinningRangeLarge": [
+      1,
+      5,
+      10,
+      15,
+      25,
+      35,
+      40,
+      45
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "External sources of funding on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of External Health Expenditure (EXT)",
+    "id": "externalsourcesoffundinghivandstdofexternalhealthexpenditure_stdexp",
+    "IndicatorDescription": "External sources of funding on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of External Health Expenditure (EXT)",
+    "DataKey": "External sources of funding on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of External Health Expenditure (EXT)",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://apps.who.int/nha/database/Select/Indicators/en",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Sustainable Financing for HIV and health"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Forest area (% of land area)",
+    "id": "forestareatothepercentageoflandarea_frstarea",
+    "IndicatorDescription": "Forest area (% of land area)",
+    "DataKey": "Forest area (% of land area)",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://data.worldbank.org/indicator/AG.LND.FRST.ZS",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment"
+    ],
+    "SSTopics": [
+      "\"Planetary health",
+      " including environment",
+      " climate",
+      " energy and health\""
+    ],
+    "SDGs": [
+      "SDG 15"
+    ],
+    "Tags": [
+      "Environment"
+    ]
+  },
+  {
+    "IndicatorLabel": "Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE)",
+    "id": "gghedaspercentageofgge_gghedgge",
+    "IndicatorDescription": "Share of domestic government expenditures funding current health expenditures",
+    "DataKey": "Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE)",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/domestic-general-government-health-expenditure-(gghe-d)-as-percentage-of-general-government-expenditure-(gge)",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      2.5,
+      5,
+      10,
+      15
+    ],
+    "BinningRangeLarge": [
+      2.5,
+      5,
+      7.5,
+      10,
+      12.5,
+      15,
+      17.5
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Structural Transformation"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Government expenditure on education, total (% of GDP)",
+    "id": "governmentexpenditureontotaleducation_wdi",
+    "IndicatorDescription": "Total general government expenditure on education, expressed as a percentage of total general government expenditure on all sectors.",
+    "DataKey": "Government expenditure on education, total (% of GDP)",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0.5,
+      1,
+      2.5,
+      5
+    ],
+    "BinningRangeLarge": [
+      0.5,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7.5
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Structural Transformation"
+    ],
+    "SDGs": [
+      "SDG 4"
+    ],
+    "Tags": [
+      "ation"
+    ]
+  },
+  {
+    "IndicatorLabel": "Laws and Regulations that Guarantee Access to Sexual and Reproductive Health Care, Information and Education: Component 10: HIV counselling and test services",
+    "id": "guaranteeaccesstosexualreproductivehealthcareeducationinformation_srhlrcten",
+    "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 10: HIV Counselling and Test Services",
+    "DataKey": "Laws and Regulations that Guarantee Access to Sexual and Reproductive Health Care, Information and Education: Component 10: HIV counselling and test services",
+    "DataSourceName": "UN Stats",
+    "DataSourceLink": "https://unstats.un.org/sdgs/dataportal/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Legal",
+      " policy and regulatory environments for HIV and health\"",
+      "Sexual and reproductive health and rights "
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "HIV Confidentiality",
+    "id": "hivconfidentiality_hivconf",
+    "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 12: HIV Confidentiality (%)",
+    "DataKey": "HIV Confidentiality",
+    "DataSourceName": "UN Stats",
+    "DataSourceLink": "https://unstats.un.org/sdgs/dataportal/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Legal",
+      " policy and regulatory environments for HIV and health\"",
+      "Sexual and reproductive health and rights "
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "HIV prevalence among men who have sex with men",
+    "id": "hivprevalenceamongmen_hivpmen",
+    "IndicatorDescription": "HIV prevalence among men who have sex with men, all ages",
+    "DataKey": "HIV prevalence among men who have sex with men",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      5,
+      7.5,
+      10,
+      15
+    ],
+    "BinningRangeLarge": [
+      2.5,
+      5,
+      7.5,
+      10,
+      12.5,
+      15,
+      17.5,
+      20,
+      25
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Inclusive social protection in the context of HIV and health"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "HIV prevalence among prisoners",
+    "id": "hivprevalenceamongprisoners_transgp",
+    "IndicatorDescription": "HIV prevalence among prisoners, total",
+    "DataKey": "HIV prevalence among prisoners",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0.5,
+      1.5,
+      3,
+      5
+    ],
+    "BinningRangeLarge": [
+      0.1,
+      0.5,
+      0.75,
+      1.0,
+      1.5,
+      2,
+      3,
+      5,
+      10
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "HIV prevalence among transgender people",
+    "id": "hivprevalenceamongtransgenderpeople_transgp",
+    "IndicatorDescription": "HIV prevalence among transgender people, Total",
+    "DataKey": "HIV prevalence among transgender people",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      5,
+      10,
+      20,
+      30
+    ],
+    "BinningRangeLarge": [
+      2.5,
+      5,
+      7.5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      40
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3",
+      "SDG 5"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "HIV testing and status awareness among people who inject drugs",
+    "id": "hivtestingandstatusawarenessamongpeopleinjecteddrugs_pidhivtsa",
+    "IndicatorDescription": "HIV testing and status awareness among people who inject drugs, Total population",
+    "DataKey": "HIV testing and status awareness among people who inject drugs",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "HIV Treatment and Care Services",
+    "id": "hivtreatmentandcareservice_hivtcs",
+    "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 11: HIV Treatment and Care Services (%)",
+    "DataKey": "HIV Treatment and Care Services",
+    "DataSourceName": "UN Stats",
+    "DataSourceLink": "https://unstats.un.org/sdgs/dataportal/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Legal",
+      " policy and regulatory environments for HIV and health\"",
+      "Sexual and reproductive health and rights "
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Household air pollution from solid fuels",
+    "id": "householdairpolutionfromsolidfuels_hapsfuel",
+    "IndicatorDescription": "Household air pollution from solid fuels (mean estimate)",
+    "DataKey": "Household air pollution from solid fuels",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://ghdx.healthdata.org/record/global-burden-disease-study-2019-gbd-2019-air-pollution-exposure-estimates-1990-2019",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0.2,
+      0.4,
+      0.6,
+      0.8
+    ],
+    "BinningRangeLarge": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.6,
+      0.7,
+      0.8,
+      0.9
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience",
+      "Environment"
+    ],
+    "SSTopics": [
+      "\"Planetary health",
+      " including environment",
+      " climate",
+      " energy and health\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV",
+      "Environment"
+    ]
+  },
+  {
+    "IndicatorLabel": "Life Saving Commodities: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+    "id": "lifesavingcommodities_lsclr",
+    "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 2: Life Saving Commodities (%)",
+    "DataKey": "Life Saving Commodities: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+    "DataSourceName": "UN Stats",
+    "DataSourceLink": "https://unstats.un.org/sdgs/dataportal/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      50,
+      65,
+      80,
+      95
+    ],
+    "BinningRangeLarge": [
+      50,
+      75,
+      80,
+      85,
+      90,
+      92.5,
+      95,
+      97.5
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Sexual and reproductive health and rights "
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Maternity Care: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+    "id": "maternitycare_mclr",
+    "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 1: Maternity Care (%)",
+    "DataKey": "Maternity Care: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+    "DataSourceName": "UN Stats",
+    "DataSourceLink": "https://unstats.un.org/sdgs/dataportal/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      60,
+      70,
+      80,
+      90
+    ],
+    "BinningRangeLarge": [
+      50,
+      60,
+      70,
+      75,
+      80,
+      85,
+      90,
+      95
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Sexual and reproductive health and rights "
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Mean household per capita out-of-pocket health spending ($ 2011 PPP)",
+    "id": "meanhouseholdpercapitaoutofhealthspending_hefpi",
+    "IndicatorDescription": "Mean household per capita out-of-pocket health spending ($ 2011 PPP)",
+    "DataKey": "Mean household per capita out-of-pocket health spending ($ 2011 PPP)",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://datacatalog.worldbank.org/search/dataset/0038633/Health-Equity-and-Financial-Protection-Indicators",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      50,
+      100,
+      150,
+      250
+    ],
+    "BinningRangeLarge": [
+      25,
+      50,
+      75,
+      100,
+      125,
+      150,
+      200,
+      250,
+      500
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Inclusive social protection in the context of HIV and health",
+      "Universal Health Coverage"
+    ],
+    "SDGs": [
+      "SDG 1",
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV",
+      "Poverty"
+    ]
+  },
+  {
+    "IndicatorLabel": "Medical Waste (tons per year)",
+    "id": "medicalwastetonsperyear_medwaste",
+    "IndicatorDescription": "Total tonnage of medical waste.",
+    "DataKey": "Medical Waste (tons per year)",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://datacatalog.worldbank.org/search/dataset/0039597/What-a-Waste-Global-Database",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      500,
+      5000,
+      50000,
+      500000
+    ],
+    "BinningRangeLarge": [
+      250,
+      500,
+      1000,
+      5000,
+      10000,
+      50000,
+      100000,
+      500000,
+      1000000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience",
+      "Environment"
+    ],
+    "SSTopics": [
+      "Health waste management"
+    ],
+    "SDGs": [
+      "SDG 3",
+      "SDG 12"
+    ],
+    "Tags": [
+      "Health and HIV",
+      "Environment"
+    ]
+  },
+  {
+    "IndicatorLabel": "Mental health day treatment facilities (per 100,000) ",
+    "id": "mentalhealthdaytreatmentfacilities_mhdtf",
+    "IndicatorDescription": "Mental health day treatment facilities (per 100,000)",
+    "DataKey": "Mental health day treatment facilities (per 100,000) ",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/mental-health-day-treatment-facilities-(per-100-000)",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0.5,
+      1,
+      2.5,
+      5
+    ],
+    "BinningRangeLarge": [
+      0.1,
+      0.25,
+      0.5,
+      0.75,
+      1,
+      2.5,
+      5,
+      10,
+      25
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Mental health outpatient facilities (per 100,000) ",
+    "id": "mentalhealthoutpatientfacilities_mhof",
+    "IndicatorDescription": "Mental health outpatient facilities (per 100,000)",
+    "DataKey": "Mental health outpatient facilities (per 100,000) ",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/mental-health-outpatient-facilities-(per-100-000)",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0.5,
+      1,
+      2.5,
+      5
+    ],
+    "BinningRangeLarge": [
+      0.1,
+      0.25,
+      0.5,
+      0.75,
+      1,
+      2.5,
+      5,
+      10,
+      25
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Mental health units in general hospitals (per 100,000) ",
+    "id": "mentalhealthunitsingeneralhospitals_mhugh",
+    "IndicatorDescription": "Mental health units in general hospitals (per 100,000) ",
+    "DataKey": "Mental health units in general hospitals (per 100,000) ",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/mental-health-units-in-general-hospitals-(per-100-000)",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0.1,
+      0.25,
+      0.5,
+      0.75
+    ],
+    "BinningRangeLarge": [
+      0.05,
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.75,
+      1,
+      2.5
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Mental health units in general hospitals admissions (per 100,000) ",
+    "id": "mentalhealthunitsingeneralhospitalsadmissions_mhugha",
+    "IndicatorDescription": "Mental health units in general hospitals admissions (per 100,000) ",
+    "DataKey": "Mental health units in general hospitals admissions (per 100,000) ",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/mental-health-units-in-general-hospitals-admissions-(per-100-000)",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      50,
+      100,
+      200
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      25,
+      50,
+      75,
+      100,
+      250,
+      500,
+      750
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Men who have sex with men: Population size estimate",
+    "id": "menwhohadsexwithmenpopulationsizeestimate_menss",
+    "IndicatorDescription": "Men who have sex with men: Population size estimate, central estimate",
+    "DataKey": "Men who have sex with men: Population size estimate",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      5000,
+      50000,
+      100000,
+      250000
+    ],
+    "BinningRangeLarge": [
+      2500,
+      5000,
+      10000,
+      20000,
+      50000,
+      75000,
+      100000,
+      250000,
+      500000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Mother-to-child HIV transmission rate",
+    "id": "mothertochildhivtransmissionrate_mchvitr",
+    "IndicatorDescription": "Estimated number of children aged 0-4 newly infected with HIV from mother-to-child transmission for every 100 women living with HIV delivering in the past 12 months\n",
+    "DataKey": "Mother-to-child HIV transmission rate",
+    "DataSourceName": "UNICEF",
+    "DataSourceLink": "https://data.unicef.org/indicator-profile/HVA_PMTCT_MTCT/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      15,
+      25,
+      50
+    ],
+    "BinningRangeLarge": [
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40,
+      50,
+      100
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Sexual and reproductive health and rights "
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+    "id": "numberofdeathsandmissingpersonsanddirectlyaffectedpeopleattributedtodisaster_ndmdsr",
+    "IndicatorDescription": "Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
+    "DataKey": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+    "DataSourceName": "UN Statistical Division",
+    "DataSourceLink": "https://unstats.un.org/sdgs",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0.1,
+      0.5,
+      1,
+      5
+    ],
+    "BinningRangeLarge": [
+      0.1,
+      0.25,
+      0.5,
+      0.75,
+      1,
+      2.5,
+      5,
+      10,
+      15
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Disaster Risk Reduction: Health Risk Management"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV",
+      "Climate Change"
+    ]
+  },
+  {
+    "IndicatorLabel": "HIV, Estimated number of pregnant women living with HIV needing antiretrovirals for preventing mother-to-child transmission ",
+    "id": "numofpregnantwomanwithhivneedingantiretrovirals_hivpwnpmtct",
+    "IndicatorDescription": "Estimated number of pregnant women living with HIV needing antiretrovirals for preventing mother-to-child transmission based on WHO methods.  The number of pregnant women living with HIV who need antiretroviral medicine for preventing mother-to-child transmission is estimated using standardized statistical modelling based on UNAIDS/WHO methods that consider various epidemic and demographic parameters and the national programme coverage of antiretroviral therapy in the country, such as the HIV prevalence among women of reproductive age and the effect of HIV on fertility and antiretroviral therapy coverage.",
+    "DataKey": "HIV, Estimated number of pregnant women living with HIV needing antiretrovirals for preventing mother-to-child transmission ",
+    "DataSourceName": "WHO",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/estimated-number-of-pregnant-women-living-with-hiv-needing-antiretrovirals-for-preventing-mother-to-child-transmission",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      500,
+      1000,
+      5000,
+      10000
+    ],
+    "BinningRangeLarge": [
+      250,
+      500,
+      750,
+      1000,
+      2500,
+      5000,
+      10000,
+      50000,
+      100000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Gender equality and empowering women and girls in the context of HIV and health",
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "HIV, Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission ",
+    "id": "numofpregnantwomenwithhivreceivedantiretrovirals_hivpwrapmtct",
+    "IndicatorDescription": " Numerator: Number of HIV-positive pregnant women who received the most effective antiretroviral regimens as recommended by WHO (i.e. excluding single-dose nevirapine) during the past 12 months to reduce mother-to-child transmission. Denominator: Estimated number of HIV-positive pregnant women within the past 12 months.",
+    "DataKey": "HIV, Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission ",
+    "DataSourceName": "WHO",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/estimated-percentage-of-pregnant-women-living-with-hiv-who-received-antiretrovirals-for-preventing-mother-to-child-transmission",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Gender equality and empowering women and girls in the context of HIV and health",
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Nurses working in mental health sector (per 100 000) ",
+    "id": "nursesworkinginmentalhealthsector_nursmhs",
+    "IndicatorDescription": "Nurses working in mental health sector (per 100 000) ",
+    "DataKey": "Nurses working in mental health sector (per 100 000) ",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/nurses-working-in-mental-health-sector-(per-100-000)0",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      1,
+      5,
+      10,
+      20
+    ],
+    "BinningRangeLarge": [
+      1,
+      2.5,
+      5,
+      7.5,
+      10,
+      15,
+      20,
+      25,
+      50
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "People who inject drugs: Avoidance of health care because of stigma and discrimination",
+    "id": "peopleinjecteddrugsavoidanceofhealthcareduetostigmaanddiscrimination_pidahcsd",
+    "IndicatorDescription": "People who inject drugs: Avoidance of health care because of stigma and discrimination, Total",
+    "DataKey": "People who inject drugs: Avoidance of health care because of stigma and discrimination",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      5,
+      10,
+      20,
+      30
+    ],
+    "BinningRangeLarge": [
+      5,
+      7.5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      40,
+      50
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Inclusive social protection in the context of HIV and health",
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "People who inject drugs - HIV prevalence",
+    "id": "peopleinjecteddrugshivprevalence_pidhivp",
+    "IndicatorDescription": "HIV prevalence among people who inject drugs, Total",
+    "DataKey": "People who inject drugs - HIV prevalence",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      2.5,
+      5,
+      10,
+      15
+    ],
+    "BinningRangeLarge": [
+      1,
+      2.5,
+      5,
+      7.5,
+      10,
+      15,
+      20,
+      30,
+      40
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "People who inject drugs - needles per injector",
+    "id": "peopleinjecteddrugsneedlesperinjector_pidni",
+    "IndicatorDescription": "People who inject drugs - needles per injector, rate",
+    "DataKey": "People who inject drugs - needles per injector",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      25,
+      50,
+      100,
+      200
+    ],
+    "BinningRangeLarge": [
+      10,
+      25,
+      50,
+      75,
+      100,
+      150,
+      200,
+      250,
+      500
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "People who inject drugs -  Population size estimate",
+    "id": "peopleinjecteddrugspopulationsizeestimate_pidpse",
+    "IndicatorDescription": "People who inject drugs -  Population size estimate, central estimate",
+    "DataKey": "People who inject drugs -  Population size estimate",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      2500,
+      10000,
+      25000,
+      75000
+    ],
+    "BinningRangeLarge": [
+      1000,
+      2500,
+      5000,
+      10000,
+      25000,
+      50000,
+      75000,
+      100000,
+      250000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Inclusive social protection in the context of HIV and health"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Percentage of girls (aged 0-14) who have undergone female genital mutilation (FGM)",
+    "id": "percentageofgirlsundergonefemalegenitalmalfunctionsagebelow15_fgmua",
+    "IndicatorDescription": "Percentage of girls (aged 0-14 years) who have undergone female genital mutilation (FGM)",
+    "DataKey": "Percentage of girls (aged 0-14) who have undergone female genital mutilation (FGM)",
+    "DataSourceName": "UNICEF",
+    "DataSourceLink": "https://data.unicef.org/indicator-profile/PT_F_0-14_FGM/#definitions",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      1,
+      10,
+      20,
+      30
+    ],
+    "BinningRangeLarge": [
+      0.5,
+      1,
+      2.5,
+      5,
+      10,
+      15,
+      25,
+      35,
+      50
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Gender equality and empowering women and girls in the context of HIV and health"
+    ],
+    "SDGs": [
+      "SDG 3",
+      "SDG 5"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Percentage of girls and women (aged 15-49 years) who have undergone female genital mutilation (FGM)",
+    "id": "percentageofgirlsundergonefemalegenitalmalfunctionsagebetween15to49_fgmafa",
+    "IndicatorDescription": "FGM is a harmful practice that violates the rights and impairs the well-being of girls. In communities where it is practised, it can be seen as a direct manifestation of gender inequality, reflecting societal values that hold girls in low esteem and deprive them of agency. Thus, in the SDG framework the target of eliminating harmful practices is placed under the goal for gender equality. FGM is addressed in a number of international conventions and agreements and is prohibited by national legislation in many countries. This indicator intends to measure the prevalence of female genital mutilation, that is, how widespread the practice is in the population. ",
+    "DataKey": "Percentage of girls and women (aged 15-49 years) who have undergone female genital mutilation (FGM)",
+    "DataSourceName": "UNICEF",
+    "DataSourceLink": "https://data.unicef.org/indicator-profile/PT_F_15-49_FGM/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Gender equality and empowering women and girls in the context of HIV and health"
+    ],
+    "SDGs": [
+      "SDG 3",
+      "SDG 5"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Terrestrial protected areas (% of total land area)",
+    "id": "percentofterrestrialprotectedareasoftotallandareas_trrprotarea",
+    "IndicatorDescription": "Terrestrial protected areas (% of total land area)",
+    "DataKey": "Terrestrial protected areas (% of total land area)",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://data.worldbank.org/indicator/ER.LND.PTLD.ZS",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      5,
+      10,
+      20,
+      30
+    ],
+    "BinningRangeLarge": [
+      5,
+      7.5,
+      10,
+      12.5,
+      15,
+      17.5,
+      20,
+      25,
+      35
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Environment",
+      "Governance"
+    ],
+    "SSTopics": [
+      "\"Planetary health",
+      " including environment",
+      " climate",
+      " energy and health\""
+    ],
+    "SDGs": [
+      "SDG 15"
+    ],
+    "Tags": [
+      "Environment"
+    ]
+  },
+  {
+    "IndicatorLabel": "Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure (%)",
+    "id": "populationbelowsixtyofmedianconsumptionpovertylinebyoutofpockethealthcareexpenditure_hefpi",
+    "IndicatorDescription": "Total population pushed further below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income.",
+    "DataKey": "Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure (%)",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://datacatalog.worldbank.org/search/dataset/0038633/Health-Equity-and-Financial-Protection-Indicators%20worldbank",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0.5,
+      1,
+      2,
+      2.5
+    ],
+    "BinningRangeLarge": [
+      0.5,
+      0.75,
+      1,
+      1.25,
+      1.5,
+      1.75,
+      2,
+      2.5,
+      3
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Inclusive social protection in the context of HIV and health",
+      "Universal Health Coverage"
+    ],
+    "SDGs": [
+      "SDG 1",
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV",
+      "Poverty"
+    ]
+  },
+  {
+    "IndicatorLabel": "Prevalence - Alcohol and substance use disorders: Both sexes (age-standardized percent)",
+    "id": "prevalencealcoholandsubstanceusedisordersbothsexes_pasdis",
+    "IndicatorDescription": "Prevalence - Alcohol and substance use disorders: Both (age-standardized percent)",
+    "DataKey": "Prevalence - Alcohol and substance use disorders: Both sexes (age-standardized percent)",
+    "DataSourceName": "IHME, data provided by Our World in Data",
+    "DataSourceLink": "https://ourworldindata.org/mental-health",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      1.5,
+      2,
+      2.5,
+      3
+    ],
+    "BinningRangeLarge": [
+      1.5,
+      1.75,
+      2,
+      2.25,
+      2.5,
+      2.75,
+      3,
+      3.5,
+      4
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      " Gender Equality"
+    ],
+    "SSTopics": [
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0",
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Prevalence of cardiovascular diseases, female (estimate), (rate)",
+    "id": "prevalenceofcardiovasculardiseasesfemale_pcdfihme",
+    "IndicatorDescription": "Prevalence of cardiovascular diseases, female (estimate)",
+    "DataKey": "Prevalence of cardiovascular diseases, female (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      2500,
+      5000,
+      7500,
+      10000
+    ],
+    "BinningRangeLarge": [
+      3000,
+      4000,
+      5000,
+      6000,
+      7000,
+      8000,
+      9000,
+      10000,
+      12500
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Prevalence of cardiovascular diseases, male (estimate), (rate)",
+    "id": "prevalenceofcardiovasculardiseasesmale_pcdmihme",
+    "IndicatorDescription": "Prevalence of cardiovascular diseases, male (estimate)",
+    "DataKey": "Prevalence of cardiovascular diseases, male (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      2500,
+      5000,
+      7500,
+      10000
+    ],
+    "BinningRangeLarge": [
+      3000,
+      4000,
+      5000,
+      6000,
+      7000,
+      8000,
+      9000,
+      10000,
+      12500
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Prevalence of chronic respiratory diseases, female (estimate), (rate)",
+    "id": "prevalenceofchronicrespiratorydiseasesfemale_pcrdfihme",
+    "IndicatorDescription": "Prevalence of chronic respiratory diseases, female (estimate)",
+    "DataKey": "Prevalence of chronic respiratory diseases, female (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      3500,
+      5000,
+      7500,
+      10000
+    ],
+    "BinningRangeLarge": [
+      3000,
+      4000,
+      5000,
+      6000,
+      7000,
+      8000,
+      9000,
+      10000,
+      12500
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Prevalence of chronic respiratory diseases, male (estimate), (rate)",
+    "id": "prevalenceofchronicrespiratorydiseasesmale_pcrdmihme",
+    "IndicatorDescription": "Prevalence of chronic respiratory diseases, male (estimate)",
+    "DataKey": "Prevalence of chronic respiratory diseases, male (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      3500,
+      5000,
+      7500,
+      10000
+    ],
+    "BinningRangeLarge": [
+      3000,
+      4000,
+      5000,
+      6000,
+      7000,
+      8000,
+      9000,
+      10000,
+      12500
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Prevalence of digestive diseases, female (estimate), (rate)",
+    "id": "prevalenceofdigestivediseasesfemale_pddfihme",
+    "IndicatorDescription": "Prevalence of digestive diseases, female (estimate)",
+    "DataKey": "Prevalence of digestive diseases, female (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20000,
+      25000,
+      30000,
+      35000
+    ],
+    "BinningRangeLarge": [
+      17500,
+      20000,
+      25000,
+      27500,
+      30000,
+      32500,
+      35000,
+      37500,
+      40000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Prevalence of digestive diseases, male (estimate), (rate)",
+    "id": "prevalenceofdigestivediseasesmale_pddmihme",
+    "IndicatorDescription": "Prevalence of digestive diseases, male (estimate)",
+    "DataKey": "Prevalence of digestive diseases, male (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20000,
+      25000,
+      30000,
+      40000
+    ],
+    "BinningRangeLarge": [
+      20000,
+      22500,
+      25000,
+      27500,
+      30000,
+      32500,
+      35000,
+      40000,
+      45000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Prevalence of neurological disorders, male (estimate), (rate)",
+    "id": "prevalenceofneurologicaldisordersfemale_pdnfihme",
+    "IndicatorDescription": "Prevalence of neurological disorders, male (estimate)",
+    "DataKey": "Prevalence of neurological disorders, male (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      25000,
+      30000,
+      35000,
+      40000
+    ],
+    "BinningRangeLarge": [
+      20000,
+      25000,
+      27500,
+      30000,
+      32500,
+      35000,
+      37500,
+      40000,
+      42500
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Prevalence of neurological disorders, female (estimate), (rate)",
+    "id": "prevalenceofneurologicaldisordersfemale_pdnfihme",
+    "IndicatorDescription": "Prevalence of neurological disorders, female (estimate)",
+    "DataKey": "Prevalence of neurological disorders, female (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      25000,
+      30000,
+      35000,
+      40000
+    ],
+    "BinningRangeLarge": [
+      20000,
+      25000,
+      27500,
+      30000,
+      32500,
+      35000,
+      37500,
+      40000,
+      42500
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Prevalence of other non-communicable diseases, female (estimate), (rate)",
+    "id": "prevalenceofnoncommunicablediseasesfemale_poncdfihme",
+    "IndicatorDescription": "Prevalence of other non-communicable diseases, female (estimate)",
+    "DataKey": "Prevalence of other non-communicable diseases, female (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      77500,
+      80000,
+      82500,
+      85000
+    ],
+    "BinningRangeLarge": [
+      72500,
+      75000,
+      77500,
+      80000,
+      82500,
+      85000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Prevalence of other non-communicable diseases, male (estimate), (rate)",
+    "id": "prevalenceofnoncommunicablediseasesmale_poncdmihme",
+    "IndicatorDescription": "Prevalence of other non-communicable diseases, male (estimate)",
+    "DataKey": "Prevalence of other non-communicable diseases, male (estimate), (rate)",
+    "DataSourceName": "IHME",
+    "DataSourceLink": "https://vizhub.healthdata.org/gbd-results/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      50000,
+      55000,
+      60000,
+      65000
+    ],
+    "BinningRangeLarge": [
+      50000,
+      52500,
+      55000,
+      57500,
+      60000,
+      62500,
+      65000,
+      70000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Prisoners: Population size estimate",
+    "id": "prisonerspopulationsizeestimate_transgp",
+    "IndicatorDescription": "Prisoners: Population size estimate, central estimate",
+    "DataKey": "Prisoners: Population size estimate",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      5000,
+      25000,
+      50000,
+      100000
+    ],
+    "BinningRangeLarge": [
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      150000,
+      250000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience",
+      "Governance",
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV",
+      "Population and Demographic Change"
+    ]
+  },
+  {
+    "IndicatorLabel": "Psychiatrists working in mental health sector (per 100,000)",
+    "id": "psychiatricsworkinginmentalhealthsector_psychiamhs",
+    "IndicatorDescription": "Psychiatrists working in mental health sector (per 100,000)",
+    "DataKey": "Psychiatrists working in mental health sector (per 100,000)",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/psychiatrists-working-in-mental-health-sector-(per-100-000)",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      1,
+      2.5,
+      5,
+      10
+    ],
+    "BinningRangeLarge": [
+      0.5,
+      1,
+      2.5,
+      5,
+      7.5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Psychologists working in mental health sector (per 100,000)",
+    "id": "psychologistworkinginmentalhealthsector_psycholmhs",
+    "IndicatorDescription": "Psychologists working in mental health sector (per 100,000)",
+    "DataKey": "Psychologists working in mental health sector (per 100,000)",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/psychologists-working-in-mental-health-sector-(per-100-000)",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      1,
+      2.5,
+      5,
+      10
+    ],
+    "BinningRangeLarge": [
+      0.5,
+      1,
+      2.5,
+      5,
+      7.5,
+      10,
+      25,
+      50,
+      100
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Public Health Risk Communication",
+    "id": "publichealthriskcommunication_phrcomm",
+    "IndicatorDescription": "Risk communications is a multi-level and multi-faceted process which aims to help stakeholders define risks, identify hazards, assess vulnerabilities and promote community resilience, thereby promoting the capacity to cope with an unfolding public health emergency. It includes communication with the general public, families and communities about public health risks, for which events and outbreak communication is an essential part. Risk communications should take into consideration the social, religious, cultural, political and economic context in which events occur, and also involve listening to the affected populations. Information dissemination through appropriate channels is also important. This self-reported indicator denotes  the proportion/percentage of attribute (a set of specific elements or functions which reflect the level of performance or achievement of Core Capacity 6: Risk communication) that have been attained.",
+    "DataKey": "Public Health Risk Communication",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/risk-communication",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Health waste management"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Safe injecting practices among people who inject drugs",
+    "id": "safeinjectingpractices_pidsip",
+    "IndicatorDescription": "Safe injecting practices among people who inject drugs, Total population",
+    "DataKey": "Safe injecting practices among people who inject drugs",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90,
+      95
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Sexual and reproductive health laws and regulations",
+    "id": "sexualandreproductivehealthlawsandregulations_srhlr",
+    "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 4: HIV and HPV (%)",
+    "DataKey": "Sexual and reproductive health laws and regulations",
+    "DataSourceName": "UN Stats",
+    "DataSourceLink": "https://unstats.un.org/sdgs/dataportal/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "\"Legal",
+      " policy and regulatory environments for HIV and health\"",
+      "Sexual and reproductive health and rights "
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Sexuality Education: Laws & Regulations",
+    "id": "sexualityeducation_selr",
+    "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 3: Sexuality Education (%)",
+    "DataKey": "Sexuality Education: Laws & Regulations",
+    "DataSourceName": "UN Stats",
+    "DataSourceLink": "https://unstats.un.org/sdgs/dataportal/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      50,
+      75,
+      90,
+      95
+    ],
+    "BinningRangeLarge": [
+      10,
+      50,
+      60,
+      70,
+      75,
+      80,
+      85,
+      90,
+      95
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Sexual and reproductive health and rights "
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Sex Workers- coverage of HIV Prevention Programmes",
+    "id": "sexworkerscoverageofpreventionprogrammes_swhivppc",
+    "IndicatorDescription": "Coverage of HIV prevention programmes among sex workers, total",
+    "DataKey": "Sex Workers- coverage of HIV Prevention Programmes",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      " Gender Equality"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Sex Workers-  Population size estimate (all ages)",
+    "id": "sexworkerspopulationsizeestimate_swpse",
+    "IndicatorDescription": "Sex workers: Population size estimate, central estimate",
+    "DataKey": "Sex Workers-  Population size estimate (all ages)",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      5000,
+      15000,
+      50000,
+      100000
+    ],
+    "BinningRangeLarge": [
+      2500,
+      5000,
+      10000,
+      15000,
+      20000,
+      30000,
+      50000,
+      100000,
+      200000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3",
+      "SDG 5"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Suicide rate per 100,000 population- age-standardized",
+    "id": "suiciderateagestanderdized_srppas",
+    "IndicatorDescription": "Suicide rate per 100,000 population- age-standardized",
+    "DataKey": "Suicide rate per 100,000 population- age-standardized",
+    "DataSourceName": "WHO",
+    "DataSourceLink": "https://www.who.int/data/gho/data/themes/mental-health/suicide-rates",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "BinningRangeLarge": [
+      2.5,
+      5,
+      7.5,
+      10,
+      12.5,
+      15,
+      20,
+      25,
+      50
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Surveillance Capacity (IHR SPAR)",
+    "id": "surveillancecapacity_survcap",
+    "IndicatorDescription": "The proportion/percentage of attribute (a set of specific elements or functions which reflect the level of performance or achievement of Core Capacity 3: Surveillance) that have been attained. ",
+    "DataKey": "Surveillance Capacity (IHR SPAR)",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/surveillance-ihr-spar",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "\"Health Emergencies",
+      " including surge capacity and support\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Total workforce in mental health sector (per 100,000) ",
+    "id": "totalworkforceinmentalhealthsector_mhstotwf",
+    "IndicatorDescription": "Mental health workers total per 100,000 population. Includes the number of psychiatrists, nurses, social workers and psychologists working in the mental health sector.\t\n\n ",
+    "DataKey": "Total workforce in mental health sector (per 100,000) ",
+    "DataSourceName": "WHO",
+    "DataSourceLink": "https://apps.who.int/gho/data/view.main.HWF11v",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      2.5,
+      10,
+      25,
+      50
+    ],
+    "BinningRangeLarge": [
+      1,
+      2.5,
+      5,
+      10,
+      20,
+      30,
+      40,
+      50,
+      100
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding\u00a0",
+      "\"Governance",
+      " including to address NCDs",
+      " mental health and accelerate tobacco control\""
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Transgender people: Avoidance of health care because of stigma and discrimination",
+    "id": "transgederpeopleavoidanceofhealthcareduetostigmaanddiscrimination_transgp",
+    "IndicatorDescription": "Transgender people: Avoidance of health care because of stigma and discrimination, all ages",
+    "DataKey": "Transgender people: Avoidance of health care because of stigma and discrimination",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      6,
+      7,
+      10,
+      25
+    ],
+    "BinningRangeLarge": [
+      6,
+      7,
+      10,
+      25,
+      50
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups",
+      "Inclusive social protection in the context of HIV and health"
+    ],
+    "SDGs": [
+      "SDG 3"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Transgender people - population size estimate",
+    "id": "transgenderpeoplepopulationsizeestimate_transgp",
+    "IndicatorDescription": "Transgender people: Population size estimate, central estimate",
+    "DataKey": "Transgender people - population size estimate",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      1000,
+      5000,
+      10000,
+      25000
+    ],
+    "BinningRangeLarge": [
+      500,
+      1000,
+      2500,
+      5000,
+      7500,
+      10000,
+      25000,
+      50000,
+      100000
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ],
+    "SDGs": [
+      "SDG 3",
+      "SDG 5"
+    ],
+    "Tags": [
+      "Health and HIV"
+    ]
   }
 ]
