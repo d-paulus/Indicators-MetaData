@@ -4,9 +4,9 @@ import math
 import pandas as pd
 
 # Replace 'file_path.xlsx' with the actual path to your Excel file.
-file_path = 'file.xlsx'
+file_path = 'newIndicators.xlsx'
 
-sheetName = "health indicators"
+sheetName = "Sheet1"
 df = pd.read_excel(file_path, sheet_name=sheetName)
 
 arr =[]
@@ -15,39 +15,42 @@ for index, row in df.iterrows():
     # 'index' is the row index, 'row' is a pandas Series representing the row data.
     # You can access individual elements using row[column_name].
     suffix=''
-    if '%' in row['Indicator Name']:
+    if '%' in row['indicatorname']:
         suffix = '%'
-    description=row['Indicator Description']
-    if type(row['Indicator Description']) is not str:
-        if math.isnan(row['Indicator Description']):
-            description=row['Indicator Name']
-        
+    description=row['indicatordescription']
+    if type(row['indicatordescription']) is not str:
+        if math.isnan(row['indicatordescription']):
+            description=row['indicatorname']
+    
     arr.append({
-    "IndicatorLabelTable": row['Indicator ID'],
-    "IndicatorDescription": description,
-    "DataKey": row['Indicator Name'],
-    "DataSourceName": row['Indicator Source'],
-    "DataSourceLink": row['Indicator Source url'],
-    "LabelSuffix": suffix,
-    "LabelPrefix": "",
-    "LabelFormat": "",
-    "BinningRange5": [],
-    "BinningRangeLarge": [],
-    "Categories": [],
-    "CategorizeByRanking": False,
-    "IsCategorical": False,
-    "IsDivergent": False,
-    "ScatterPlot": True,
-    "Map": True,
-    "BarGraph": True,
-    "Sizing": True,
-    "Color": True,
-    "RegionalAggregation": False,
-    "SignatureSolution": row['Signature Solutions'].split(','),
-    "SSTopics": row['Viva Topics'].split(','),
-  })
+        "IndicatorLabelTable": row['indicatorname'],
+        "id": row['indicatorid'],
+        "IndicatorDescription": description,
+        "DataKey": row['indicatorname'],
+        "DataSourceName": row['indicatorsource'],
+        "DataSourceLink": row['indicatorsourceurl'],
+        "LabelSuffix": suffix,
+        "LabelPrefix": "",
+        "LabelFormat": "",
+        "BinningRange5": [],
+        "BinningRangeLarge": [],
+        "Categories": [],
+        "CategorizeByRanking": False,
+        "IsCategorical": False,
+        "IsDivergent": False,
+        "ScatterPlot": True,
+        "Map": True,
+        "BarGraph": True,
+        "Sizing": True,
+        "Color": True,
+        "RegionalAggregation": False,
+        "SignatureSolution": row['signaturesolutions'].split(','),
+        "SSTopics": row['vivatopics'].split(','),
+        "SDGs": [f"SDG {d}" for d in str(row['SDG']).split(',')],
+        "Tags": row['Tag'].split(','),
+    })
 
-output_file_path = 'indicators.json'
+output_file_path = 'indicatorsNew.json'
 
 # Write the JSON object to a file.
 with open(output_file_path, 'w') as json_file:
