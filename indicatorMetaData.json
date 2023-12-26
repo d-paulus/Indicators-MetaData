@@ -15646,7 +15646,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Abortion: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+    "IndicatorLabel": "Abortion: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
     "id": "abortion_abrtlr",
     "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 3: Abortion  ",
     "DataKey": "Abortion: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
@@ -15698,7 +15698,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Adequacy of social safety net programs (percentage of total welfare of beneficiary households)",
+    "IndicatorLabel": "Adequacy of social safety net programs (percentage of total welfare of beneficiary households)",
     "id": "adequacyofsocialsafetynetprograms_wdi",
     "IndicatorDescription": "Adequacy of social safety net programs is measured by the total transfer amount received by the population participating in social safety netprograms as a share of their total welfare. Social safety net programs include cash transfers, social pensions, cash transfers, school feeding, andother social assistance programs.",
     "DataKey": "Adequacy of social safety net programs (percentage of total welfare of beneficiary households)",
@@ -15748,7 +15748,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Ambient particulate matter pollution exposure",
+    "IndicatorLabel": "Ambient particulate matter pollution exposure",
     "id": "ambientparticulatematterpollutionexposure_apmattpe",
     "IndicatorDescription": "Ambient particulate matter pollution exposure (mean estimate)",
     "DataKey": "Ambient particulate matter pollution exposure",
@@ -15803,7 +15803,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Antiretroviral therapy coverage among men who have sex with men living with HIV",
+    "IndicatorLabel": "Antiretroviral therapy coverage among men who have sex with men living with HIV",
     "id": "antiretroviraltherapycoverageamongmenhavingsexwithmenhiv_menss",
     "IndicatorDescription": "Antiretroviral therapy coverage among men who have sex with men living with HIV (all ages)",
     "DataKey": "Antiretroviral therapy coverage among men who have sex with men living with HIV",
@@ -15854,7 +15854,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Men who have sex with men: Avoidance of health care because of stigma and discrimination",
+    "IndicatorLabel": "Men who have sex with men: Avoidance of health care because of stigma and discrimination",
     "id": "avoidanceofhealthcareduetostigmaanddiscrimination_menahcsd",
     "IndicatorDescription": "Men who have sex with men: Avoidance of health care because of stigma and discrimination, all ages",
     "DataKey": "Men who have sex with men: Avoidance of health care because of stigma and discrimination",
@@ -15906,7 +15906,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Beds for mental health in general hospitals (per 100,000)",
+    "IndicatorLabel": "Beds for mental health in general hospitals (per 100,000)",
     "id": "bedsformentalhealthingeneralhospital_bedsmhgh",
     "IndicatorDescription": "Beds for mental health in general hospitals, per 100,000 ",
     "DataKey": "Beds for mental health in general hospitals (per 100,000)",
@@ -15957,7 +15957,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Beds in mental hospitals (per 100,000) ",
+    "IndicatorLabel": "Beds in mental hospitals (per 100,000) ",
     "id": "bedsinmentalhospitals_bedsmh",
     "IndicatorDescription": "Beds in mental hospitals, per 100,000 ",
     "DataKey": "Beds in mental hospitals (per 100,000) ",
@@ -16008,7 +16008,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Change in absolute number of people exposed to coastal floods - SSP3, RCP 8.5 (2050)",
+    "IndicatorLabel": "Change in absolute number of people exposed to coastal floods - SSP3, RCP 8.5 (2050)",
     "id": "changeinabsolutenumberofpeopleexposedtocoastalfloods_informcc",
     "IndicatorDescription": "Change in absolute number of people exposed to coastal floods under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry \u2013 high challenges for both mitigation and adaptation, including higher population growth) scenarios",
     "DataKey": "Change in absolute number of people exposed to coastal floods - SSP3, RCP 8.5 (2050)",
@@ -16062,7 +16062,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Change in absolute number of people exposed to drought - SSP3, RCP 8.5 (2050)",
+    "IndicatorLabel": "Change in absolute number of people exposed to drought - SSP3, RCP 8.5 (2050)",
     "id": "changeinabsolutenumberofpeopleexposedtodrought_informcc",
     "IndicatorDescription": "Change in absolute number of people exposed to drought under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry \u2013 high challenges for both mitigation and adaptation, including higher population growth) scenarios",
     "DataKey": "Change in absolute number of people exposed to drought - SSP3, RCP 8.5 (2050)",
@@ -16117,7 +16117,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Change in absolute number of people exposed to Floods - SSP3, RCP 8.5 (2050)",
+    "IndicatorLabel": "Change in absolute number of people exposed to Floods - SSP3, RCP 8.5 (2050)",
     "id": "changeinabsolutenumberofpeopleexposedtofloods_informcc",
     "IndicatorDescription": "Change in absolute number of people exposed to floods under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry \u2013 high challenges for both mitigation and adaptation, including higher population growth) scenarios",
     "DataKey": "Change in absolute number of people exposed to Floods - SSP3, RCP 8.5 (2050)",
@@ -16170,7 +16170,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Change in absolute number of people exposed to malaria and dengue -SSP3, RCP 8.5 (2050)",
+    "IndicatorLabel": "Change in absolute number of people exposed to malaria and dengue -SSP3, RCP 8.5 (2050)",
     "id": "changeinabsolutenumberofpeopleexposedtomalariaanddengue_informcc",
     "IndicatorDescription": "Change in absolute number of people exposed to malaria and dengue under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry \u2013 high challenges for both mitigation and adaptation, including higher population growth) scenarios",
     "DataKey": "Change in absolute number of people exposed to malaria and dengue -SSP3, RCP 8.5 (2050)",
@@ -16223,7 +16223,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Change in Human Hazard & Exposure to conflict -SSP3, RCP 8.5 (2050)",
+    "IndicatorLabel": "Change in Human Hazard & Exposure to conflict -SSP3, RCP 8.5 (2050)",
     "id": "changeinhumanhazardandexposuretoconflict_informcc",
     "IndicatorDescription": "Change in absolute number of people exposed to conflict under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry \u2013 high challenges for both mitigation and adaptation, including higher population growth) scenarios",
     "DataKey": "Change in Human Hazard & Exposure to conflict -SSP3, RCP 8.5 (2050)",
@@ -16275,7 +16275,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $1.90 poverty line",
+    "IndicatorLabel": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $1.90 poverty line",
     "id": "changeinpovertygapduetooutofpockethealthspending$1.9povertyline_hefpi",
     "IndicatorDescription": "Change (in international $) in poverty gap due to out-of-pocket health spending using $1.90 poverty line, defined as 1.9 times the difference between the per capita poverty gap for consumption (or income) net of out-of-pocket expenditures and the per capita poverty gap for consumption (or income) gross of out-of-pocket expenditures",
     "DataKey": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $1.90 poverty line",
@@ -16326,7 +16326,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $3.20 poverty line",
+    "IndicatorLabel": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $3.20 poverty line",
     "id": "changeinpovertygapduetooutofpockethealthspending$3.2povertyline_hefpi",
     "IndicatorDescription": "Change (in international $) in poverty gap due to out-of-pocket health spending using $3.20 poverty line, defined as 3.2 times the difference between the per capita poverty gap for consumption (or income) net of out-of-pocket expenditures and the per capita poverty gap for consumption (or income) gross of out-of-pocket expenditures",
     "DataKey": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $3.20 poverty line",
@@ -16380,7 +16380,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $5.50 poverty line",
+    "IndicatorLabel": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $5.50 poverty line",
     "id": "changeinpovertygapduetooutofpockethealthspending$5.5povertyline_hefpi",
     "IndicatorDescription": "Change (in international $) in poverty gap due to out-of-pocket health spending using $5.50 poverty line, defined as 5.5 times the difference between the per capita poverty gap for consumption (or income) net of out-of-pocket expenditures and the per capita poverty gap for consumption (or income) gross of out-of-pocket expenditures",
     "DataKey": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $5.50 poverty line",
@@ -16433,7 +16433,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Chemical Events (IHR SPAR)",
+    "IndicatorLabel": "Chemical Events (IHR SPAR)",
     "id": "chemicalevents_chemevents",
     "IndicatorDescription": "The self-reported proportion/percentage of attribute (a set of specific elements or functions which reflect the level of performance or achievement of Core Capacity: Chemical Events) that have been attained.",
     "DataKey": "Chemical Events (IHR SPAR)",
@@ -16485,7 +16485,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Condoms distributed per person in prevention programmes for men who have sex with men",
+    "IndicatorLabel": "Condoms distributed per person in prevention programmes for men who have sex with men",
     "id": "condomdistributionperpersoninprevensionprogrammes_menss",
     "IndicatorDescription": "Condoms distributed per person in prevention programmes for men who have sex with men, all ages",
     "DataKey": "Condoms distributed per person in prevention programmes for men who have sex with men",
@@ -16536,7 +16536,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Condoms distributed to prisoners",
+    "IndicatorLabel": "Condoms distributed to prisoners",
     "id": "condomdistributiontoprisoners_transgp",
     "IndicatorDescription": "Condoms distributed to prisoners, total",
     "DataKey": "Condoms distributed to prisoners",
@@ -16587,7 +16587,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Contraceptive Services: Laws & Regulations",
+    "IndicatorLabel": "Contraceptive Services: Laws & Regulations",
     "id": "contraceptiveservices_cslr",
     "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 5: Contraceptive Services (%)  SH_LGR_ACSRHEC5",
     "DataKey": "Contraceptive Services: Laws & Regulations",
@@ -16639,7 +16639,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Coverage of HIV prevention programmes among people who inject drugs",
+    "IndicatorLabel": "Coverage of HIV prevention programmes among people who inject drugs",
     "id": "coverageofhivpreventionprogrammesamongpeopleinjecteddrugs_pidhivc",
     "IndicatorDescription": "Coverage of HIV prevention programmes among people who inject drugs, Total population",
     "DataKey": "Coverage of HIV prevention programmes among people who inject drugs",
@@ -16690,7 +16690,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Coverage of protected areas in relation to marine areas",
+    "IndicatorLabel": "Coverage of protected areas in relation to marine areas",
     "id": "coverageofprotectedareasinrelationtomarineareas_ermrmmpa",
     "IndicatorDescription": "The extent of designated marine areas that are legally protected and managed for conservation purposes, expressed as a percentage of the total marine area within a given region or jurisdiction.",
     "DataKey": "Coverage of protected areas in relation to marine areas",
@@ -16740,7 +16740,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Deaths attributed to cardiovascular diseases, female (estimate), (rate)",
+    "IndicatorLabel": "Deaths attributed to cardiovascular diseases, female (estimate), (rate)",
     "id": "deathsattributedtocardiovasculardiseasesfemale_dcdfihme",
     "IndicatorDescription": "Deaths attributed to cardiovascular diseases, female (estimate)",
     "DataKey": "Deaths attributed to cardiovascular diseases, female (estimate), (rate)",
@@ -16794,7 +16794,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Deaths attributed to cardiovascular diseases, male (estimate), (rate)",
+    "IndicatorLabel": "Deaths attributed to cardiovascular diseases, male (estimate), (rate)",
     "id": "deathsattributedtocardiovasculardiseasesmale_dcdmihme",
     "IndicatorDescription": "Deaths attributed to cardiovascular diseases, male (estimate)",
     "DataKey": "Deaths attributed to cardiovascular diseases, male (estimate), (rate)",
@@ -16848,7 +16848,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Deaths attributed to chronic respiratory diseases, female (estimate), (rate)",
+    "IndicatorLabel": "Deaths attributed to chronic respiratory diseases, female (estimate), (rate)",
     "id": "deathsattributedtochronicrespiratorydiseasesfemale_dcrdfihme",
     "IndicatorDescription": "Deaths attributed to chronic respiratory diseases, female (estimate)",
     "DataKey": "Deaths attributed to chronic respiratory diseases, female (estimate), (rate)",
@@ -16902,7 +16902,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Deaths attributed to chronic respiratory diseases, male (estimate), (rate)",
+    "IndicatorLabel": "Deaths attributed to chronic respiratory diseases, male (estimate), (rate)",
     "id": "deathsattributedtochronicrespiratorydiseasesmale_dcrdmihme",
     "IndicatorDescription": "Deaths attributed to chronic respiratory diseases, male (estimate)",
     "DataKey": "Deaths attributed to chronic respiratory diseases, male (estimate), (rate)",
@@ -16956,7 +16956,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Deaths attributed to digestive diseases, female (estimate), (rate)",
+    "IndicatorLabel": "Deaths attributed to digestive diseases, female (estimate), (rate)",
     "id": "deathsattributedtodigestivediseasesfemale_dddfihme",
     "IndicatorDescription": "Deaths attributed to digestive diseases, female (estimate)",
     "DataKey": "Deaths attributed to digestive diseases, female (estimate), (rate)",
@@ -17010,7 +17010,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Deaths attributed to digestive diseases, male (estimate), (rate)",
+    "IndicatorLabel": "Deaths attributed to digestive diseases, male (estimate), (rate)",
     "id": "deathsattributedtodigestivediseasesmale_dddmihme",
     "IndicatorDescription": "Deaths attributed to digestive diseases, male (estimate)",
     "DataKey": "Deaths attributed to digestive diseases, male (estimate), (rate)",
@@ -17064,7 +17064,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Deaths attributed to neurological disorders, female (estimate), (rate)",
+    "IndicatorLabel": "Deaths attributed to neurological disorders, female (estimate), (rate)",
     "id": "deathsattributedtoneurologicaldisordersfemale_dndfihme",
     "IndicatorDescription": "Deaths attributed to neurological disorders, female (estimate)",
     "DataKey": "Deaths attributed to neurological disorders, female (estimate), (rate)",
@@ -17118,7 +17118,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Deaths attributed to neurological disorders, male (estimate), (rate)",
+    "IndicatorLabel": "Deaths attributed to neurological disorders, male (estimate), (rate)",
     "id": "deathsattributedtoneurologicaldisordersmale_dndmihme",
     "IndicatorDescription": "Deaths attributed to neurological disorders, male (estimate)",
     "DataKey": "Deaths attributed to neurological disorders, male (estimate), (rate)",
@@ -17172,7 +17172,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Deaths attributed to other non-communicable diseases, female (estimate), (rate)",
+    "IndicatorLabel": "Deaths attributed to other non-communicable diseases, female (estimate), (rate)",
     "id": "deathsattributedtononcommunicablediseasesfemale_doncdfihme",
     "IndicatorDescription": "Deaths attributed to other non-communicable diseases, female (estimate)",
     "DataKey": "Deaths attributed to other non-communicable diseases, female (estimate), (rate)",
@@ -17226,7 +17226,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Deaths attributed to other non-communicable diseases, male (estimate), (rate)",
+    "IndicatorLabel": "Deaths attributed to other non-communicable diseases, male (estimate), (rate)",
     "id": "deathsattributedtononcommunicablediseasesmale_doncdmihme",
     "IndicatorDescription": "Deaths attributed to other non-communicable diseases, male (estimate)",
     "DataKey": "Deaths attributed to other non-communicable diseases, male (estimate), (rate)",
@@ -17280,7 +17280,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of Current Health Expenditure (CHE)",
+    "IndicatorLabel": "Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of Current Health Expenditure (CHE)",
     "id": "expeditureonhivandstdofche_stdexp",
     "IndicatorDescription": "Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of Current Health Expenditure (CHE)",
     "DataKey": "Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of Current Health Expenditure (CHE)",
@@ -17332,7 +17332,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Experience of sexual and/or physical violence among men who have sex with men",
+    "IndicatorLabel": "Experience of sexual and/or physical violence among men who have sex with men",
     "id": "experienceofsexualphisicalviolenceamongmenhadsexwithmen_menss",
     "IndicatorDescription": "Experience of sexual and/or physical violence among men who have sex with men, all ages",
     "DataKey": "Experience of sexual and/or physical violence among men who have sex with men",
@@ -17384,7 +17384,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Experience of stigma and discrimination among men who have sex with men",
+    "IndicatorLabel": "Experience of stigma and discrimination among men who have sex with men",
     "id": "experienceofstigmaanddiscriminationamongmenhadsexwithmen_menss",
     "IndicatorDescription": "Experience of stigma and discrimination among men who have sex with men, all ages",
     "DataKey": "Experience of stigma and discrimination among men who have sex with men",
@@ -17435,7 +17435,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "External sources of funding on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of External Health Expenditure (EXT)",
+    "IndicatorLabel": "External sources of funding on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of External Health Expenditure (EXT)",
     "id": "externalsourcesoffundinghivandstdofexternalhealthexpenditure_stdexp",
     "IndicatorDescription": "External sources of funding on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of External Health Expenditure (EXT)",
     "DataKey": "External sources of funding on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of External Health Expenditure (EXT)",
@@ -17486,7 +17486,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Forest area (% of land area)",
+    "IndicatorLabel": "Forest area (% of land area)",
     "id": "forestareatothepercentageoflandarea_frstarea",
     "IndicatorDescription": "Forest area (% of land area)",
     "DataKey": "Forest area (% of land area)",
@@ -17539,7 +17539,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE)",
+    "IndicatorLabel": "Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE)",
     "id": "gghedaspercentageofgge_gghedgge",
     "IndicatorDescription": "Share of domestic government expenditures funding current health expenditures",
     "DataKey": "Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE)",
@@ -17587,7 +17587,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Government expenditure on education, total (% of GDP)",
+    "IndicatorLabel": "Government expenditure on education, total (% of GDP)",
     "id": "governmentexpenditureontotaleducation_wdi",
     "IndicatorDescription": "Total general government expenditure on education, expressed as a percentage of total general government expenditure on all sectors.",
     "DataKey": "Government expenditure on education, total (% of GDP)",
@@ -17636,7 +17636,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Laws and Regulations that Guarantee Access to Sexual and Reproductive Health Care, Information and Education: Component 10: HIV counselling and test services",
+    "IndicatorLabel": "Laws and Regulations that Guarantee Access to Sexual and Reproductive Health Care, Information and Education: Component 10: HIV counselling and test services",
     "id": "guaranteeaccesstosexualreproductivehealthcareeducationinformation_srhlrcten",
     "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 10: HIV Counselling and Test Services",
     "DataKey": "Laws and Regulations that Guarantee Access to Sexual and Reproductive Health Care, Information and Education: Component 10: HIV counselling and test services",
@@ -17690,7 +17690,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "HIV Confidentiality",
+    "IndicatorLabel": "HIV Confidentiality",
     "id": "hivconfidentiality_hivconf",
     "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 12: HIV Confidentiality (%)",
     "DataKey": "HIV Confidentiality",
@@ -17744,7 +17744,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "HIV prevalence among men who have sex with men",
+    "IndicatorLabel": "HIV prevalence among men who have sex with men",
     "id": "hivprevalenceamongmen_hivpmen",
     "IndicatorDescription": "HIV prevalence among men who have sex with men, all ages",
     "DataKey": "HIV prevalence among men who have sex with men",
@@ -17795,7 +17795,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "HIV prevalence among prisoners",
+    "IndicatorLabel": "HIV prevalence among prisoners",
     "id": "hivprevalenceamongprisoners_transgp",
     "IndicatorDescription": "HIV prevalence among prisoners, total",
     "DataKey": "HIV prevalence among prisoners",
@@ -17846,7 +17846,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "HIV prevalence among transgender people",
+    "IndicatorLabel": "HIV prevalence among transgender people",
     "id": "hivprevalenceamongtransgenderpeople_transgp",
     "IndicatorDescription": "HIV prevalence among transgender people, Total",
     "DataKey": "HIV prevalence among transgender people",
@@ -17899,7 +17899,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "HIV testing and status awareness among people who inject drugs",
+    "IndicatorLabel": "HIV testing and status awareness among people who inject drugs",
     "id": "hivtestingandstatusawarenessamongpeopleinjecteddrugs_pidhivtsa",
     "IndicatorDescription": "HIV testing and status awareness among people who inject drugs, Total population",
     "DataKey": "HIV testing and status awareness among people who inject drugs",
@@ -17951,7 +17951,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "HIV Treatment and Care Services",
+    "IndicatorLabel": "HIV Treatment and Care Services",
     "id": "hivtreatmentandcareservice_hivtcs",
     "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 11: HIV Treatment and Care Services (%)",
     "DataKey": "HIV Treatment and Care Services",
@@ -18005,7 +18005,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Household air pollution from solid fuels",
+    "IndicatorLabel": "Household air pollution from solid fuels",
     "id": "householdairpolutionfromsolidfuels_hapsfuel",
     "IndicatorDescription": "Household air pollution from solid fuels (mean estimate)",
     "DataKey": "Household air pollution from solid fuels",
@@ -18060,7 +18060,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Life Saving Commodities: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+    "IndicatorLabel": "Life Saving Commodities: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
     "id": "lifesavingcommodities_lsclr",
     "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 2: Life Saving Commodities (%)",
     "DataKey": "Life Saving Commodities: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
@@ -18111,7 +18111,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Maternity Care: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+    "IndicatorLabel": "Maternity Care: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
     "id": "maternitycare_mclr",
     "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 1: Maternity Care (%)",
     "DataKey": "Maternity Care: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
@@ -18162,7 +18162,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Mean household per capita out-of-pocket health spending ($ 2011 PPP)",
+    "IndicatorLabel": "Mean household per capita out-of-pocket health spending ($ 2011 PPP)",
     "id": "meanhouseholdpercapitaoutofhealthspending_hefpi",
     "IndicatorDescription": "Mean household per capita out-of-pocket health spending ($ 2011 PPP)",
     "DataKey": "Mean household per capita out-of-pocket health spending ($ 2011 PPP)",
@@ -18216,7 +18216,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Medical Waste (tons per year)",
+    "IndicatorLabel": "Medical Waste (tons per year)",
     "id": "medicalwastetonsperyear_medwaste",
     "IndicatorDescription": "Total tonnage of medical waste.",
     "DataKey": "Medical Waste (tons per year)",
@@ -18269,7 +18269,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Mental health day treatment facilities (per 100,000) ",
+    "IndicatorLabel": "Mental health day treatment facilities (per 100,000) ",
     "id": "mentalhealthdaytreatmentfacilities_mhdtf",
     "IndicatorDescription": "Mental health day treatment facilities (per 100,000)",
     "DataKey": "Mental health day treatment facilities (per 100,000) ",
@@ -18321,7 +18321,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Mental health outpatient facilities (per 100,000) ",
+    "IndicatorLabel": "Mental health outpatient facilities (per 100,000) ",
     "id": "mentalhealthoutpatientfacilities_mhof",
     "IndicatorDescription": "Mental health outpatient facilities (per 100,000)",
     "DataKey": "Mental health outpatient facilities (per 100,000) ",
@@ -18372,7 +18372,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Mental health units in general hospitals (per 100,000) ",
+    "IndicatorLabel": "Mental health units in general hospitals (per 100,000) ",
     "id": "mentalhealthunitsingeneralhospitals_mhugh",
     "IndicatorDescription": "Mental health units in general hospitals (per 100,000) ",
     "DataKey": "Mental health units in general hospitals (per 100,000) ",
@@ -18424,7 +18424,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Mental health units in general hospitals admissions (per 100,000) ",
+    "IndicatorLabel": "Mental health units in general hospitals admissions (per 100,000) ",
     "id": "mentalhealthunitsingeneralhospitalsadmissions_mhugha",
     "IndicatorDescription": "Mental health units in general hospitals admissions (per 100,000) ",
     "DataKey": "Mental health units in general hospitals admissions (per 100,000) ",
@@ -18476,7 +18476,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Men who have sex with men: Population size estimate",
+    "IndicatorLabel": "Men who have sex with men: Population size estimate",
     "id": "menwhohadsexwithmenpopulationsizeestimate_menss",
     "IndicatorDescription": "Men who have sex with men: Population size estimate, central estimate",
     "DataKey": "Men who have sex with men: Population size estimate",
@@ -18527,7 +18527,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Mother-to-child HIV transmission rate",
+    "IndicatorLabel": "Mother-to-child HIV transmission rate",
     "id": "mothertochildhivtransmissionrate_mchvitr",
     "IndicatorDescription": "Estimated number of children aged 0-4 newly infected with HIV from mother-to-child transmission for every 100 women living with HIV delivering in the past 12 months\n",
     "DataKey": "Mother-to-child HIV transmission rate",
@@ -18579,7 +18579,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+    "IndicatorLabel": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
     "id": "numberofdeathsandmissingpersonsanddirectlyaffectedpeopleattributedtodisaster_ndmdsr",
     "IndicatorDescription": "Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
     "DataKey": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
@@ -18631,7 +18631,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "HIV, Estimated number of pregnant women living with HIV needing antiretrovirals for preventing mother-to-child transmission ",
+    "IndicatorLabel": "HIV, Estimated number of pregnant women living with HIV needing antiretrovirals for preventing mother-to-child transmission ",
     "id": "numofpregnantwomanwithhivneedingantiretrovirals_hivpwnpmtct",
     "IndicatorDescription": "Estimated number of pregnant women living with HIV needing antiretrovirals for preventing mother-to-child transmission based on WHO methods.  The number of pregnant women living with HIV who need antiretroviral medicine for preventing mother-to-child transmission is estimated using standardized statistical modelling based on UNAIDS/WHO methods that consider various epidemic and demographic parameters and the national programme coverage of antiretroviral therapy in the country, such as the HIV prevalence among women of reproductive age and the effect of HIV on fertility and antiretroviral therapy coverage.",
     "DataKey": "HIV, Estimated number of pregnant women living with HIV needing antiretrovirals for preventing mother-to-child transmission ",
@@ -18684,7 +18684,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "HIV, Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission ",
+    "IndicatorLabel": "HIV, Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission ",
     "id": "numofpregnantwomenwithhivreceivedantiretrovirals_hivpwrapmtct",
     "IndicatorDescription": " Numerator: Number of HIV-positive pregnant women who received the most effective antiretroviral regimens as recommended by WHO (i.e. excluding single-dose nevirapine) during the past 12 months to reduce mother-to-child transmission. Denominator: Estimated number of HIV-positive pregnant women within the past 12 months.",
     "DataKey": "HIV, Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission ",
@@ -18737,7 +18737,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Nurses working in mental health sector (per 100 000) ",
+    "IndicatorLabel": "Nurses working in mental health sector (per 100 000) ",
     "id": "nursesworkinginmentalhealthsector_nursmhs",
     "IndicatorDescription": "Nurses working in mental health sector (per 100 000) ",
     "DataKey": "Nurses working in mental health sector (per 100 000) ",
@@ -18788,7 +18788,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "People who inject drugs: Avoidance of health care because of stigma and discrimination",
+    "IndicatorLabel": "People who inject drugs: Avoidance of health care because of stigma and discrimination",
     "id": "peopleinjecteddrugsavoidanceofhealthcareduetostigmaanddiscrimination_pidahcsd",
     "IndicatorDescription": "People who inject drugs: Avoidance of health care because of stigma and discrimination, Total",
     "DataKey": "People who inject drugs: Avoidance of health care because of stigma and discrimination",
@@ -18841,7 +18841,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "People who inject drugs - HIV prevalence",
+    "IndicatorLabel": "People who inject drugs - HIV prevalence",
     "id": "peopleinjecteddrugshivprevalence_pidhivp",
     "IndicatorDescription": "HIV prevalence among people who inject drugs, Total",
     "DataKey": "People who inject drugs - HIV prevalence",
@@ -18891,7 +18891,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "People who inject drugs - needles per injector",
+    "IndicatorLabel": "People who inject drugs - needles per injector",
     "id": "peopleinjecteddrugsneedlesperinjector_pidni",
     "IndicatorDescription": "People who inject drugs - needles per injector, rate",
     "DataKey": "People who inject drugs - needles per injector",
@@ -18943,7 +18943,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "People who inject drugs -  Population size estimate",
+    "IndicatorLabel": "People who inject drugs -  Population size estimate",
     "id": "peopleinjecteddrugspopulationsizeestimate_pidpse",
     "IndicatorDescription": "People who inject drugs -  Population size estimate, central estimate",
     "DataKey": "People who inject drugs -  Population size estimate",
@@ -18994,7 +18994,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Percentage of girls (aged 0-14) who have undergone female genital mutilation (FGM)",
+    "IndicatorLabel": "Percentage of girls (aged 0-14) who have undergone female genital mutilation (FGM)",
     "id": "percentageofgirlsundergonefemalegenitalmalfunctionsagebelow15_fgmua",
     "IndicatorDescription": "Percentage of girls (aged 0-14 years) who have undergone female genital mutilation (FGM)",
     "DataKey": "Percentage of girls (aged 0-14) who have undergone female genital mutilation (FGM)",
@@ -19047,7 +19047,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Percentage of girls and women (aged 15-49 years) who have undergone female genital mutilation (FGM)",
+    "IndicatorLabel": "Percentage of girls and women (aged 15-49 years) who have undergone female genital mutilation (FGM)",
     "id": "percentageofgirlsundergonefemalegenitalmalfunctionsagebetween15to49_fgmafa",
     "IndicatorDescription": "FGM is a harmful practice that violates the rights and impairs the well-being of girls. In communities where it is practised, it can be seen as a direct manifestation of gender inequality, reflecting societal values that hold girls in low esteem and deprive them of agency. Thus, in the SDG framework the target of eliminating harmful practices is placed under the goal for gender equality. FGM is addressed in a number of international conventions and agreements and is prohibited by national legislation in many countries. This indicator intends to measure the prevalence of female genital mutilation, that is, how widespread the practice is in the population. ",
     "DataKey": "Percentage of girls and women (aged 15-49 years) who have undergone female genital mutilation (FGM)",
@@ -19100,7 +19100,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Terrestrial protected areas (% of total land area)",
+    "IndicatorLabel": "Terrestrial protected areas (% of total land area)",
     "id": "percentofterrestrialprotectedareasoftotallandareas_trrprotarea",
     "IndicatorDescription": "Terrestrial protected areas (% of total land area)",
     "DataKey": "Terrestrial protected areas (% of total land area)",
@@ -19154,7 +19154,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure (%)",
+    "IndicatorLabel": "Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure (%)",
     "id": "populationbelowsixtyofmedianconsumptionpovertylinebyoutofpockethealthcareexpenditure_hefpi",
     "IndicatorDescription": "Total population pushed further below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income.",
     "DataKey": "Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure (%)",
@@ -19209,7 +19209,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Prevalence - Alcohol and substance use disorders: Both sexes (age-standardized percent)",
+    "IndicatorLabel": "Prevalence - Alcohol and substance use disorders: Both sexes (age-standardized percent)",
     "id": "prevalencealcoholandsubstanceusedisordersbothsexes_pasdis",
     "IndicatorDescription": "Prevalence - Alcohol and substance use disorders: Both (age-standardized percent)",
     "DataKey": "Prevalence - Alcohol and substance use disorders: Both sexes (age-standardized percent)",
@@ -19264,7 +19264,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Prevalence of cardiovascular diseases, female (estimate), (rate)",
+    "IndicatorLabel": "Prevalence of cardiovascular diseases, female (estimate), (rate)",
     "id": "prevalenceofcardiovasculardiseasesfemale_pcdfihme",
     "IndicatorDescription": "Prevalence of cardiovascular diseases, female (estimate)",
     "DataKey": "Prevalence of cardiovascular diseases, female (estimate), (rate)",
@@ -19318,7 +19318,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Prevalence of cardiovascular diseases, male (estimate), (rate)",
+    "IndicatorLabel": "Prevalence of cardiovascular diseases, male (estimate), (rate)",
     "id": "prevalenceofcardiovasculardiseasesmale_pcdmihme",
     "IndicatorDescription": "Prevalence of cardiovascular diseases, male (estimate)",
     "DataKey": "Prevalence of cardiovascular diseases, male (estimate), (rate)",
@@ -19372,7 +19372,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Prevalence of chronic respiratory diseases, female (estimate), (rate)",
+    "IndicatorLabel": "Prevalence of chronic respiratory diseases, female (estimate), (rate)",
     "id": "prevalenceofchronicrespiratorydiseasesfemale_pcrdfihme",
     "IndicatorDescription": "Prevalence of chronic respiratory diseases, female (estimate)",
     "DataKey": "Prevalence of chronic respiratory diseases, female (estimate), (rate)",
@@ -19426,7 +19426,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Prevalence of chronic respiratory diseases, male (estimate), (rate)",
+    "IndicatorLabel": "Prevalence of chronic respiratory diseases, male (estimate), (rate)",
     "id": "prevalenceofchronicrespiratorydiseasesmale_pcrdmihme",
     "IndicatorDescription": "Prevalence of chronic respiratory diseases, male (estimate)",
     "DataKey": "Prevalence of chronic respiratory diseases, male (estimate), (rate)",
@@ -19479,7 +19479,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Prevalence of digestive diseases, female (estimate), (rate)",
+    "IndicatorLabel": "Prevalence of digestive diseases, female (estimate), (rate)",
     "id": "prevalenceofdigestivediseasesfemale_pddfihme",
     "IndicatorDescription": "Prevalence of digestive diseases, female (estimate)",
     "DataKey": "Prevalence of digestive diseases, female (estimate), (rate)",
@@ -19533,7 +19533,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Prevalence of digestive diseases, male (estimate), (rate)",
+    "IndicatorLabel": "Prevalence of digestive diseases, male (estimate), (rate)",
     "id": "prevalenceofdigestivediseasesmale_pddmihme",
     "IndicatorDescription": "Prevalence of digestive diseases, male (estimate)",
     "DataKey": "Prevalence of digestive diseases, male (estimate), (rate)",
@@ -19587,7 +19587,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Prevalence of neurological disorders, male (estimate), (rate)",
+    "IndicatorLabel": "Prevalence of neurological disorders, male (estimate), (rate)",
     "id": "prevalenceofneurologicaldisordersfemale_pdnfihme",
     "IndicatorDescription": "Prevalence of neurological disorders, male (estimate)",
     "DataKey": "Prevalence of neurological disorders, male (estimate), (rate)",
@@ -19641,7 +19641,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Prevalence of neurological disorders, female (estimate), (rate)",
+    "IndicatorLabel": "Prevalence of neurological disorders, female (estimate), (rate)",
     "id": "prevalenceofneurologicaldisordersfemale_pdnfihme",
     "IndicatorDescription": "Prevalence of neurological disorders, female (estimate)",
     "DataKey": "Prevalence of neurological disorders, female (estimate), (rate)",
@@ -19695,7 +19695,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Prevalence of other non-communicable diseases, female (estimate), (rate)",
+    "IndicatorLabel": "Prevalence of other non-communicable diseases, female (estimate), (rate)",
     "id": "prevalenceofnoncommunicablediseasesfemale_poncdfihme",
     "IndicatorDescription": "Prevalence of other non-communicable diseases, female (estimate)",
     "DataKey": "Prevalence of other non-communicable diseases, female (estimate), (rate)",
@@ -19746,7 +19746,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Prevalence of other non-communicable diseases, male (estimate), (rate)",
+    "IndicatorLabel": "Prevalence of other non-communicable diseases, male (estimate), (rate)",
     "id": "prevalenceofnoncommunicablediseasesmale_poncdmihme",
     "IndicatorDescription": "Prevalence of other non-communicable diseases, male (estimate)",
     "DataKey": "Prevalence of other non-communicable diseases, male (estimate), (rate)",
@@ -19799,7 +19799,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Prisoners: Population size estimate",
+    "IndicatorLabel": "Prisoners: Population size estimate",
     "id": "prisonerspopulationsizeestimate_transgp",
     "IndicatorDescription": "Prisoners: Population size estimate, central estimate",
     "DataKey": "Prisoners: Population size estimate",
@@ -19852,7 +19852,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Psychiatrists working in mental health sector (per 100,000)",
+    "IndicatorLabel": "Psychiatrists working in mental health sector (per 100,000)",
     "id": "psychiatricsworkinginmentalhealthsector_psychiamhs",
     "IndicatorDescription": "Psychiatrists working in mental health sector (per 100,000)",
     "DataKey": "Psychiatrists working in mental health sector (per 100,000)",
@@ -19904,7 +19904,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Psychologists working in mental health sector (per 100,000)",
+    "IndicatorLabel": "Psychologists working in mental health sector (per 100,000)",
     "id": "psychologistworkinginmentalhealthsector_psycholmhs",
     "IndicatorDescription": "Psychologists working in mental health sector (per 100,000)",
     "DataKey": "Psychologists working in mental health sector (per 100,000)",
@@ -19956,7 +19956,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Public Health Risk Communication",
+    "IndicatorLabel": "Public Health Risk Communication",
     "id": "publichealthriskcommunication_phrcomm",
     "IndicatorDescription": "Risk communications is a multi-level and multi-faceted process which aims to help stakeholders define risks, identify hazards, assess vulnerabilities and promote community resilience, thereby promoting the capacity to cope with an unfolding public health emergency. It includes communication with the general public, families and communities about public health risks, for which events and outbreak communication is an essential part. Risk communications should take into consideration the social, religious, cultural, political and economic context in which events occur, and also involve listening to the affected populations. Information dissemination through appropriate channels is also important. This self-reported indicator denotes  the proportion/percentage of attribute (a set of specific elements or functions which reflect the level of performance or achievement of Core Capacity 6: Risk communication) that have been attained.",
     "DataKey": "Public Health Risk Communication",
@@ -20007,7 +20007,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Safe injecting practices among people who inject drugs",
+    "IndicatorLabel": "Safe injecting practices among people who inject drugs",
     "id": "safeinjectingpractices_pidsip",
     "IndicatorDescription": "Safe injecting practices among people who inject drugs, Total population",
     "DataKey": "Safe injecting practices among people who inject drugs",
@@ -20058,7 +20058,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Sexual and reproductive health laws and regulations",
+    "IndicatorLabel": "Sexual and reproductive health laws and regulations",
     "id": "sexualandreproductivehealthlawsandregulations_srhlr",
     "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 4: HIV and HPV (%)",
     "DataKey": "Sexual and reproductive health laws and regulations",
@@ -20111,7 +20111,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Sexuality Education: Laws & Regulations",
+    "IndicatorLabel": "Sexuality Education: Laws & Regulations",
     "id": "sexualityeducation_selr",
     "IndicatorDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 3: Sexuality Education (%)",
     "DataKey": "Sexuality Education: Laws & Regulations",
@@ -20162,7 +20162,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Sex Workers- coverage of HIV Prevention Programmes",
+    "IndicatorLabel": "Sex Workers- coverage of HIV Prevention Programmes",
     "id": "sexworkerscoverageofpreventionprogrammes_swhivppc",
     "IndicatorDescription": "Coverage of HIV prevention programmes among sex workers, total",
     "DataKey": "Sex Workers- coverage of HIV Prevention Programmes",
@@ -20214,7 +20214,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Sex Workers-  Population size estimate (all ages)",
+    "IndicatorLabel": "Sex Workers-  Population size estimate (all ages)",
     "id": "sexworkerspopulationsizeestimate_swpse",
     "IndicatorDescription": "Sex workers: Population size estimate, central estimate",
     "DataKey": "Sex Workers-  Population size estimate (all ages)",
@@ -20267,7 +20267,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Suicide rate per 100,000 population- age-standardized",
+    "IndicatorLabel": "Suicide rate per 100,000 population- age-standardized",
     "id": "suiciderateagestanderdized_srppas",
     "IndicatorDescription": "Suicide rate per 100,000 population- age-standardized",
     "DataKey": "Suicide rate per 100,000 population- age-standardized",
@@ -20318,7 +20318,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Surveillance Capacity (IHR SPAR)",
+    "IndicatorLabel": "Surveillance Capacity (IHR SPAR)",
     "id": "surveillancecapacity_survcap",
     "IndicatorDescription": "The proportion/percentage of attribute (a set of specific elements or functions which reflect the level of performance or achievement of Core Capacity 3: Surveillance) that have been attained. ",
     "DataKey": "Surveillance Capacity (IHR SPAR)",
@@ -20370,7 +20370,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Total workforce in mental health sector (per 100,000) ",
+    "IndicatorLabel": "Total workforce in mental health sector (per 100,000) ",
     "id": "totalworkforceinmentalhealthsector_mhstotwf",
     "IndicatorDescription": "Mental health workers total per 100,000 population. Includes the number of psychiatrists, nurses, social workers and psychologists working in the mental health sector.\t\n\n ",
     "DataKey": "Total workforce in mental health sector (per 100,000) ",
@@ -20424,7 +20424,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Transgender people: Avoidance of health care because of stigma and discrimination",
+    "IndicatorLabel": "Transgender people: Avoidance of health care because of stigma and discrimination",
     "id": "transgederpeopleavoidanceofhealthcareduetostigmaanddiscrimination_transgp",
     "IndicatorDescription": "Transgender people: Avoidance of health care because of stigma and discrimination, all ages",
     "DataKey": "Transgender people: Avoidance of health care because of stigma and discrimination",
@@ -20473,7 +20473,7 @@
     ]
   },
   {
-    "IndicatorLabelTable": "Transgender people - population size estimate",
+    "IndicatorLabel": "Transgender people - population size estimate",
     "id": "transgenderpeoplepopulationsizeestimate_transgp",
     "IndicatorDescription": "Transgender people: Population size estimate, central estimate",
     "DataKey": "Transgender people - population size estimate",
