@@ -1,0 +1,2099 @@
+[
+  {
+    "Indicator": "Population with at Least Secondary Education",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "secedufemalelatest_gii",
+        "IndicatorLabel": "Population with at Least Secondary Education, female"
+      },
+      {
+        "key": "Male",
+        "id": "secedumalelatest_gii",
+        "IndicatorLabel": "Population with at Least Secondary Education, male"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Gender Digital Divide",
+      "Poverty and Inequality Metrics",
+      "Data for Social Norms change and Innovative Policies",
+      "Socio-Economic Mobility",
+      "States capabilities to deliver Gender Equality"
+    ]
+  },
+  {
+    "Indicator": "Labour Force Participation Rate",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "labourforcefemalelatest_gii",
+        "IndicatorLabel": "Labour Force Participation Rate, female"
+      },
+      {
+        "key": "Male",
+        "id": "labourforcemalelatest_gii",
+        "IndicatorLabel": "Labour Force Participation Rate, male"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Poverty and Inequality Metrics",
+      "Future-proof and resilient jobs for women",
+      "Women's Economic Empowerment",
+      "Data for Social Norms change and Innovative Policies",
+      "Future of Work through a systems lens",
+      "States capabilities to deliver Gender Equality"
+    ]
+  },
+  {
+    "Indicator": "Share of Parliament Seats, by gender",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "parlimentseatsfemale_gii",
+        "IndicatorLabel": "Share of Parliament Seats Held by Women"
+      },
+      {
+        "key": "Male",
+        "id": "share_of_seats_in_parliament_male_held_by_men_hdr",
+        "IndicatorLabel": "Share of Parliament Seats Held by Men"
+      }
+    ],
+    "SignatureSolution": [
+      "Governance",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Gender-responsive disaster risk reduction and management",
+      "Poverty and Inequality Metrics",
+      "Women's Economic Empowerment",
+      "Inclusive governance and Women_s participation and representation",
+      "Data for Social Norms change and Innovative Policies",
+      "States capabilities to deliver Gender Equality",
+      "Parliamentary Development"
+    ]
+  },
+  {
+    "Indicator": "Literacy rate",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "literacyratefemale_cpialrf",
+        "IndicatorLabel": "Literacy rate, female"
+      },
+      {
+        "key": "Male",
+        "id": "literacyratemale_cpialrm",
+        "IndicatorLabel": "Literacy rate, male"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender",
+      "Environment"
+    ],
+    "SSTopics": [
+      "SIDS",
+      "Gender Digital Divide",
+      "Poverty and Inequality Metrics",
+      "Data for Social Norms change and Innovative Policies",
+      "Socio-Economic Mobility",
+      "Future of Work through a systems lens",
+      "Informal Economy Facility",
+      "States capabilities to deliver Gender Equality"
+    ]
+  },
+  {
+    "Indicator": "Sectoral Employment, % of total employment",
+    "DisaggregationType": "employment sector",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Services",
+        "id": "employmentinservices_cpiaeis",
+        "IndicatorLabel": "Employment in services, % of total employment"
+      },
+      {
+        "key": "Industry",
+        "id": "employmentinindustry_cpiaeii",
+        "IndicatorLabel": "Employment in industry, % of total employment"
+      },
+      {
+        "key": "Agriculture",
+        "id": "employmentinagriculture_cpiaeia",
+        "IndicatorLabel": "Employment in agriculture, % of total employment"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Sustainable Energy",
+      "Trade and Value Chains",
+      "Fossil Fuel Subsidy Reform",
+      "Energy Finance",
+      "The Energy Crisis",
+      "Jobs",
+      "Energy Governance",
+      "Productive Use of Energy",
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Informal Economy Facility",
+      "Energy Access",
+      "Informal Economy"
+    ]
+  },
+  {
+    "Indicator": "Percentage of schools with access to the internet",
+    "DisaggregationType": "education level",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Primary Schools",
+        "id": "primaryschoolswithinternet_acctoi",
+        "IndicatorLabel": "Percentage of primary schools with access to the internet"
+      },
+      {
+        "key": "Secondary Schools",
+        "id": "secondaryschoolswithinternet_acctoi",
+        "IndicatorLabel": "Percentage of secondary schools with access to the internet"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Future of Growth",
+      "Gender Digital Divide",
+      "Future of Work through a systems lens"
+    ]
+  },
+  {
+    "Indicator": "Human Development Index",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "human_development_index_female_hdr",
+        "IndicatorLabel": "Human Development Index, female"
+      },
+      {
+        "key": "Male",
+        "id": "human_development_index_male_hdr",
+        "IndicatorLabel": "Human Development Index, male"
+      },
+      {
+        "key": "Both sexes",
+        "id": "humandevelopmentindex_undphdi",
+        "IndicatorLabel": "Human Development Index"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender",
+      "Environment"
+    ],
+    "SSTopics": [
+      "Poverty and Inequality Metrics",
+      "SIDS",
+      "Informal Economy Facility"
+    ]
+  },
+  {
+    "Indicator": "Poverty headcount, % of population",
+    "DisaggregationType": "poverty line",
+    "DisaggregatedIndicators": [
+      {
+        "key": "$2.15 a day",
+        "id": "povertyheadcountratioat$1.90_cpiaphr19",
+        "IndicatorLabel": "Poverty headcount ratio at $2.15 a day (2017 PPP), % of population"
+      },
+      {
+        "key": "$3.65 a day",
+        "id": "povertyheadcountratioat$3.20_cpiaphr32",
+        "IndicatorLabel": "Poverty headcount ratio at $3.65 a day (2017 PPP), % of population"
+      },
+      {
+        "key": "$6.85 a day",
+        "id": "povertyheadcountratioat$5.50_cpiaphr55",
+        "IndicatorLabel": "Poverty headcount ratio at $6.85 a day (2017 PPP), % of population"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Socio-Economic Mobility",
+      "Poverty and Inequality Metrics"
+    ]
+  },
+  {
+    "Indicator": "Mortality rate probability attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease, ages 30-70",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "mortalityattributedtononspreadingdiseasefemale_sdgmr",
+        "IndicatorLabel": "Mortality rate probability attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease, female, ages 30-70"
+      },
+      {
+        "key": "Male",
+        "id": "mortalityattributedtononspreadingdiseasemale_sdgmr",
+        "IndicatorLabel": "Mortality rate probability attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease, male, ages 30-70"
+      },
+      {
+        "key": "Both sexes",
+        "id": "mortalityattributedtononspreadingdisease_sdgmr",
+        "IndicatorLabel": "Mortality rate probability attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease, total, ages 30-70"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Building Resilient and Sustainable Systems for Health"
+    ]
+  },
+  {
+    "Indicator": "Proportion of population above statutory pensionable age receiving a pension",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "receivingapensionfemale_sdgrap",
+        "IndicatorLabel": "Proportion of population above statutory pensionable age receiving a pension, female"
+      },
+      {
+        "key": "Male",
+        "id": "receivingapensionmale_sdgrap",
+        "IndicatorLabel": "Proportion of population above statutory pensionable age receiving a pension, male"
+      },
+      {
+        "key": "Both sexes",
+        "id": "receivingapensiontotal_sdgrap",
+        "IndicatorLabel": "Proportion of population above statutory pensionable age receiving a pension, total"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Social Protection",
+      "Aging",
+      "Data for Social Norms change and Innovative Policies"
+    ]
+  },
+  {
+    "Indicator": "Population",
+    "DisaggregationType": "Urban/Rural",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Urban",
+        "id": "totalurbanpopulation_cpiatup",
+        "IndicatorLabel": "Urban Population, total"
+      },
+      {
+        "key": "Rural",
+        "id": "totalruralpopulation_cpiatrp",
+        "IndicatorLabel": "Rural Population, total"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Environment",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Sustainable Energy",
+      "Poverty and Inequality Metrics",
+      "Fossil Fuel Subsidy Reform",
+      "Building Resilient and Sustainable Systems for Health",
+      "Sustainable Transport",
+      "Energy Finance",
+      "The Energy Crisis",
+      "Green Hydrogen",
+      "Energy Governance",
+      "Clean Cooking",
+      "Productive Use of Energy",
+      "Energy Efficiency",
+      "Spatial Inequalities",
+      "Just Energy Transition",
+      "Energy and Health",
+      "Future of Work through a systems lens",
+      "Informal Economy Facility",
+      "Energy Access",
+      "Local Action"
+    ]
+  },
+  {
+    "Indicator": "Population Using at least Basic Drinking-Water Services, percent",
+    "DisaggregationType": "Urban/Rural",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Urban",
+        "id": "populationusingbasicdrinkingwaterurban_cpiapbdwu",
+        "IndicatorLabel": "Population Using at least Basic Drinking-Water Services, urban, percent"
+      },
+      {
+        "key": "Rural",
+        "id": "populationusingbasicdrinkingwaterrural_cpiapbdwr",
+        "IndicatorLabel": "Population Using at least Basic Drinking-Water Services, rural, percent"
+      }
+    ],
+    "SignatureSolution": [
+      "Resilience",
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Urban Resilience",
+      "Spatial Inequalities",
+      "Poverty and Inequality Metrics"
+    ]
+  },
+  {
+    "Indicator": "Informal employment by sex and age (thousands), 15 and above",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "informalemploymentbysexandagethousandsfemale15andabove_iloniflage",
+        "IndicatorLabel": "Informal employment by sex and age (thousands), Female, 15 and above"
+      },
+      {
+        "key": "Male",
+        "id": "informalemploymentbysexandagethousandsmale15andabove_iloniflage",
+        "IndicatorLabel": "Informal employment by sex and age (thousands), Male, 15 and above"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "inclusive economies"
+    ]
+  },
+  {
+    "Indicator": "Informal employment by sex and age (thousands), 15-24",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "informalemploymentbysexandagethousandsfemale1524_iloniflage",
+        "IndicatorLabel": "Informal employment by sex and age (thousands), Female, 15-24"
+      },
+      {
+        "key": "Male",
+        "id": "informalemploymentbysexandagethousandsmale1524_iloniflage",
+        "IndicatorLabel": "Informal employment by sex and age (thousands), Male, 15-24"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Youth Economic Empowerment",
+      "inclusive economies"
+    ]
+  },
+  {
+    "Indicator": "Informal employment by sex and age (thousands), 15-64",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "informalemploymentbysexandagethousandsfemale1564_iloniflage",
+        "IndicatorLabel": "Informal employment by sex and age (thousands), Female, 15-64"
+      },
+      {
+        "key": "Male",
+        "id": "informalemploymentbysexandagethousandsmale1564_iloniflage",
+        "IndicatorLabel": "Informal employment by sex and age (thousands), Male, 15-64"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "inclusive economies"
+    ]
+  },
+  {
+    "Indicator": "Informal employment by sex and age (thousands), 25 and above",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "informalemploymentbysexandagethousandsfemale25andabove_iloniflage",
+        "IndicatorLabel": "Informal employment by sex and age (thousands), Female, 25 and above"
+      },
+      {
+        "key": "Male",
+        "id": "informalemploymentbysexandagethousandsmale25andabove_iloniflage",
+        "IndicatorLabel": "Informal employment by sex and age (thousands), Male, 25 and above"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "inclusive economies"
+    ]
+  },
+  {
+    "Indicator": "Share of Informal employment by sex and age (%), 15 and above",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofinformalemploymentbysexandagefemale15andabove_iloniflrtage",
+        "IndicatorLabel": "Share of Informal employment by sex and age (%), Female, 15 and above"
+      },
+      {
+        "key": "Male",
+        "id": "shareofinformalemploymentbysexandagemale15andabove_iloniflrtage",
+        "IndicatorLabel": "Share of Informal employment by sex and age (%), Male, 15 and above"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofinformalemploymentbysexandagetotal15andabove_iloniflrtage",
+        "IndicatorLabel": "Share of Informal employment by sex and age (%), Total, 15 and above"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "inclusive economies"
+    ]
+  },
+  {
+    "Indicator": "Share of Informal employment by sex and age (%), 15-24",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofinformalemploymentbysexandagefemale1524_iloniflrtage",
+        "IndicatorLabel": "Share of Informal employment by sex and age (%), Female, 15-24"
+      },
+      {
+        "key": "Male",
+        "id": "shareofinformalemploymentbysexandagemale1524_iloniflrtage",
+        "IndicatorLabel": "Share of Informal employment by sex and age (%), Male, 15-24"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofinformalemploymentbysexandagetotal1524_iloniflrtage",
+        "IndicatorLabel": "Share of Informal employment by sex and age (%), Total, 15-24"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Youth Economic Empowerment",
+      "inclusive economies"
+    ]
+  },
+  {
+    "Indicator": "Share of Informal employment by sex and age (%), 25 and above",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofinformalemploymentbysexandagefemale25andabove_iloniflrtage",
+        "IndicatorLabel": "Share of Informal employment by sex and age (%), Female, 25 and above"
+      },
+      {
+        "key": "Male",
+        "id": "shareofinformalemploymentbysexandagemale25andabove_iloniflrtage",
+        "IndicatorLabel": "Share of Informal employment by sex and age (%), Male, 25 and above"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofinformalemploymentbysexandagetotal25andabove_iloniflrtage",
+        "IndicatorLabel": "Share of Informal employment by sex and age (%), Total, 25 and above"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "inclusive economies"
+    ]
+  },
+  {
+    "Indicator": "Informal employment in agriculture by sex (thousands)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "informalemploymentbysexandeconomicactivitythousandsfemaleagriculture_ilonifleco",
+        "IndicatorLabel": "Informal employment by sex and economic activity (thousands), Female, Agriculture"
+      },
+      {
+        "key": "Male",
+        "id": "informalemploymentbysexandeconomicactivitythousandsmaleagriculture_ilonifleco",
+        "IndicatorLabel": "Informal employment by sex and economic activity (thousands), Male, Agriculture"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Productivity and Resilience"
+    ]
+  },
+  {
+    "Indicator": "Informal employment in non-ariculture, by sex (thousands)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "informalemploymentbysexandeconomicactivitythousandsfemalenonagriculture_ilonifleco",
+        "IndicatorLabel": "Informal employment by sex and economic activity (thousands), Female, Non-agriculture"
+      },
+      {
+        "key": "Male",
+        "id": "informalemploymentbysexandeconomicactivitythousandsmalenonagriculture_ilonifleco",
+        "IndicatorLabel": "Informal employment by sex and economic activity (thousands), Male, Non-agriculture"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Local Economic Development (LED)"
+    ]
+  },
+  {
+    "Indicator": "Share of Informal employment in agriculture by sex",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofinformalemploymentbysexandeconomicactivityfemaleagriculture_iloniflrteco",
+        "IndicatorLabel": "Share of Informal employment by sex and economic activity (%), Female, Agriculture"
+      },
+      {
+        "key": "Male",
+        "id": "shareofinformalemploymentbysexandeconomicactivitymaleagriculture_iloniflrteco",
+        "IndicatorLabel": "Share of Informal employment by sex and economic activity (%), Male, Agriculture"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofinformalemploymentbysexandeconomicactivitytotalagriculture_iloniflrteco",
+        "IndicatorLabel": "Share of Informal employment by sex and economic activity (%), Total, Agriculture"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy"
+    ]
+  },
+  {
+    "Indicator": "Share of Informal employment in non-agriculture by sex (%)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofinformalemploymentbysexandeconomicactivityfemalenonagriculture_iloniflrteco",
+        "IndicatorLabel": "Share of Informal employment by sex and economic activity (%), Female, Non-agriculture"
+      },
+      {
+        "key": "Male",
+        "id": "shareofinformalemploymentbysexandeconomicactivitymalenonagriculture_iloniflrteco",
+        "IndicatorLabel": "Share of Informal employment by sex and economic activity (%), Male, Non-agriculture"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofinformalemploymentbysexandeconomicactivitytotalnonagriculture_iloniflrteco",
+        "IndicatorLabel": "Share of Informal employment by sex and economic activity (%), Total, Non-agriculture"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Local Economic Development (LED)"
+    ]
+  },
+  {
+    "Indicator": "Informal employment by sex and status in employment (thousands), Employees",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "informalemploymentbysexandstatusinemploymentthousandsfemaleemployees_iloniflste",
+        "IndicatorLabel": "Informal employment by sex and status in employment (thousands), Female, Employees"
+      },
+      {
+        "key": "Male",
+        "id": "informalemploymentbysexandstatusinemploymentthousandsmaleemployees_iloniflste",
+        "IndicatorLabel": "Informal employment by sex and status in employment (thousands), Male, Employees"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Women's Economic Empowerment"
+    ]
+  },
+  {
+    "Indicator": "Informal employment by sex and status in employment (thousands), Self-employed",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "informalemploymentbysexandstatusinemploymentthousandsfemaleselfemployed_iloniflste",
+        "IndicatorLabel": "Informal employment by sex and status in employment (thousands), Female, Self-employed"
+      },
+      {
+        "key": "Male",
+        "id": "informalemploymentbysexandstatusinemploymentthousandsmaleselfemployed_iloniflste",
+        "IndicatorLabel": "Informal employment by sex and status in employment (thousands), Male, Self-employed"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Women's Economic Empowerment"
+    ]
+  },
+  {
+    "Indicator": "Informal employment by sex and status in employment (thousands), Not classified",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "informalemploymentbysexandstatusinemploymentthousandsfemalenotclassified_iloniflste",
+        "IndicatorLabel": "Informal employment by sex and status in employment (thousands), Female, Not classified"
+      },
+      {
+        "key": "Male",
+        "id": "informalemploymentbysexandstatusinemploymentthousandsmalenotclassified_iloniflste",
+        "IndicatorLabel": "Informal employment by sex and status in employment (thousands), Male, Not classified"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Women's Economic Empowerment"
+    ]
+  },
+  {
+    "Indicator": "Share of Informal employment by sex and status in employment (%), Employees",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofinformalemploymentbysexandstatusinemploymentfemaleemployees_iloniflrtste",
+        "IndicatorLabel": "Share of Informal employment by sex and status in employment (%), Female, Employees"
+      },
+      {
+        "key": "Male",
+        "id": "shareofinformalemploymentbysexandstatusinemploymentmaleemployees_iloniflrtste",
+        "IndicatorLabel": "Share of Informal employment by sex and status in employment (%), Male, Employees"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofinformalemploymentbysexandstatusinemploymenttotalemployees_iloniflrtste",
+        "IndicatorLabel": "Share of Informal employment by sex and status in employment (%), Total, Employees"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Women's Economic Empowerment"
+    ]
+  },
+  {
+    "Indicator": "Share of Informal employment by sex and status in employment (%), Self-employed",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofinformalemploymentbysexandstatusinemploymentfemaleselfemployed_iloniflrtste",
+        "IndicatorLabel": "Share of Informal employment by sex and status in employment (%), Female, Self-employed"
+      },
+      {
+        "key": "Male",
+        "id": "shareofinformalemploymentbysexandstatusinemploymentmaleselfemployed_iloniflrtste",
+        "IndicatorLabel": "Share of Informal employment by sex and status in employment (%), Male, Self-employed"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofinformalemploymentbysexandstatusinemploymenttotalselfemployed_iloniflrtste",
+        "IndicatorLabel": "Share of Informal employment by sex and status in employment (%), Total, Self-employed"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Women's Economic Empowerment"
+    ]
+  },
+  {
+    "Indicator": "Share of Informal employment by sex and status in employment (%), Not classified",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofinformalemploymentbysexandstatusinemploymentfemalenotclassified_iloniflrtste",
+        "IndicatorLabel": "Share of Informal employment by sex and status in employment (%), Female, Not classified"
+      },
+      {
+        "key": "Male",
+        "id": "shareofinformalemploymentbysexandstatusinemploymentmalenotclassified_iloniflrtste",
+        "IndicatorLabel": "Share of Informal employment by sex and status in employment (%), Male, Not classified"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofinformalemploymentbysexandstatusinemploymenttotalnotclassified_iloniflrtste",
+        "IndicatorLabel": "Share of Informal employment by sex and status in employment (%), Total, Not classified"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Women's Economic Empowerment"
+    ]
+  },
+  {
+    "Indicator": "Employment outside the Formal Sector by sex and age (thousands), 15 and above",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "employementoutsidetheformalsectorbysexandagethousandsfemale15andabove_ilopiflage",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and age (thousands), Female, 15 and above"
+      },
+      {
+        "key": "Male",
+        "id": "employementoutsidetheformalsectorbysexandagethousandsmale15andabove_ilopiflage",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and age (thousands), Male, 15 and above"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
+    ]
+  },
+  {
+    "Indicator": "Employment outside the Formal Sector by sex (thousands)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "employementoutsidetheformalsectorbysexandagethousandsfemale1524_ilopiflage",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and age (thousands), Female, 15-24"
+      },
+      {
+        "key": "Male",
+        "id": "employementoutsidetheformalsectorbysexandagethousandsmale1524_ilopiflage",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and age (thousands), Male, 15-24"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Youth Economic Empowerment",
+      "Future-proof and resilient jobs for women"
+    ]
+  },
+  {
+    "Indicator": "Employment outside the Formal Sector by sex (thousands)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "employementoutsidetheformalsectorbysexandagethousandsfemale1564_ilopiflage",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and age (thousands), Female, 15-64"
+      },
+      {
+        "key": "Male",
+        "id": "employementoutsidetheformalsectorbysexandagethousandsmale1564_ilopiflage",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and age (thousands), Male, 15-64"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
+    ]
+  },
+  {
+    "Indicator": "Employment outside the Formal Sector by sex (thousands)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "employementoutsidetheformalsectorbysexandagethousandsfemale25andabove_ilopiflage",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and age (thousands), Female, 25 and above"
+      },
+      {
+        "key": "Male",
+        "id": "employementoutsidetheformalsectorbysexandagethousandsmale25andabove_ilopiflage",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and age (thousands), Male, 25 and above"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
+    ]
+  },
+  {
+    "Indicator": "Employment outside the Formal Sector by age (thousands)",
+    "DisaggregationType": "age",
+    "DisaggregatedIndicators": [
+      {
+        "key": "15-24",
+        "id": "employementoutsidetheformalsectorbysexandagethousandstotal1524_ilopiflage",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and age (thousands), Total, 15-24"
+      },
+      {
+        "key": "25 and above",
+        "id": "employementoutsidetheformalsectorbysexandagethousandstotal25andabove_ilopiflage",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and age (thousands), Total, 25 and above"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Youth Economic Empowerment",
+      "Informal Economy"
+    ]
+  },
+  {
+    "Indicator": "Employment outside the Formal Sector for Male by age (thousands)",
+    "DisaggregationType": "age",
+    "DisaggregatedIndicators": [
+      {
+        "key": "15-24",
+        "id": "employementoutsidetheformalsectorbysexandagethousandsmale1524_ilopiflage",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and age (thousands), Male, 15-24"
+      },
+      {
+        "key": "25 and above",
+        "id": "employementoutsidetheformalsectorbysexandagethousandsmale25andabove_ilopiflage",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and age (thousands), Male, 25 and above"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Youth Economic Empowerment",
+      "Informal Economy"
+    ]
+  },
+  {
+    "Indicator": "Employment outside the Formal Sector for Female by age (thousands)",
+    "DisaggregationType": "age",
+    "DisaggregatedIndicators": [
+      {
+        "key": "15-24",
+        "id": "employementoutsidetheformalsectorbysexandagethousandsfemale1524_ilopiflage",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and age (thousands), Female, 15-24"
+      },
+      {
+        "key": "25 and above",
+        "id": "employementoutsidetheformalsectorbysexandagethousandsfemale25andabove_ilopiflage",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and age (thousands), Female, 25 and above"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Youth Economic Empowerment",
+      "Future-proof and resilient jobs for women",
+      "Informal Economy"
+    ]
+  },
+  {
+    "Indicator": "Share of Employment outside the Formal Sector by sex (%), 15 and above",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagefemale15andabove_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Female, 15 and above"
+      },
+      {
+        "key": "Male",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagemale15andabove_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Male, 15 and above"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagetotal15andabove_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Total, 15 and above"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "inclusive economies",
+      "Future-proof and resilient jobs for women"
+    ]
+  },
+  {
+    "Indicator": "Share of Employment outside the Formal Sector by sex (%), 15-24",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagefemale1524_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Female, 15-24"
+      },
+      {
+        "key": "Male",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagemale1524_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Male, 15-24"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagetotal1524_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Total, 15-24"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Future-proof and resilient jobs for women",
+      "Informal Economy",
+      "inclusive economies",
+      "Youth Economic Empowerment",
+      "Informal Economy Facility"
+    ]
+  },
+  {
+    "Indicator": "Share of Employment outside the Formal Sector by sex and age (%), 25 and above",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagefemale25andabove_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Female, 25 and above"
+      },
+      {
+        "key": "Male",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagemale25andabove_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Male, 25 and above"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagetotal25andabove_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Total, 25 and above"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Future-proof and resilient jobs for women",
+      "Women's Economic Empowerment",
+      "Informal Economy",
+      "inclusive economies",
+      "Informal Economy Facility"
+    ]
+  },
+  {
+    "Indicator": "Share of Employment outside the Formal Sector by age (%), 15 and above",
+    "DisaggregationType": "age",
+    "DisaggregatedIndicators": [
+      {
+        "key": "15-24",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagetotal1524_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Total, 15-24"
+      },
+      {
+        "key": "25 and above",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagetotal25andabove_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Total, 25 and above"
+      },
+      {
+        "key": "15 and above",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagetotal15andabove_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Total, 15 and above"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Youth Economic Empowerment"
+    ]
+  },
+  {
+    "Indicator": "Share of Employment outside the Formal Sector for male by age (%), 15 and above",
+    "DisaggregationType": "age",
+    "DisaggregatedIndicators": [
+      {
+        "key": "15-24",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagemale1524_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Male, 15-24"
+      },
+      {
+        "key": "25 and above",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagemale25andabove_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Male, 25 and above"
+      },
+      {
+        "key": "15 and above",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagemale15andabove_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Male, 15 and above"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Youth Economic Empowerment",
+      "Women's Economic Empowerment"
+    ]
+  },
+  {
+    "Indicator": "Share of Employment outside the Formal Sector for female by age (%), 15 and above",
+    "DisaggregationType": "age",
+    "DisaggregatedIndicators": [
+      {
+        "key": "15-24",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagefemale1524_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Female, 15-24"
+      },
+      {
+        "key": "25 and above",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagefemale25andabove_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Female, 25 and above"
+      },
+      {
+        "key": "15 and above",
+        "id": "shareofemployementoutsidetheformalsectorbysexandagefemale15andabove_iloipflrtage",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Female, 15 and above"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Future-proof and resilient jobs for women",
+      "Informal Economy",
+      "inclusive economies",
+      "Youth Economic Empowerment",
+      "Informal Economy Facility",
+      "Women's Economic Empowerment"
+    ]
+  },
+  {
+    "Indicator": "Employment outside in agriculture the Formal Sector by sex and economic activity (thousands)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "employementoutsidetheformalsectorbysexandeconomicactivitythousandsfemaleagriculture_ilopifleco",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and economic activity (thousands), Female, Agriculture"
+      },
+      {
+        "key": "Male",
+        "id": "employementoutsidetheformalsectorbysexandeconomicactivitythousandsmaleagriculture_ilopifleco",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and economic activity (thousands), Male, Agriculture"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
+    ]
+  },
+  {
+    "Indicator": "Employment in non-agriculture outside the Formal Sector by sex",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "employementoutsidetheformalsectorbysexandeconomicactivitythousandsfemalenonagriculture_ilopifleco",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and economic activity (thousands), Female, Non-agriculture"
+      },
+      {
+        "key": "Male",
+        "id": "employementoutsidetheformalsectorbysexandeconomicactivitythousandsmalenonagriculture_ilopifleco",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and economic activity (thousands), Male, Non-agriculture"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Local Economic Development (LED)",
+      "Future-proof and resilient jobs for women"
+    ]
+  },
+  {
+    "Indicator": "Share of Employment in Agriculture outside the Formal Sector by sex (%)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofemployementoutsidetheformalsectorbysexandeconomicactivityfemaleagriculture_ilopiflrteco",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and economic activity (%), Female, Agriculture"
+      },
+      {
+        "key": "Male",
+        "id": "shareofemployementoutsidetheformalsectorbysexandeconomicactivitymaleagriculture_ilopiflrteco",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and economic activity (%), Male, Agriculture"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofemployementoutsidetheformalsectorbysexandeconomicactivitytotalagriculture_ilopiflrteco",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and economic activity (%), Total, Agriculture"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Future-proof and resilient jobs for women",
+      "Women's Economic Empowerment"
+    ]
+  },
+  {
+    "Indicator": "Share of Employment in non-agriculture outside the Formal Sector by sex (%)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofemployementoutsidetheformalsectorbysexandeconomicactivityfemalenonagriculture_ilopiflrteco",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and economic activity (%), Female, Non-agriculture"
+      },
+      {
+        "key": "Male",
+        "id": "shareofemployementoutsidetheformalsectorbysexandeconomicactivitymalenonagriculture_ilopiflrteco",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and economic activity (%), Male, Non-agriculture"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofemployementoutsidetheformalsectorbysexandeconomicactivitytotalnonagriculture_ilopiflrteco",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and economic activity (%), Total, Non-agriculture"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Local Economic Development (LED)",
+      "Future-proof and resilient jobs for women",
+      "Women's Economic Empowerment",
+      "Informal Economy"
+    ]
+  },
+  {
+    "Indicator": "Employment outside the Formal Sector by sex and status in employment (thousands), Employees",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "employementoutsidetheformalsectorbysexandstatusinemploymentthousandsfemaleemployees_ilopiflste",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and status in employment (thousands), Female, Employees"
+      },
+      {
+        "key": "Male",
+        "id": "employementoutsidetheformalsectorbysexandstatusinemploymentthousandsmaleemployees_ilopiflste",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and status in employment (thousands), Male, Employees"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
+    ]
+  },
+  {
+    "Indicator": "Employment outside the Formal Sector by sex and status in employment (thousands), Self-employed",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "employementoutsidetheformalsectorbysexandstatusinemploymentthousandsfemaleselfemployed_ilopiflste",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and status in employment (thousands), Female, Self-employed"
+      },
+      {
+        "key": "Male",
+        "id": "employementoutsidetheformalsectorbysexandstatusinemploymentthousandsmaleselfemployed_ilopiflste",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and status in employment (thousands), Male, Self-employed"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
+    ]
+  },
+  {
+    "Indicator": "Employment outside the Formal Sector by sex and status in employment (thousands), Not classified",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "employementoutsidetheformalsectorbysexandstatusinemploymentthousandsfemalenotclassified_ilopiflste",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and status in employment (thousands), Female, Not classified"
+      },
+      {
+        "key": "Male",
+        "id": "employementoutsidetheformalsectorbysexandstatusinemploymentthousandsmalenotclassified_ilopiflste",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex and status in employment (thousands), Male, Not classified"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
+    ]
+  },
+  {
+    "Indicator": "Share of Employment outside the Formal Sector by sex and status in employment (%), Employees",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymentfemaleemployees_ilopiflrtste",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and status in employment (%), Female, Employees"
+      },
+      {
+        "key": "Male",
+        "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymentmaleemployees_ilopiflrtste",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and status in employment (%), Male, Employees"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymenttotalemployees_ilopiflrtste",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and status in employment (%), Total, Employees"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
+    ]
+  },
+  {
+    "Indicator": "Share of Employment outside the Formal Sector by sex and status in employment (%), Self-employed",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymentfemaleselfemployed_ilopiflrtste",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and status in employment (%), Female, Self-employed"
+      },
+      {
+        "key": "Male",
+        "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymentmaleselfemployed_ilopiflrtste",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and status in employment (%), Male, Self-employed"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymenttotalselfemployed_ilopiflrtste",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and status in employment (%), Total, Self-employed"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy"
+    ]
+  },
+  {
+    "Indicator": "Share of Employment outside the Formal Sector by sex and status in employment (%), Not classified",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymentfemalenotclassified_ilopiflrtste",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and status in employment (%), Female, Not classified"
+      },
+      {
+        "key": "Male",
+        "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymentmalenotclassified_ilopiflrtste",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and status in employment (%), Male, Not classified"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofemployementoutsidetheformalsectorbysexandstatusinemploymenttotalnotclassified_ilopiflrtste",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and status in employment (%), Total, Not classified"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy"
+    ]
+  },
+  {
+    "Indicator": "Share of Employment outside the Formal Sector by sex (%)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofemployementoutsidetheformalsectorbysexthousandsfemale_ilopiflrt",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex (%), Female"
+      },
+      {
+        "key": "Male",
+        "id": "shareofemployementoutsidetheformalsectorbysexthousandsmale_ilopiflrt",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex (%), Male"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofemployementoutsidetheformalsectorbysexthousandstotal_ilopiflrt",
+        "IndicatorLabel": "Share of Employment outside the Formal Sector by sex (%), Total"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Future-proof and resilient jobs for women"
+    ]
+  },
+  {
+    "Indicator": "Share of Informal employment by sex (%)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "shareofinformalemploymentbysexthousandsfemale_iloniflrt",
+        "IndicatorLabel": "Share of Informal employment by sex (%), Female"
+      },
+      {
+        "key": "Male",
+        "id": "shareofinformalemploymentbysexthousandsmale_iloniflrt",
+        "IndicatorLabel": "Share of Informal employment by sex (%), Male"
+      },
+      {
+        "key": "Both sexes",
+        "id": "shareofinformalemploymentbysexthousandstotal_iloniflrt",
+        "IndicatorLabel": "Share of Informal employment by sex (%), Total"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Future-proof and resilient jobs for women",
+      "Women's Economic Empowerment"
+    ]
+  },
+  {
+    "Indicator": "Informal employment by sex (thousands)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "Informalemploymentbysexthousandsfemale",
+        "IndicatorLabel": "Informal employment by sex (thousands), Female"
+      },
+      {
+        "key": "Male",
+        "id": "Informalemploymentbysexthousandsmale_ilolfs",
+        "IndicatorLabel": "Informal employment by sex (thousands), Male"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy",
+      "Jobs",
+      "Future-proof and resilient jobs for women"
+    ]
+  },
+  {
+    "Indicator": "Employment outside the Formal Sector by sex (thousands)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "employementoutsidetheformalsectorbysexthousandsfemale_ilopiflnb",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex (thousands), Female"
+      },
+      {
+        "key": "Male",
+        "id": "employementoutsidetheformalsectorbysexthousandsmale_ilopiflnb",
+        "IndicatorLabel": "Employment outside the Formal Sector by sex (thousands), Male"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [
+      "Informal Economy Facility",
+      "Informal Economy"
+    ]
+  },
+  {
+    "Indicator": "Access to electricity,% of population",
+    "DisaggregationType": "Urban/Rural",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Urban",
+        "id": "access_elec_urban_wb",
+        "IndicatorLabel": "Access to electricity, urban (% of urban population)"
+      },
+      {
+        "key": "Rural",
+        "id": "access_elec_rural_wb",
+        "IndicatorLabel": "Access to electricity, rural (% of rural population)"
+      },
+      {
+        "key": "Total",
+        "id": "access_elec_wb",
+        "IndicatorLabel": "Access to electricity (% of population)"
+      }
+    ],
+    "SignatureSolution": [
+      "Energy"
+    ],
+    "SSTopics": [
+      "Energy Finance",
+      "Fossil Fuel Subsidy Reform",
+      "Sustainable Transport",
+      "The Energy Crisis",
+      "Energy Governance",
+      "Clean Cooking",
+      "Productive Use of Energy",
+      "Energy Efficiency",
+      "Just Energy Transition",
+      "Gender and Energy",
+      "Energy and Health",
+      "Sustainable Energy",
+      "Energy Access"
+    ]
+  },
+  {
+    "Indicator": "Gross National Income Per Capita (in 2017 PPP$)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "gross_national_income_per_capita_female_hdr",
+        "IndicatorLabel": "Gross National Income Per Capita, female (2017 PPP$)"
+      },
+      {
+        "key": "Male",
+        "id": "gross_national_income_per_capita_male_hdr",
+        "IndicatorLabel": "Gross National Income Per Capita, male (2017 PPP$)"
+      },
+      {
+        "key": "Both sexes",
+        "id": "gross_national_income_per_capita_hdr",
+        "IndicatorLabel": "Gross National Income Per Capita (2017 PPP$)"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Women's Economic Empowerment",
+      "Informal Economy Facility",
+      "Development Planning",
+      "Poverty and Inequality Metrics"
+    ]
+  },
+  {
+    "Indicator": "Expected Years of Schooling",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "expected_years_of_schooling_female_hdr",
+        "IndicatorLabel": "Expected Years of Schooling, female"
+      },
+      {
+        "key": "Male",
+        "id": "expected_years_of_schooling_male_hdr",
+        "IndicatorLabel": "Expected Years of Schooling, male"
+      },
+      {
+        "key": "Both sexes",
+        "id": "expected_years_of_schooling_hdr",
+        "IndicatorLabel": "Expected Years of Schooling, both sexes"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Socio-Economic Mobility",
+      "Poverty and Inequality Metrics"
+    ]
+  },
+  {
+    "Indicator": "Mean Years of Schooling",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "mean_years_of_schooling_female_years_hdr",
+        "IndicatorLabel": "Mean Years of Schooling, female"
+      },
+      {
+        "key": "Male",
+        "id": "mean_years_of_schooling_male_years_hdr",
+        "IndicatorLabel": "Mean Years of Schooling, male"
+      },
+      {
+        "key": "Both sexes",
+        "id": "mean_years_of_schooling_years_hdr",
+        "IndicatorLabel": "Mean Years of Schooling, both sexes"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Socio-Economic Mobility",
+      "Poverty and Inequality Metrics"
+    ]
+  },
+  {
+    "Indicator": "Life Expectancy at Birth",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "life_expectancy_at_birth_female_years_hdr",
+        "IndicatorLabel": "Life Expectancy at Birth, female"
+      },
+      {
+        "key": "Male",
+        "id": "life_expectancy_at_birth_male_years_hdr",
+        "IndicatorLabel": "Life Expectancy at Birth, male"
+      },
+      {
+        "key": "Both sexes",
+        "id": "life_expectancy_at_birth_years_hdr",
+        "IndicatorLabel": "Life Expectancy at Birth, both sexes"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Gender"
+    ],
+    "SSTopics": [
+      "Poverty and Inequality Metrics"
+    ]
+  },
+  {
+    "Indicator": "Climate Change-related change in death rates per 100,000 population, by scenario",
+    "DisaggregationType": "climate scenario",
+    "DisaggregatedIndicators": [
+      {
+        "key": "RCP4.5 SSP3",
+        "id": "climate_change_related_change_in_death_rater_per_100000_population_45",
+        "IndicatorLabel": "Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)"
+      },
+      {
+        "key": "RCP8.5 SSP3",
+        "id": "climate_change_related_change_in_death_rater_per_100000_population_85",
+        "IndicatorLabel": "Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)"
+      }
+    ],
+    "SignatureSolution": [
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Climate change and Health"
+    ]
+  },
+  {
+    "Indicator": "Basic Waste Management Services in Healthcare Facilities",
+    "DisaggregationType": "healthcare facility type",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Hospitals",
+        "id": "healthcare_facilities_basic_waste_management_services",
+        "IndicatorLabel": "Basic Waste Management Services in Hospitals"
+      },
+      {
+        "key": "Non-hospital healthcare services",
+        "id": "healthcare_facilities_no_waste_management_service_non_hospital",
+        "IndicatorLabel": "Basic Waste Management Services in Non-hospital Healthcare Services"
+      }
+    ],
+    "SignatureSolution": [
+      "Governance",
+      "Resilience",
+      "Environment"
+    ],
+    "SSTopics": [
+      "Health waste management"
+    ]
+  },
+  {
+    "Indicator": "Universal Health Coverage- Service Coverage",
+    "DisaggregationType": "UHC dimension",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Infectious diseases",
+        "id": "uhc_service_coverage_sub_index_on_infectious_diseases",
+        "IndicatorLabel": "UHC Service Coverage sub-index on infectious diseases"
+      },
+      {
+        "key": "Non-communicable diseases",
+        "id": "uhc_service_index_on_non_communicable_diseases",
+        "IndicatorLabel": "UHC Service Coverage sub-index on noncommunicable diseases"
+      },
+      {
+        "key": "Reproductive, maternal, newborn and child health",
+        "id": "uhc_service_coverage_sub_index_on_reproductive_maternal_newborn_and_child_death",
+        "IndicatorLabel": "UHC Service Coverage sub-index on reproductive, maternal, newborn and child health"
+      },
+      {
+        "key": "Service capacity an access",
+        "id": "uhc_service_coverage_sub_index_on_service_capacity_and_access",
+        "IndicatorLabel": "UHC Service Coverage sub-index on service capacity an access"
+      },
+      {
+        "key": "Total",
+        "id": "uhc_service_coverage_index",
+        "IndicatorLabel": "UHC Service Coverage Index"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Universal Health Coverage",
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
+    ]
+  },
+  {
+    "Indicator": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP)",
+    "DisaggregationType": "poverty line",
+    "DisaggregatedIndicators": [
+      {
+        "key": "$1.90 poverty line",
+        "id": "changeinpovertygapduetooutofpockethealthspending$1.9povertyline_hefpi",
+        "IndicatorLabel": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $1.90 poverty line"
+      },
+      {
+        "key": "$3.20 poverty line",
+        "id": "changeinpovertygapduetooutofpockethealthspending$3.2povertyline_hefpi",
+        "IndicatorLabel": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $3.20 poverty line"
+      },
+      {
+        "key": "$5.50 poverty line",
+        "id": "changeinpovertygapduetooutofpockethealthspending$5.5povertyline_hefpi",
+        "IndicatorLabel": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $5.50 poverty line"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Universal Health Coverage",
+      "Inclusive social protection in the context of HIV and health"
+    ]
+  },
+  {
+    "Indicator": "Deaths attributed to cardiovascular diseases,estimate, (rate)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "deathsattributedtocardiovasculardiseasesfemale_dcdfihme",
+        "IndicatorLabel": "Deaths attributed to cardiovascular diseases, female (estimate), (rate)"
+      },
+      {
+        "key": "Male",
+        "id": "deathsattributedtocardiovasculardiseasesmale_dcdmihme",
+        "IndicatorLabel": "Deaths attributed to cardiovascular diseases, male (estimate), (rate)"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
+    ]
+  },
+  {
+    "Indicator": "Deaths attributed to chronic respiratory diseases, estimate, (rate)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "deathsattributedtochronicrespiratorydiseasesfemale_dcrdfihme",
+        "IndicatorLabel": "Deaths attributed to chronic respiratory diseases, female (estimate), (rate)"
+      },
+      {
+        "key": "Male",
+        "id": "deathsattributedtochronicrespiratorydiseasesmale_dcrdmihme",
+        "IndicatorLabel": "Deaths attributed to chronic respiratory diseases, male (estimate), (rate)"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
+    ]
+  },
+  {
+    "Indicator": "Deaths attributed to digestive diseases, estimate, (rate)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "deathsattributedtodigestivediseasesfemale_dddfihme",
+        "IndicatorLabel": "Deaths attributed to digestive diseases, female (estimate), (rate)"
+      },
+      {
+        "key": "Male",
+        "id": "deathsattributedtodigestivediseasesmale_dddmihme",
+        "IndicatorLabel": "Deaths attributed to digestive diseases, male (estimate), (rate)"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
+    ]
+  },
+  {
+    "Indicator": "Deaths attributed to neurological disorders, estimate, (rate)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "deathsattributedtoneurologicaldisordersfemale_dndfihme",
+        "IndicatorLabel": "Deaths attributed to neurological disorders, female (estimate), (rate)"
+      },
+      {
+        "key": "Male",
+        "id": "deathsattributedtoneurologicaldisordersmale_dndmihme",
+        "IndicatorLabel": "Deaths attributed to neurological disorders, male (estimate), (rate)"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
+    ]
+  },
+  {
+    "Indicator": "Deaths attributed to other non-communicable diseases, estimate, (rate)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "deathsattributedtononcommunicablediseasesfemale_doncdfihme",
+        "IndicatorLabel": "Deaths attributed to other non-communicable diseases, female (estimate), (rate)"
+      },
+      {
+        "key": "Male",
+        "id": "deathsattributedtononcommunicablediseasesmale_doncdmihme",
+        "IndicatorLabel": "Deaths attributed to other non-communicable diseases, male (estimate), (rate)"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
+    ]
+  },
+  {
+    "Indicator": "HIV prevalence, by subpopulation",
+    "DisaggregationType": "vulnerable group",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Men who have sex with men",
+        "id": "hivprevalenceamongmen_hivpmen",
+        "IndicatorLabel": "HIV prevalence among men who have sex with men"
+      },
+      {
+        "key": "Prisoners",
+        "id": "hivprevalenceamongprisoners_transgp",
+        "IndicatorLabel": "HIV prevalence among prisoners"
+      },
+      {
+        "key": "Transgender people",
+        "id": "hivprevalenceamongtransgenderpeople_transgp",
+        "IndicatorLabel": "HIV prevalence among transgender people"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Inclusive social protection in the context of HIV and health",
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ]
+  },
+  {
+    "Indicator": "Prevalence of cardiovascular diseases, estimate, (rate)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "prevalenceofcardiovasculardiseasesfemale_pcdfihme",
+        "IndicatorLabel": "Prevalence of cardiovascular diseases, female (estimate), (rate)"
+      },
+      {
+        "key": "Male",
+        "id": "prevalenceofcardiovasculardiseasesmale_pcdmihme",
+        "IndicatorLabel": "Prevalence of cardiovascular diseases, male (estimate), (rate)"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Resilience",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
+    ]
+  },
+  {
+    "Indicator": "Prevalence of chronic respiratory diseases, estimate, (rate)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "prevalenceofchronicrespiratorydiseasesfemale_pcrdfihme",
+        "IndicatorLabel": "Prevalence of chronic respiratory diseases, female (estimate), (rate)"
+      },
+      {
+        "key": "Male",
+        "id": "prevalenceofchronicrespiratorydiseasesmale_pcrdmihme",
+        "IndicatorLabel": "Prevalence of chronic respiratory diseases, male (estimate), (rate)"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
+    ]
+  },
+  {
+    "Indicator": "Prevalence of digestive diseases, estimate, (rate)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "prevalenceofdigestivediseasesfemale_pddfihme",
+        "IndicatorLabel": "Prevalence of digestive diseases, female (estimate), (rate)"
+      },
+      {
+        "key": "Male",
+        "id": "prevalenceofdigestivediseasesmale_pddmihme",
+        "IndicatorLabel": "Prevalence of digestive diseases, male (estimate), (rate)"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
+    ]
+  },
+  {
+    "Indicator": "Prevalence of neurological disorders, estimate, (rate)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "prevalenceofneurologicaldisordersfemale_pdnfihme",
+        "IndicatorLabel": "Prevalence of neurological disorders, female (estimate), (rate)"
+      },
+      {
+        "key": "Male",
+        "id": "prevalenceofneurologicaldisordersfemale_pdnfihme",
+        "IndicatorLabel": "Prevalence of neurological disorders, male (estimate), (rate)"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
+    ]
+  },
+  {
+    "Indicator": "Prevalence of other non-communicable diseases, estimate, (rate)",
+    "DisaggregationType": "Gender",
+    "DisaggregatedIndicators": [
+      {
+        "key": "Female",
+        "id": "prevalenceofnoncommunicablediseasesfemale_poncdfihme",
+        "IndicatorLabel": "Prevalence of other non-communicable diseases, female (estimate), (rate)"
+      },
+      {
+        "key": "Male",
+        "id": "prevalenceofnoncommunicablediseasesmale_poncdmihme",
+        "IndicatorLabel": "Prevalence of other non-communicable diseases, male (estimate), (rate)"
+      }
+    ],
+    "SignatureSolution": [
+      "Poverty and Inequality",
+      "Governance",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
+    ]
+  }
+]
