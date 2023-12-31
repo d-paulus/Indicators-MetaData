@@ -116,7 +116,7 @@
   },
   {
     "Indicator": "Sectoral Employment, % of total employment",
-    "DisaggregationType": "employment sector",
+    "DisaggregationType": "Employment sector",
     "DisaggregatedIndicators": [
       {
         "key": "Services",
@@ -155,7 +155,7 @@
   },
   {
     "Indicator": "Percentage of schools with access to the internet",
-    "DisaggregationType": "education level",
+    "DisaggregationType": "Education level",
     "DisaggregatedIndicators": [
       {
         "key": "Primary Schools",
@@ -1712,7 +1712,7 @@
   },
   {
     "Indicator": "Climate Change-related change in death rates per 100,000 population, by scenario",
-    "DisaggregationType": "climate scenario",
+    "DisaggregationType": "Climate scenario",
     "DisaggregatedIndicators": [
       {
         "key": "RCP4.5 SSP3",
@@ -1734,7 +1734,7 @@
   },
   {
     "Indicator": "Basic Waste Management Services in Healthcare Facilities",
-    "DisaggregationType": "healthcare facility type",
+    "DisaggregationType": "Healthcare facility type",
     "DisaggregatedIndicators": [
       {
         "key": "Hospitals",
