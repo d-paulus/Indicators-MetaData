@@ -210,7 +210,7 @@
   },
   {
     "Indicator": "Poverty headcount, % of population",
-    "DisaggregationType": "poverty line",
+    "DisaggregationType": "Poverty line",
     "DisaggregatedIndicators": [
       {
         "key": "$2.15 a day",
@@ -911,7 +911,7 @@
   },
   {
     "Indicator": "Employment outside the Formal Sector by age (thousands)",
-    "DisaggregationType": "age",
+    "DisaggregationType": "Age",
     "DisaggregatedIndicators": [
       {
         "key": "15-24",
@@ -935,7 +935,7 @@
   },
   {
     "Indicator": "Employment outside the Formal Sector for Male by age (thousands)",
-    "DisaggregationType": "age",
+    "DisaggregationType": "Age",
     "DisaggregatedIndicators": [
       {
         "key": "15-24",
@@ -959,7 +959,7 @@
   },
   {
     "Indicator": "Employment outside the Formal Sector for Female by age (thousands)",
-    "DisaggregationType": "age",
+    "DisaggregationType": "Age",
     "DisaggregatedIndicators": [
       {
         "key": "15-24",
@@ -1080,7 +1080,7 @@
   },
   {
     "Indicator": "Share of Employment outside the Formal Sector by age (%), 15 and above",
-    "DisaggregationType": "age",
+    "DisaggregationType": "Age",
     "DisaggregatedIndicators": [
       {
         "key": "15-24",
@@ -1109,7 +1109,7 @@
   },
   {
     "Indicator": "Share of Employment outside the Formal Sector for male by age (%), 15 and above",
-    "DisaggregationType": "age",
+    "DisaggregationType": "Age",
     "DisaggregatedIndicators": [
       {
         "key": "15-24",
@@ -1139,7 +1139,7 @@
   },
   {
     "Indicator": "Share of Employment outside the Formal Sector for female by age (%), 15 and above",
-    "DisaggregationType": "age",
+    "DisaggregationType": "Age",
     "DisaggregatedIndicators": [
       {
         "key": "15-24",
@@ -1757,7 +1757,7 @@
     ]
   },
   {
-    "Indicator": "Universal Health Coverage- Service Coverage",
+    "Indicator": "Universal Health Coverage - Service Coverage by UHC dimensions",
     "DisaggregationType": "UHC dimension",
     "DisaggregatedIndicators": [
       {
@@ -1798,7 +1798,7 @@
   },
   {
     "Indicator": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP)",
-    "DisaggregationType": "poverty line",
+    "DisaggregationType": "Poverty line",
     "DisaggregatedIndicators": [
       {
         "key": "$1.90 poverty line",
@@ -1947,7 +1947,7 @@
   },
   {
     "Indicator": "HIV prevalence, by subpopulation",
-    "DisaggregationType": "vulnerable group",
+    "DisaggregationType": "Vulnerable group",
     "DisaggregatedIndicators": [
       {
         "key": "Men who have sex with men",
