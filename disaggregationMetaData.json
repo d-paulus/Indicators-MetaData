@@ -835,7 +835,7 @@
     ]
   },
   {
-    "Indicator": "Employment outside the Formal Sector by sex (thousands)",
+    "Indicator": "Employment outside the Formal Sector for age 15-24 by sex (thousands)",
     "DisaggregationType": "Gender",
     "DisaggregatedIndicators": [
       {
@@ -860,7 +860,7 @@
     ]
   },
   {
-    "Indicator": "Employment outside the Formal Sector by sex (thousands)",
+    "Indicator": "Employment outside the Formal Sector fro age 15-64 by sex (thousands)",
     "DisaggregationType": "Gender",
     "DisaggregatedIndicators": [
       {
@@ -885,7 +885,7 @@
     ]
   },
   {
-    "Indicator": "Employment outside the Formal Sector by sex (thousands)",
+    "Indicator": "Employment outside the Formal Sector for age 25 and above by sex (thousands)",
     "DisaggregationType": "Gender",
     "DisaggregatedIndicators": [
       {
