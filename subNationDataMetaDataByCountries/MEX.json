@@ -1,0 +1,156 @@
+[
+  {
+    "indicator_id": "RH_ANCP_W_SKP",
+    "indicator_name": "Antenatal care from a skilled provider",
+    "group": "Antenatal care",
+    "sourceLayer": "Antenatal care from a skilled provider",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Antenatal_care/Antenatal_care.pmtiles",
+    "hasId": "Value",
+    "countryId": "Country",
+    "regionId": "AdminName",
+    "useCountryLookup": true
+  },
+  {
+    "indicator_id": "RH_ANCP_W_NON",
+    "indicator_name": "No antenatal care",
+    "group": "Antenatal care",
+    "sourceLayer": "No antenatal care",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Antenatal_care/Antenatal_care.pmtiles",
+    "hasId": "Value",
+    "countryId": "Country",
+    "regionId": "AdminName",
+    "useCountryLookup": true
+  },
+  {
+    "indicator_id": "MA_MSTY_W_UNI",
+    "indicator_name": "Current marital status [Young women]: Married or living in union",
+    "group": "Background characteristics",
+    "sourceLayer": "Current marital status [Young women]: Married or living in union",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Background_characteristics/Background_characteristics.pmtiles",
+    "hasId": "Value",
+    "countryId": "Country",
+    "regionId": "AdminName",
+    "useCountryLookup": true
+  },
+  {
+    "indicator_id": "CH_DIAR_C_DIA",
+    "indicator_name": "Children with diarrhea",
+    "group": "Diarrhea",
+    "sourceLayer": "Children with diarrhea",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Diarrhea/Diarrhea.pmtiles",
+    "hasId": "Value",
+    "countryId": "Country",
+    "regionId": "AdminName",
+    "useCountryLookup": true
+  },
+  {
+    "indicator_id": "FP_CUSY_W_NCU",
+    "indicator_name": "Young women not currently using any method",
+    "group": "Knowledge and use of contraception",
+    "sourceLayer": "Young women not currently using any method",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Knowledge_and_use_of_contraception/Knowledge_and_use_of_contraception.pmtiles",
+    "hasId": "Value",
+    "countryId": "Country",
+    "regionId": "AdminName",
+    "useCountryLookup": true
+  },
+  {
+    "indicator_id": "CM_ECMR_C_IMR",
+    "indicator_name": "Infant mortality rate",
+    "group": "Mortality rate",
+    "sourceLayer": "Infant mortality rate",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Mortality_rate/Mortality_rate.pmtiles",
+    "hasId": "Value",
+    "countryId": "Country",
+    "regionId": "AdminName",
+    "useCountryLookup": true
+  },
+  {
+    "indicator_id": "CM_ECMR_C_PNR",
+    "indicator_name": "Postneonatal mortality rate",
+    "group": "Mortality rate",
+    "sourceLayer": "Postneonatal mortality rate",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Mortality_rate/Mortality_rate.pmtiles",
+    "hasId": "Value",
+    "countryId": "Country",
+    "regionId": "AdminName",
+    "useCountryLookup": true
+  },
+  {
+    "indicator_id": "CN_BFDR_C_MDA",
+    "indicator_name": "Median duration of any breastfeeding",
+    "group": "Nutrition",
+    "sourceLayer": "Median duration of any breastfeeding",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Nutrition/Nutrition.pmtiles",
+    "hasId": "Value",
+    "countryId": "Country",
+    "regionId": "AdminName",
+    "useCountryLookup": true
+  },
+  {
+    "indicator_id": "FE_FRTR_W_TFR",
+    "indicator_name": "Total fertility rate 15-49",
+    "group": "Reproduction",
+    "sourceLayer": "Total fertility rate 15-49",
+    "pmtilesURL": "pmtiles://https://undpgeohub.blob.core.windows.net/dfp/DHS_BY_CATEGORY/Reproduction/Reproduction.pmtiles",
+    "hasId": "Value",
+    "countryId": "Country",
+    "regionId": "AdminName",
+    "useCountryLookup": true
+  },
+  {
+    "indicator_id": "percentAccess",
+    "indicator_name": "Access to Reliable Energy Services (%) (based on satellite imaging)",
+    "group": "Household characteristics",
+    "sourceLayer": "tmpl3ue0da4",
+    "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
+    "hasId": "PopAccess2020",
+    "countryId": "iso_3",
+    "regionId": "adm2_name",
+    "useCountryLookup": false
+  },
+  {
+    "indicator_id": "popNoAccess",
+    "indicator_name": "No. People With No Access to Reliable Energy Services (based on satellite imaging)",
+    "group": "Household characteristics",
+    "sourceLayer": "tmpl3ue0da4",
+    "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
+    "hasId": "PopAccess2020",
+    "countryId": "iso_3",
+    "regionId": "adm2_name",
+    "useCountryLookup": false
+  },
+  {
+    "indicator_id": "TotPopulation",
+    "indicator_name": "Total Population (2015)",
+    "group": "Population distribution",
+    "sourceLayer": "tmpl3ue0da4",
+    "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
+    "hasId": "TotPopulation",
+    "countryId": "iso_3",
+    "regionId": "adm2_name",
+    "useCountryLookup": false
+  },
+  {
+    "indicator_id": "percentRuralPop",
+    "indicator_name": "Rural Population % (2015)",
+    "group": "Population distribution",
+    "sourceLayer": "tmpl3ue0da4",
+    "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
+    "hasId": "TotPopRural",
+    "countryId": "iso_3",
+    "regionId": "adm2_name",
+    "useCountryLookup": false
+  },
+  {
+    "indicator_id": "percentUrbanPop",
+    "indicator_name": "Urban Population % (2015)",
+    "group": "Population distribution",
+    "sourceLayer": "tmpl3ue0da4",
+    "pmtilesURL": "pmtiles://https://undpngddlsgeohubdev01.blob.core.windows.net/admin/rural_urban_District_Electricity_Access_20230421004438.pmtiles",
+    "hasId": "TotPopUrban",
+    "countryId": "iso_3",
+    "regionId": "adm2_name",
+    "useCountryLookup": false
+  }
+]

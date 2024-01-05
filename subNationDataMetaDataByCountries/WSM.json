@@ -1,0 +1,35 @@
+[
+  {
+    "indicator_id": "MPI",
+    "indicator_name": "Multidimensional Poverty Index",
+    "group": "Multidimensional poverty",
+    "sourceLayer": "adm_Export_jso_FeaturesToJSO",
+    "pmtilesURL": "pmtiles://https://raw.githubusercontent.com/UNDP-Data/Access-All-Data-Viz/production/public/data/PMTiles/adm_Export_jso_FeaturesToJSO.pmtiles",
+    "hasId": "MPI",
+    "countryId": "ISO",
+    "regionId": "region",
+    "useCountryLookup": false
+  },
+  {
+    "indicator_id": "headcountRatio",
+    "indicator_name": "Headcount Ratio (%)",
+    "group": "Multidimensional poverty",
+    "sourceLayer": "adm_Export_jso_FeaturesToJSO",
+    "pmtilesURL": "pmtiles://https://raw.githubusercontent.com/UNDP-Data/Access-All-Data-Viz/production/public/data/PMTiles/adm_Export_jso_FeaturesToJSO.pmtiles",
+    "hasId": "Headcount Ratio (H, %)",
+    "countryId": "ISO",
+    "regionId": "region",
+    "useCountryLookup": false
+  },
+  {
+    "indicator_id": "intensity",
+    "indicator_name": "Poverty Intensity (%)",
+    "group": "Multidimensional poverty",
+    "sourceLayer": "adm_Export_jso_FeaturesToJSO",
+    "pmtilesURL": "pmtiles://https://raw.githubusercontent.com/UNDP-Data/Access-All-Data-Viz/production/public/data/PMTiles/adm_Export_jso_FeaturesToJSO.pmtiles",
+    "hasId": "Intensity (A, %)",
+    "countryId": "ISO",
+    "regionId": "region",
+    "useCountryLookup": false
+  }
+]

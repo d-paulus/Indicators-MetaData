@@ -1,0 +1,1366 @@
+[
+  {
+    "IndicatorLabelTable": "Health Service Provision (IHR SPAR)",
+    "IndicatorDescription": "The self-reported proportion/percentage of attribute (a set of specific elements or functions which reflect the level of performance or achievement of Points of Entry) that have been attained.",
+    "DataKey": "Health Service Provision (IHR SPAR)",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/health-service-provision",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Health Emergencies, including surge capacity and support"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "National Health Emergency Framework (IHR SPAR)",
+    "IndicatorDescription": "The proportion/percentage of attribute (a set of specific elements or functions which reflect the level of performance or achievement of Core Capacity 1: National legislation, policy and financing) that have been attained.",
+    "DataKey": "National Health Emergency Framework (IHR SPAR)",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/national-health-emergency-framework",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Health Emergencies, including surge capacity and support"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Legislation and Financing (IHR SPAR)",
+    "IndicatorDescription": "Legislation and Financing (IHR SPAR)",
+    "DataKey": "Legislation and Financing (IHR SPAR)",
+    "DataSourceName": "WHO",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/legislation-and-financing",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Legal, policy and regulatory environments for HIV and health"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Proportion of forest area with a long-term management plan",
+    "IndicatorDescription": "Proportion of forest area with a long-term management plan",
+    "DataKey": "Proportion of forest area with a long-term management plan",
+    "DataSourceName": "FAO",
+    "DataSourceLink": "https://data.apps.fao.org/catalog/dataset/above-ground-biomass-in-forest-ag_lnd_frstmgt",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience",
+      "Environment",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Planetary health, including environment, climate, energy and health"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Proportion of forest area within legally established protected areas (%)",
+    "IndicatorDescription": "Proportion of forest area within legally established protected areas (%)",
+    "DataKey": "Proportion of forest area within legally established protected areas (%)",
+    "DataSourceName": "FAO",
+    "DataSourceLink": "https://data.apps.fao.org/catalog/dataset/proportion-of-forest-area-within-legally-established-protected-areas-ag_lnd_frstprct/resource/5fd30f4d-f94b-4132-aa2f-7010caeef2d1",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience",
+      "Governance",
+      "Environment"
+    ],
+    "SSTopics": [
+      "Planetary health, including environment, climate, energy and health"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+    "IndicatorDescription": "Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+    "DataKey": "Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+    "DataSourceName": "UNDP",
+    "DataSourceLink": "https://horizons.hdr.undp.org/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      -50,
+      -25,
+      25,
+      50
+    ],
+    "BinningRangeLarge": [
+      -100,
+      -75,
+      -50,
+      -25,
+      0,
+      25,
+      50,
+      75,
+      100
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": true,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Climate change & Health"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+    "IndicatorDescription": "Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+    "DataKey": "Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+    "DataSourceName": "UNDP",
+    "DataSourceLink": "https://horizons.hdr.undp.org/#/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      -50,
+      -25,
+      25,
+      50
+    ],
+    "BinningRangeLarge": [
+      -100,
+      -75,
+      -50,
+      -25,
+      0,
+      25,
+      50,
+      75,
+      100
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": true,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Climate Change Adaptation: Climate change & Health"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)",
+    "IndicatorDescription": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)",
+    "DataKey": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)",
+    "DataSourceName": "UN Statistical Division",
+    "DataSourceLink": "https://unstats.un.org/sdgs",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Disaster Risk Reduction: Health Risk Management"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework",
+    "IndicatorDescription": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework",
+    "DataKey": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework",
+    "DataSourceName": "UN Statistical Division",
+    "DataSourceLink": "https://unstats.un.org/sdgs",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0.2,
+      0.4,
+      0.6,
+      0.8
+    ],
+    "BinningRangeLarge": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.6,
+      0.7,
+      0.8,
+      0.9
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Disaster Risk Reduction: Health Risk Management"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Women's share of population ages 15+ living with HIV (%)",
+    "IndicatorDescription": "Prevalence of HIV is the percentage of people who are infected with HIV. Female rate is as a percentage of the total population ages 15+ who are living with HIV.",
+    "DataKey": "Women's share of population ages 15+ living with HIV (%)",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://data.worldbank.org/indicator/SH.DYN.AIDS.FE.ZS",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      20,
+      30,
+      40
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Gender equality and empowering women and girls in the context of HIV and health"
+    ]
+  },
+  {
+    "DataKey": "Healthcare facilities basic waste management services- hospital",
+    "IndicatorDescription": "Basic waste management services in hospitals: waste segregated and treated and disposed of safely.",
+    "IndicatorLabelTable": "Basic waste management services: Hospitals",
+    "DataSourceName": "UNICEF",
+    "DataSourceLink": "https://data.unicef.org/resources/dataset/drinking-water-sanitation-hygiene-database/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      20,
+      30,
+      40
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Governance",
+      "Resilience",
+      "Environment"
+    ],
+    "SSTopics": [
+      "Health waste management"
+    ]
+  },
+  {
+    "DataKey": "Healthcare facilities- No waste management service- non-hospital",
+    "IndicatorDescription": "Basic waste management services in non-hospital healthcare facilities: waste segregated and treated and disposed of safely.",
+    "IndicatorLabelTable": "Basic waste management services: Non-hospital healthcare services",
+    "DataSourceName": "UNICEF",
+    "DataSourceLink": "https://data.unicef.org/resources/dataset/drinking-water-sanitation-hygiene-database/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      20,
+      30,
+      40
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Governance",
+      "Resilience",
+      "Environment"
+    ],
+    "SSTopics": [
+      "Health waste management"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "People Denied health services because of their HIV status in the last 12 months",
+    "IndicatorDescription": "Denied health services because of their HIV status in the last 12 months, total",
+    "DataKey": "People Denied health services because of their HIV status in the last 12 months",
+    "DataSourceName": "UNAIDS",
+    "DataSourceLink": "https://kpatlas.unaids.org/dashboard",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "BinningRangeLarge": [
+      0.5,
+      1,
+      1.5,
+      2,
+      2.5,
+      3,
+      3.5,
+      4
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Prevalence of HIV, total (% of population ages 15-49): Q1 (lowest)",
+    "IndicatorDescription": "Percentage of population age 15-49 who had blood tests that are positive for HIV1 or HIV2 in the poorest quintile of the population.",
+    "DataKey": "Prevalence of HIV, total (% of population ages 15-49): Q1 (lowest)",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://datacatalog.worldbank.org/search/dataset/0038633/Health-Equity-and-Financial-Protection-Indicators",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      20,
+      30,
+      40
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Inclusive social protection in the context of HIV and health",
+      "Inclusion and rights of key populations at risk of HIV and other excluded groups"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure (%)",
+    "IndicatorDescription": "Total population pushed further below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income.",
+    "DataKey": "Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure (%)",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://datacatalog.worldbank.org/search/dataset/0038633/Health-Equity-and-Financial-Protection-Indicators%20worldbank",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty & Inequality",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Inclusive social protection in the context of HIV and health",
+      "Universal Health Coverage"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Mental hospitals (per 100,000)",
+    "IndicatorDescription": "Mental hospitals per 100,000 populatoin",
+    "DataKey": "Mental hospitals (per 100,000)",
+    "DataSourceName": "WHO",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/mental-hospitals-(per-100-000)",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      0.25,
+      0.5,
+      0.75,
+      1
+    ],
+    "BinningRangeLarge": [
+      0.05,
+      0.1,
+      0.25,
+      0.5,
+      0.75,
+      1,
+      5
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding",
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Prevalence of Mental health disorders: Both (age-standardized percent)",
+    "IndicatorDescription": "Prevalence - Mental health disorders: Both (age-standardized percent)",
+    "DataKey": "Prevalence of Mental health disorders: Both (age-standardized percent)",
+    "DataSourceName": "IHME, data provided by Our World in Data",
+    "DataSourceLink": "https://ourworldindata.org/mental-health",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      10,
+      20,
+      30,
+      40
+    ],
+    "BinningRangeLarge": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Mental Health and Psychosocial Support in Prevention and Peacebuilding",
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Global Health Security Index",
+    "IndicatorDescription": "Global Health Security Index",
+    "DataKey": "Global Health Security Index",
+    "DataSourceName": "Global Health Security Index",
+    "DataSourceLink": "https://www.ghsindex.org/report-model/",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Pandemic preparedness and response"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Zoonotic Events and the Human-animal Interface (IHR SPAR)",
+    "IndicatorDescription": "The proportion/percentage of attribute (a set of specific elements or functions which reflect the level of performance or achievement of IHR Potential hazards 1: Zoonotic events) that have been attained.",
+    "DataKey": "Zoonotic Events and the Human-animal Interface (IHR SPAR)",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/zoonotic-events-and-the-human-animal-interface",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Pandemic preparedness and response",
+      "Environmental Governance: One Health Approaches",
+      "Health Emergencies, including surge capacity and support"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Births attended by skilled health personnel (%)",
+    "IndicatorDescription": "Births attended by skilled health personnel (%)",
+    "DataKey": "Births attended by skilled health personnel (%)",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/births-attended-by-skilled-health-personnel-(-)",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Sexual and reproductive health and rights"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)",
+    "IndicatorDescription": "Indicator 5.6.2: Number of countries with laws and regulations that guarantee full and equal access to\nwomen and men aged 15 years and older to sexual and reproductive health care, information and\neducation",
+    "DataKey": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)",
+    "DataSourceName": "UN Statistical Division",
+    "DataSourceLink": "https://unstats.un.org/sdgs",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Governance"
+    ],
+    "SSTopics": [
+      "Sexual and reproductive health and rights"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Domestic General Government Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs), as % of gross domestic product (GDP)",
+    "IndicatorDescription": "Domestic General Government Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs), as % of gross domestic product (GDP)",
+    "DataKey": "Domestic General Government Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs), as % of gross domestic product (GDP)",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://apps.who.int/nha/database/Select/Indicators/en",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Sustainable Financing for HIV and health"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Domestic Private Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs), as % of gross domestic product (GDP)",
+    "IndicatorDescription": "Domestic Private Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs), as % of gross domestic product (GDP)",
+    "DataKey": "Domestic Private Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs), as % of gross domestic product (GDP)",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://apps.who.int/nha/database/Select/Indicators/en",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Sustainable Financing for HIV and health"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "UHC Service Coverage Index",
+    "IndicatorDescription": "UHC Service Coverage Index",
+    "DataKey": "UHC Service Coverage Index",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/uhc-index-of-service-coverage",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience",
+      "Poverty & Inequality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Universal Health Coverage"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "UHC Service Coverage sub-index on infectious diseases",
+    "IndicatorDescription": "UHC Service Coverage sub-index on infectious diseases",
+    "DataKey": "UHC Service Coverage sub-index on infectious diseases",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/uhc-sci-components-infectious-diseases",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty & Inequality",
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Universal Health Coverage"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "UHC Service Coverage sub-index on noncommunicable diseases",
+    "IndicatorDescription": "UHC Service Coverage sub-index on noncommunicable diseases",
+    "DataKey": "UHC Service Coverage sub-index on noncommunicable diseases",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/uhc-sci-components-noncommunicable-diseases",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty & Inequality",
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Universal Health Coverage",
+      "Governance, including to address NCDs, mental health and accelerate tobacco control"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "UHC Service Coverage sub-index on reproductive, maternal, newborn and child health",
+    "IndicatorDescription": "UHC Service Coverage sub-index on reproductive, maternal, newborn and child health",
+    "DataKey": "UHC Service Coverage sub-index on reproductive, maternal, newborn and child health",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/uhc-sci-components-reproductive-maternal-newborn-and-child-health",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty & Inequality",
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Universal Health Coverage"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "UHC Service Coverage sub-index on service capacity an access",
+    "IndicatorDescription": "UHC Service Coverage sub-index on service capacity an access",
+    "DataKey": "UHC Service Coverage sub-index on service capacity an access",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/uhc-sci-components-service-capacity-and-access",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty & Inequality",
+      "Governance",
+      "Resilience"
+    ],
+    "SSTopics": [
+      "Universal Health Coverage"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Problems in accessing health care (any of the specified problems) (% of women): Q1 (lowest)",
+    "IndicatorDescription": "Problems in accessing health care (any of the specified problems) (% of women): Q1 (lowest)",
+    "DataKey": "Problems in accessing health care (any of the specified problems) (% of women): Q1 (lowest)",
+    "DataSourceName": "World Bank",
+    "DataSourceLink": "https://datacatalog.worldbank.org/search/dataset/0037656/Health-Nutrition-and-Population-Statistics-by-Wealth-Quintile",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty & Inequality",
+      "Gender Equality"
+    ],
+    "SSTopics": [
+      "Universal Health Coverage",
+      "Gender equality and empowering women and girls in the context of HIV and health"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "Laboratory (IHR SPAR)",
+    "IndicatorDescription": "The proportion/percentage of attribute (a set of specific elements or functions which reflect the level of performance or achievement of Core Capacity 8: Laboaroty) that have been attained.",
+    "DataKey": "Laboratory (IHR SPAR)",
+    "DataSourceName": "World Health Organization",
+    "DataSourceLink": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/laboratory-ihr-spar",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Resilience",
+      "Governance"
+    ],
+    "SSTopics": [
+      "Pandemic preparedness and response"
+    ]
+  },
+  {
+    "IndicatorLabelTable": "LGBTQ+ Equality Index",
+    "IndicatorDescription": "The Equality Index measures the current status of LGBT rights, laws, and freedoms as well as public attitudes towards LGBT people.",
+    "DataKey": "LGBTQ+ Equality Index",
+    "DataSourceName": "Equaldex",
+    "DataSourceLink": "https://www.equaldex.com/equality-index",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Gender Equality",
+      "Governance"
+    ],
+    "SSTopics": [
+      "LGBTIQ rights"
+    ]
+  }
+]
