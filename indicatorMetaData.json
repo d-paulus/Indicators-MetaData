@@ -15673,7 +15673,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -15725,7 +15724,6 @@
       25
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -15775,7 +15773,6 @@
       75
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -15827,7 +15824,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -15878,7 +15874,6 @@
       50
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -15930,7 +15925,6 @@
       50
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -15981,7 +15975,6 @@
       75
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16031,7 +16024,6 @@
       500000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16087,7 +16079,6 @@
       7500000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16142,7 +16133,6 @@
       500000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16195,7 +16185,6 @@
       10000000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16248,7 +16237,6 @@
       2
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16297,7 +16285,6 @@
       0.06
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16351,7 +16338,6 @@
       0.09
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16404,7 +16390,6 @@
       0.15
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16458,7 +16443,6 @@
       95
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16509,7 +16493,6 @@
       150
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16560,7 +16543,6 @@
       500000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16611,7 +16593,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16662,7 +16643,6 @@
       60
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16714,7 +16694,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16764,7 +16743,6 @@
       750
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16816,7 +16794,6 @@
       750
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16868,7 +16845,6 @@
       50
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16920,7 +16896,6 @@
       50
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -16972,7 +16947,6 @@
       50
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17024,7 +16998,6 @@
       50
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17076,7 +17049,6 @@
       50
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17128,7 +17100,6 @@
       50
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17180,7 +17151,6 @@
       50
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17232,7 +17202,6 @@
       50
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17284,7 +17253,6 @@
       35
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17336,7 +17304,6 @@
       35
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17387,7 +17354,6 @@
       45
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17439,7 +17405,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17490,7 +17455,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17538,7 +17502,6 @@
       17.5
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17587,7 +17550,6 @@
       7.5
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17637,7 +17599,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17690,7 +17651,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17743,7 +17703,6 @@
       25
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17794,7 +17753,6 @@
       10
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17845,7 +17803,6 @@
       40
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17898,7 +17855,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -17950,7 +17906,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18003,7 +17958,6 @@
       0.9
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18054,7 +18008,6 @@
       97.5
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18105,7 +18058,6 @@
       95
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18157,7 +18109,6 @@
       500
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18211,7 +18162,6 @@
       1000000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18264,7 +18214,6 @@
       25
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18316,7 +18265,6 @@
       25
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18367,7 +18315,6 @@
       2.5
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18419,7 +18366,6 @@
       750
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18471,7 +18417,6 @@
       500000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18522,7 +18467,6 @@
       100
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18574,7 +18518,6 @@
       15
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18626,7 +18569,6 @@
       100000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18679,7 +18621,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18732,7 +18673,6 @@
       50
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18783,7 +18723,6 @@
       50
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18836,7 +18775,6 @@
       40
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18886,7 +18824,6 @@
       500
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18938,7 +18875,6 @@
       250000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -18989,7 +18925,6 @@
       50
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19042,7 +18977,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19095,7 +19029,6 @@
       35
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19146,7 +19079,6 @@
       3
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19201,7 +19133,6 @@
       4
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19254,7 +19185,6 @@
       12500
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19306,7 +19236,6 @@
       12500
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19358,7 +19287,6 @@
       12500
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19410,7 +19338,6 @@
       12500
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19461,7 +19388,6 @@
       40000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19513,7 +19439,6 @@
       45000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19565,7 +19490,6 @@
       42500
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19617,7 +19541,6 @@
       42500
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19666,7 +19589,6 @@
       85000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19717,7 +19639,6 @@
       70000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19769,7 +19690,6 @@
       250000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19822,7 +19742,6 @@
       25
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19874,7 +19793,6 @@
       100
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19926,7 +19844,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -19977,7 +19894,6 @@
       95
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -20028,7 +19944,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -20080,7 +19995,6 @@
       95
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -20131,7 +20045,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -20183,7 +20096,6 @@
       200000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -20236,7 +20148,6 @@
       50
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -20287,7 +20198,6 @@
       90
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -20338,7 +20248,6 @@
       100
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -20386,7 +20295,6 @@
       50
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
@@ -20439,7 +20347,6 @@
       100000
     ],
     "Categories": [],
-    "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
