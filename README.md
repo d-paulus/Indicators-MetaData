@@ -4,7 +4,7 @@
 ## Table of Contents
 * [Description of Each File](#section-01)
 * [Pages or Apps Where MetaData is Used](#section-04)
-* [Installation](#section-07)
+* [Local Download of File](#section-07)
 
 ## Description of Each File<a name="section-01"></a>
 
@@ -50,8 +50,8 @@ These json file list the metadata which affect the sub-national visualization on
 * [__Access-All-Data-Viz__](https://github.com/UNDP-Data/Access-All-Data-Viz): This metadata sheet is used to populate the indicators in Access All Data App and also the Country SubNational Visualization.
 * [__dv-edit-indicators-metadata-fe__](https://github.com/UNDP-Data/dv-edit-indicators-metadata-fe): This repo is used to manage, and edit the metadata sheets. Link to the app: [https://black-water-04176b910.4.azurestaticapps.net/](https://black-water-04176b910.4.azurestaticapps.net/)
 
-## Installation<a name="section-07"></a>
-How to download the files and edit
+## Local Download of File<a name="section-07"></a>
+How to download the files locally
 
 ```
 git clone https://github.com/UNDP-Data/Indicators-MetaData.git
