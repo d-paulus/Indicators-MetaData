@@ -11245,6 +11245,7 @@
     "RegionalAggregation": false,
     "SignatureSolution": [
       "Energy",
+      "Poverty and Inequality",
       "Environment"
     ],
     "SSTopics": [
@@ -11306,7 +11307,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Energy"
+      "Energy",
+      "Poverty and Inequality"
     ],
     "SSTopics": [
       "Energy Finance",
@@ -11946,7 +11948,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Energy"
+      "Energy",
+      "Poverty and Inequality"
     ],
     "SSTopics": [
       "Energy Finance",
@@ -12001,7 +12004,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Energy"
+      "Energy",
+      "Poverty and Inequality"
     ],
     "SSTopics": [
       "Energy Finance",
@@ -12059,7 +12063,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Energy"
+      "Energy",
+      "Poverty and Inequality"
     ],
     "SSTopics": [
       "Energy Finance",
@@ -12117,7 +12122,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Energy"
+      "Energy",
+      "Poverty and Inequality"
     ],
     "SSTopics": [
       "Energy Finance",
@@ -12175,7 +12181,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Energy"
+      "Energy",
+      "Poverty and Inequality"
     ],
     "SSTopics": [
       "Energy Finance",
@@ -12233,7 +12240,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Energy"
+      "Energy",
+      "Poverty and Inequality"
     ],
     "SSTopics": [
       "Fossil Fuel Subsidy Reform",
@@ -12285,7 +12293,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Energy"
+      "Energy",
+      "Poverty and Inequality"
     ],
     "SSTopics": [
       "Energy Finance",
@@ -12985,7 +12994,8 @@
     "RegionalAggregation": true,
     "SignatureSolution": [
       "Environment",
-      "Energy"
+      "Energy",
+      "Poverty and Inequality"
     ],
     "SSTopics": [
       "Climate Change Adaptation: Urban Resilience",
