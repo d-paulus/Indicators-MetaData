@@ -307,7 +307,7 @@
   },
   {
     "IndicatorLabel": "Gender Inequality Index",
-    "IndicatorDescription": "Index to measure gender inequalities in three important aspects of human development\u2014reproductive health, empowerment, and economic status",
+    "IndicatorDescription": "Index to measure gender inequalities in three important aspects of human development—reproductive health, empowerment, and economic status",
     "DataKey": "Gender Inequality Index-Gender Inequality Index",
     "DataSourceName": "United Nations Development Programme (UNDP)",
     "DataSourceLink": "http://hdr.undp.org/en/content/gender-inequality-index-gii",
@@ -798,7 +798,7 @@
   },
   {
     "IndicatorLabel": "Proportion of Labour Force with Advanced Education",
-    "IndicatorDescription": "The ratio of the labor force with advanced education to the working-age population with advanced education. Advanced education comprises short-cycle tertiary education, a bachelor\u2019s degree or equivalent education level, a master\u2019s degree or equivalent education level, or doctoral degree or equivalent education level according to the International Standard Classification of Education 2011 (ISCED 2011).",
+    "IndicatorDescription": "The ratio of the labor force with advanced education to the working-age population with advanced education. Advanced education comprises short-cycle tertiary education, a bachelor’s degree or equivalent education level, a master’s degree or equivalent education level, or doctoral degree or equivalent education level according to the International Standard Classification of Education 2011 (ISCED 2011).",
     "DataKey": "Labor force with advanced education (% of total working-age population with advanced education)",
     "DataSourceName": "World Bank",
     "DataSourceLink": "https://data.worldbank.org/indicator/SL.TLF.ADVN.ZS",
@@ -4007,7 +4007,7 @@
     "IndicatorLabel": "Mean Daily CO2 Emissions Change associated with COVID-19, percent",
     "IndicatorDescription": "Estimated percent change in daily CO2 emissions during COVID-19 restrictions on movement and social gatherings, compared to mean daily emissions for previous year",
     "DataKey": "Reduced Mean Daily CO2 Emissions; percent change",
-    "DataSourceName": "Nature, Le Qu\u00e9r\u00e9, C., Jackson, R.B., Jones, M.W. et al.",
+    "DataSourceName": "Nature, Le Quéré, C., Jackson, R.B., Jones, M.W. et al.",
     "DataSourceLink": "https://www.nature.com/articles/s41558-020-0797-x",
     "LabelSuffix": "%",
     "LabelPrefix": "",
@@ -4157,10 +4157,10 @@
   },
   {
     "IndicatorLabel": "Multidimensional Poverty Index",
-    "IndicatorDescription": "The global Multidimensional Poverty Index (MPI) is a measure of poverty that complements traditional monetary poverty measures with acute deprivations in health, education, and living standards that a person faces simultaneously",
+    "IndicatorDescription": "Multidimensional Poverty combines measures that track poor health, lack of education, and inadequate living standards to capture the different dimensions of deprivation in order to provide a comprehensive assessment of poverty. It takes into account both the breadth (incidence) and depth (intensity) of poverty among individuals in a population and is calculated as the product of the two.",
     "DataKey": "Multidimensional Poverty Index",
     "DataSourceName": "United Nations Development Programme (UNDP)",
-    "DataSourceLink": "http://hdr.undp.org/en/2020-MPI",
+    "DataSourceLink": "https://hdr.undp.org/content/2023-global-multidimensional-poverty-index-mpi#/indicies/MPI",
     "LabelSuffix": "",
     "LabelPrefix": "",
     "LabelFormat": "",
@@ -4203,7 +4203,7 @@
   },
   {
     "IndicatorLabel": "Inequality-adjusted Human Development Index",
-    "IndicatorDescription": "The Inequality-adjusted Human Development Index (IHDI) combines a country\u2019s average achievements in health, education and income with how those achievements are distributed among country\u2019s population by \u201cdiscounting\u201d each dimension\u2019s average value according to its level of inequality",
+    "IndicatorDescription": "The Inequality-adjusted Human Development Index (IHDI) combines a country’s average achievements in health, education and income with how those achievements are distributed among country’s population by “discounting” each dimension’s average value according to its level of inequality",
     "DataKey": "Inequality-adjusted HDI",
     "DataSourceName": "United Nations Development Programme (UNDP)",
     "DataSourceLink": "http://hdr.undp.org/en/data",
@@ -5633,7 +5633,7 @@
   },
   {
     "IndicatorLabel": "Persons with Severe Disabilities Collecting Disability Social Protection Benefits",
-    "IndicatorDescription": "Ratio of persons receiving disability cash benefits to persons with severe disabilities. The latter is calculated as the product of prevalence of disability ratios (published for each country group by the World Health Organization) and each country\u2019s population.",
+    "IndicatorDescription": "Ratio of persons receiving disability cash benefits to persons with severe disabilities. The latter is calculated as the product of prevalence of disability ratios (published for each country group by the World Health Organization) and each country’s population.",
     "DataKey": "Persons with severe disabilities collecting disability social protection benefits",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://www.ilo.org/ilostat-files/Documents/Bulk_ilostat_en.html",
@@ -6022,7 +6022,7 @@
   },
   {
     "IndicatorLabel": "Influence and Impact of External Actors in State Functioning",
-    "IndicatorDescription": "The influence and impact of external actors in state functioning is measured through The External Intervention Indicator considers the influence and impact of external actors in the functioning \u2013 particularly security and economic \u2013 of a state. On the one hand, External Intervention focuses on security aspects of engagement from external actors, both covert and overt, in the internal affairs of a state at risk by governments, armies, intelligence services, identity groups, or other entities that may affect the balance of power (or resolution of a conflict) within a state. On the other hand, External Intervention also focuses on economic engagement by outside actors, including multilateral organizations, through large-scale loans, development projects, or foreign aid, such as ongoing budget support, control of finances, or management of the state\u2019s economic policy, creating economic dependency. External Intervention also takes into account humanitarian intervention, such as the deployment of an international peacekeeping mission.",
+    "IndicatorDescription": "The influence and impact of external actors in state functioning is measured through The External Intervention Indicator considers the influence and impact of external actors in the functioning – particularly security and economic – of a state. On the one hand, External Intervention focuses on security aspects of engagement from external actors, both covert and overt, in the internal affairs of a state at risk by governments, armies, intelligence services, identity groups, or other entities that may affect the balance of power (or resolution of a conflict) within a state. On the other hand, External Intervention also focuses on economic engagement by outside actors, including multilateral organizations, through large-scale loans, development projects, or foreign aid, such as ongoing budget support, control of finances, or management of the state’s economic policy, creating economic dependency. External Intervention also takes into account humanitarian intervention, such as the deployment of an international peacekeeping mission.",
     "DataKey": "X1: External Intervention",
     "DataSourceName": "Fragile States Index (FSI)",
     "DataSourceLink": "https://fragilestatesindex.org/indicators/x1/",
@@ -6111,8 +6111,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Informal employment by sex and age (thousands), Total, 15 and above",
-    "IndicatorDescription": "Informal employment by sex and age (thousands), Total, 15 and above",
+    "IndicatorLabel": "Informal employment by age (thousands), 15 and above",
+    "IndicatorDescription": "Informal employment age (thousands), 15 and above",
     "DataKey": "Informal employment by sex and age (thousands), Total, 15 and above",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -6253,8 +6253,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Informal employment by sex and age (thousands), Total, 15-24",
-    "IndicatorDescription": "Informal employment by sex and age (thousands), Total, 15-24",
+    "IndicatorLabel": "Informal employment age (thousands), 15-24",
+    "IndicatorDescription": "Informal employment age (thousands), 15-24",
     "DataKey": "Informal employment by sex and age (thousands), Total, 15-24",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -6398,8 +6398,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Informal employment by sex and age (thousands), Total, 15-64",
-    "IndicatorDescription": "Informal employment by sex and age (thousands), Total, 15-64",
+    "IndicatorLabel": "Informal employment by age (thousands), 15-64",
+    "IndicatorDescription": "Informal employment by age (thousands), 15-64",
     "DataKey": "Informal employment by sex and age (thousands), Total, 15-64",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -6540,8 +6540,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Informal employment by sex and age (thousands), Total, 25 and above",
-    "IndicatorDescription": "Informal employment by sex and age (thousands), Total, 25 and above",
+    "IndicatorLabel": "Informal employment by age (thousands), 25 and above",
+    "IndicatorDescription": "Informal employment by age (thousands), 25 and above",
     "DataKey": "Informal employment by sex and age (thousands), Total, 25 and above",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -6682,8 +6682,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Informal employment by sex and age (%), Total, 15 and above",
-    "IndicatorDescription": "Share of Informal employment by sex and age (%), Total, 15 and above",
+    "IndicatorLabel": "Share of Informal employment age (%), 15 and above",
+    "IndicatorDescription": "Share of Informal employment age (%), 15 and above",
     "DataKey": "Share of Informal employment by sex and age (%), Total, 15 and above",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -6827,8 +6827,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Informal employment by sex and age (%), Total, 15-24",
-    "IndicatorDescription": "Share of Informal employment by sex and age (%), Total, 15-24",
+    "IndicatorLabel": "Share of Informal employment by age (%), 15-24",
+    "IndicatorDescription": "Share of Informal employment by age (%), 15-24",
     "DataKey": "Share of Informal employment by sex and age (%), Total, 15-24",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -6975,8 +6975,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Informal employment by sex and age (%), Total, 25 and above",
-    "IndicatorDescription": "Share of Informal employment by sex and age (%), Total, 25 and above",
+    "IndicatorLabel": "Share of Informal employment by age (%), 25 and above",
+    "IndicatorDescription": "Share of Informal employment by age (%), 25 and above",
     "DataKey": "Share of Informal employment by sex and age (%), Total, 25 and above",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -7408,8 +7408,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Informal employment by sex and economic activity (%), Total, Agriculture",
-    "IndicatorDescription": "Share of Informal employment by sex and economic activity (%), Total, Agriculture",
+    "IndicatorLabel": "Share of Informal employment by economic activity (%), Agriculture",
+    "IndicatorDescription": "Share of Informal employment by economic activity (%), Agriculture",
     "DataKey": "Share of Informal employment by sex and economic activity (%), Total, Agriculture",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -7552,8 +7552,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Informal employment by sex and economic activity (%), Total, Non-agriculture",
-    "IndicatorDescription": "Share of Informal employment by sex and economic activity (%), Total, Non-agriculture",
+    "IndicatorLabel": "Share of Informal employment by economic activity (%), Non-agriculture",
+    "IndicatorDescription": "Share of Informal employment by economic activity (%), Non-agriculture",
     "DataKey": "Share of Informal employment by sex and economic activity (%), Total, Non-agriculture",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -8125,8 +8125,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Informal employment by sex and status in employment (%), Total, Employees",
-    "IndicatorDescription": "Share of Informal employment by sex and status in employment (%), Total, Employees",
+    "IndicatorLabel": "Share of Informal employment by status in employment (%), Employees",
+    "IndicatorDescription": "Share of Informal employment by status in employment (%), Employees",
     "DataKey": "Share of Informal employment by sex and status in employment (%), Total, Employees",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -8271,8 +8271,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Informal employment by sex and status in employment (%), Total, Self-employed",
-    "IndicatorDescription": "Share of Informal employment by sex and status in employment (%), Total, Self-employed",
+    "IndicatorLabel": "Share of Informal employment by status in employment (%), Self-employed",
+    "IndicatorDescription": "Share of Informal employment by status in employment (%), Self-employed",
     "DataKey": "Share of Informal employment by sex and status in employment (%), Total, Self-employed",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -8417,8 +8417,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Informal employment by sex and status in employment (%), Total, Not classified",
-    "IndicatorDescription": "Share of Informal employment by sex and status in employment (%), Total, Not classified",
+    "IndicatorLabel": "Share of Informal employment by status in employment (%), Not classified",
+    "IndicatorDescription": "Share of Informal employment by status in employment (%), Not classified",
     "DataKey": "Share of Informal employment by sex and status in employment (%), Total, Not classified",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -9135,8 +9135,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Total, 15 and above",
-    "IndicatorDescription": "Share of Employment outside the Formal Sector by sex and age (%), Total, 15 and above",
+    "IndicatorLabel": "Share of Employment outside the Formal Sector by age (%), 15 and above",
+    "IndicatorDescription": "Share of Employment outside the Formal Sector by age (%), 15 and above",
     "DataKey": "Share of Employement outside the Formal Sector by sex and age (%), Total, 15 and above",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -9282,8 +9282,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Total, 15-24",
-    "IndicatorDescription": "Share of Employment outside the Formal Sector by sex and age (%), Total, 15-24",
+    "IndicatorLabel": "Share of Employment outside the Formal Sector by age (%), 15-24",
+    "IndicatorDescription": "Share of Employment outside the Formal Sector by age (%), 15-24",
     "DataKey": "Share of Employement outside the Formal Sector by sex and age (%), Total, 15-24",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -9432,8 +9432,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and age (%), Total, 25 and above",
-    "IndicatorDescription": "Share of Employment outside the Formal Sector by sex and age (%), Total, 25 and above",
+    "IndicatorLabel": "Share of Employment outside the Formal Sector by age (%), 25 and above",
+    "IndicatorDescription": "Share of Employment outside the Formal Sector by age (%), 25 and above",
     "DataKey": "Share of Employement outside the Formal Sector by sex and age (%), Total, 25 and above",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -9867,8 +9867,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and economic activity (%), Total, Agriculture",
-    "IndicatorDescription": "Share of Employment outside the Formal Sector by sex and economic activity (%), Total, Agriculture",
+    "IndicatorLabel": "Share of Employment outside the Formal Sector by economic activity (%), Agriculture",
+    "IndicatorDescription": "Share of Employment outside the Formal Sector by economic activity (%), Agriculture",
     "DataKey": "Share of Employement outside the Formal Sector by sex and economic activity (%), Total, Agriculture",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -10015,8 +10015,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and economic activity (%), Total, Non-agriculture",
-    "IndicatorDescription": "Share of Employment outside the Formal Sector by sex and economic activity (%), Total, Non-agriculture",
+    "IndicatorLabel": "Share of Employment outside the Formal Sector by economic activity (%), Non-agriculture",
+    "IndicatorDescription": "Share of Employment outside the Formal Sector by economic activity (%), Non-agriculture",
     "DataKey": "Share of Employement outside the Formal Sector by sex and economic activity (%), Total, Non-agriculture",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -10593,8 +10593,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and status in employment (%), Total, Employees",
-    "IndicatorDescription": "Share of Employment outside the Formal Sector by sex and status in employment (%), Total, Employees",
+    "IndicatorLabel": "Share of Employment outside the Formal Sector by status in employment (%), Employees",
+    "IndicatorDescription": "Share of Employment outside the Formal Sector by status in employment (%), Employees",
     "DataKey": "Share of Employement outside the Formal Sector by sex and status in employment (%), Total, Employees",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -10739,8 +10739,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and status in employment (%), Total, Self-employed",
-    "IndicatorDescription": "Share of Employment outside the Formal Sector by sex and status in employment (%), Total, Self-employed",
+    "IndicatorLabel": "Share of Employment outside the Formal Sector by status in employment (%), Self-employed",
+    "IndicatorDescription": "Share of Employment outside the Formal Sector by status in employment (%), Self-employed",
     "DataKey": "Share of Employement outside the Formal Sector by sex and status in employment (%), Total, Self-employed",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -10883,8 +10883,8 @@
     ]
   },
   {
-    "IndicatorLabel": "Share of Employment outside the Formal Sector by sex and status in employment (%), Total, Not classified",
-    "IndicatorDescription": "Share of Employment outside the Formal Sector by sex and status in employment (%), Total, Not classified",
+    "IndicatorLabel": "Share of Employment outside the Formal Sector by status in employment (%), Not classified",
+    "IndicatorDescription": "Share of Employment outside the Formal Sector by status in employment (%), Not classified",
     "DataKey": "Share of Employement outside the Formal Sector by sex and status in employment (%), Total, Not classified",
     "DataSourceName": "International Labour Organization (ILO)",
     "DataSourceLink": "https://ilostat.ilo.org/topics/informality/",
@@ -12926,7 +12926,7 @@
   },
   {
     "IndicatorLabel": "Gender Development Index",
-    "IndicatorDescription": "The GDI measures differences in male and female achievements in three basic dimensions of human development: health, education and command over economic resources. Gender disaggregated data is used in each dimension. The health dimension is captured by life expectancy at birth, female and male. Education is measured using two indicators\u2014 female and male expected years of schooling for children and female and male mean years of schooling for adults ages 25 and older. Command over economic resources is measured by female and male estimated earned income. GDI is the ratio of female Human Development Index (HDI) to male HDI.",
+    "IndicatorDescription": "The GDI measures differences in male and female achievements in three basic dimensions of human development: health, education and command over economic resources. Gender disaggregated data is used in each dimension. The health dimension is captured by life expectancy at birth, female and male. Education is measured using two indicators— female and male expected years of schooling for children and female and male mean years of schooling for adults ages 25 and older. Command over economic resources is measured by female and male estimated earned income. GDI is the ratio of female Human Development Index (HDI) to male HDI.",
     "DataKey": "Gender Development Index (value)",
     "DataSourceName": "United Nations Development Programme (UNDP)",
     "DataSourceLink": "http://hdr.undp.org/en/data",
@@ -13467,7 +13467,7 @@
   },
   {
     "IndicatorLabel": "Inequality-adjusted Human Development Index, difference from non-adjusted HDI value",
-    "IndicatorDescription": "The \u2018loss\u2019 in human development due to inequality is given by the difference between the HDI and the IHDI. As the inequality in a country increases, the loss in human development also increases.",
+    "IndicatorDescription": "The ‘loss’ in human development due to inequality is given by the difference between the HDI and the IHDI. As the inequality in a country increases, the loss in human development also increases.",
     "DataKey": "Overall loss (%)",
     "DataSourceName": "United Nations Development Programme (UNDP)",
     "DataSourceLink": "http://hdr.undp.org/en/data",
@@ -13878,7 +13878,7 @@
   },
   {
     "IndicatorLabel": "Climate Change Readiness Ranking",
-    "IndicatorDescription": "Global ranking of countries' readiness to make effective use of investments for adaptation actions thanks to a safe and efficient business environment ND-GAIN measures readiness by considering a country\u2019s ability to leverage investments to adaptation actions. ND-GAIN measures overall readiness by considering three components: economic readiness, governance readiness and social readiness.",
+    "IndicatorDescription": "Global ranking of countries' readiness to make effective use of investments for adaptation actions thanks to a safe and efficient business environment ND-GAIN measures readiness by considering a country’s ability to leverage investments to adaptation actions. ND-GAIN measures overall readiness by considering three components: economic readiness, governance readiness and social readiness.",
     "DataKey": "Climate Change Readiness Ranking",
     "DataSourceName": "Climate Watch",
     "DataSourceLink": "https://www.climatewatchdata.org/data-explorer",
@@ -13976,7 +13976,7 @@
   },
   {
     "IndicatorLabel": "Climate Change Readiness Score",
-    "IndicatorDescription": "Readiness to make effective use of investments for adaptation actions thanks to a safe and efficient business environment ND-GAIN measures readiness by considering a country\u2019s ability to leverage investments to adaptation actions. ND-GAIN measures overall readiness by considering three components: economic readiness, governance readiness and social readiness.",
+    "IndicatorDescription": "Readiness to make effective use of investments for adaptation actions thanks to a safe and efficient business environment ND-GAIN measures readiness by considering a country’s ability to leverage investments to adaptation actions. ND-GAIN measures overall readiness by considering three components: economic readiness, governance readiness and social readiness.",
     "DataKey": "Climate Change Readiness Score",
     "DataSourceName": "Climate Watch",
     "DataSourceLink": "https://www.climatewatchdata.org/data-explorer",
@@ -16020,7 +16020,7 @@
   {
     "IndicatorLabel": "Change in absolute number of people exposed to coastal floods - SSP3, RCP 8.5 (2050)",
     "id": "changeinabsolutenumberofpeopleexposedtocoastalfloods_informcc",
-    "IndicatorDescription": "Change in absolute number of people exposed to coastal floods under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry \u2013 high challenges for both mitigation and adaptation, including higher population growth) scenarios",
+    "IndicatorDescription": "Change in absolute number of people exposed to coastal floods under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry – high challenges for both mitigation and adaptation, including higher population growth) scenarios",
     "DataKey": "Change in absolute number of people exposed to coastal floods - SSP3, RCP 8.5 (2050)",
     "DataSourceName": "European Commission",
     "DataSourceLink": "https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Climate-Change/Results-and-data",
@@ -16073,7 +16073,7 @@
   {
     "IndicatorLabel": "Change in absolute number of people exposed to drought - SSP3, RCP 8.5 (2050)",
     "id": "changeinabsolutenumberofpeopleexposedtodrought_informcc",
-    "IndicatorDescription": "Change in absolute number of people exposed to drought under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry \u2013 high challenges for both mitigation and adaptation, including higher population growth) scenarios",
+    "IndicatorDescription": "Change in absolute number of people exposed to drought under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry – high challenges for both mitigation and adaptation, including higher population growth) scenarios",
     "DataKey": "Change in absolute number of people exposed to drought - SSP3, RCP 8.5 (2050)",
     "DataSourceName": "European Commission",
     "DataSourceLink": "https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Climate-Change/Results-and-data",
@@ -16128,7 +16128,7 @@
   {
     "IndicatorLabel": "Change in absolute number of people exposed to Floods - SSP3, RCP 8.5 (2050)",
     "id": "changeinabsolutenumberofpeopleexposedtofloods_informcc",
-    "IndicatorDescription": "Change in absolute number of people exposed to floods under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry \u2013 high challenges for both mitigation and adaptation, including higher population growth) scenarios",
+    "IndicatorDescription": "Change in absolute number of people exposed to floods under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry – high challenges for both mitigation and adaptation, including higher population growth) scenarios",
     "DataKey": "Change in absolute number of people exposed to Floods - SSP3, RCP 8.5 (2050)",
     "DataSourceName": "European Commission",
     "DataSourceLink": "https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Climate-Change/Results-and-data",
@@ -16180,7 +16180,7 @@
   {
     "IndicatorLabel": "Change in absolute number of people exposed to malaria and dengue -SSP3, RCP 8.5 (2050)",
     "id": "changeinabsolutenumberofpeopleexposedtomalariaanddengue_informcc",
-    "IndicatorDescription": "Change in absolute number of people exposed to malaria and dengue under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry \u2013 high challenges for both mitigation and adaptation, including higher population growth) scenarios",
+    "IndicatorDescription": "Change in absolute number of people exposed to malaria and dengue under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry – high challenges for both mitigation and adaptation, including higher population growth) scenarios",
     "DataKey": "Change in absolute number of people exposed to malaria and dengue -SSP3, RCP 8.5 (2050)",
     "DataSourceName": "European Commission",
     "DataSourceLink": "https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Climate-Change/Results-and-data",
@@ -16232,7 +16232,7 @@
   {
     "IndicatorLabel": "Change in Human Hazard & Exposure to conflict -SSP3, RCP 8.5 (2050)",
     "id": "changeinhumanhazardandexposuretoconflict_informcc",
-    "IndicatorDescription": "Change in absolute number of people exposed to conflict under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry \u2013 high challenges for both mitigation and adaptation, including higher population growth) scenarios",
+    "IndicatorDescription": "Change in absolute number of people exposed to conflict under RCP 8.5 (high emissions) and SSP 3 (Regional Rivalry – high challenges for both mitigation and adaptation, including higher population growth) scenarios",
     "DataKey": "Change in Human Hazard & Exposure to conflict -SSP3, RCP 8.5 (2050)",
     "DataSourceName": "European Commission",
     "DataSourceLink": "https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Climate-Change/Results-and-data",
@@ -17765,7 +17765,7 @@
       0.1,
       0.5,
       0.75,
-      1.0,
+      1,
       1.5,
       2,
       3,
@@ -20389,6 +20389,100 @@
     ],
     "Tags": [
       "Health and HIV"
+    ]
+  },
+  {
+    "IndicatorLabel": "Multidimensional Poverty Intensity",
+    "id": "multidimensionalpoverty_intensity_of_deprivation",
+    "IndicatorDescription": "The intensity of poverty is the average proportion of weighted indicators in which multidimensionally poor individuals are deprived. It provides insights into the extent or severity of deprivation experienced by those classified as multidimensionally poor.",
+    "DataKey": "Multidimensional Poverty Index - Intensity of Deprivation",
+    "DataSourceName": "United Nations Development Programme (UNDP)",
+    "DataSourceLink": "https://hdr.undp.org/content/2023-global-multidimensional-poverty-index-mpi#/indicies/MPI",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [],
+    "SDGs": [
+      "SDG 1"
+    ],
+    "Tags": [
+      "Poverty"
+    ]
+  },
+  {
+    "IndicatorLabel": "Multidimensional Poverty Incidence",
+    "id": "multidimensionalpovertyheadcount_ratio",
+    "IndicatorDescription": "The intensity of poverty is the average proportion of weighted indicators in which multidimensionally poor individuals are deprived. It provides insights into the extent or severity of deprivation experienced by those classified as multidimensionally poor.",
+    "DataKey": "Multidimensional poverty headcount ratio (%)",
+    "DataSourceName": "United Nations Development Programme (UNDP)",
+    "DataSourceLink": "https://hdr.undp.org/content/2023-global-multidimensional-poverty-index-mpi#/indicies/MPI",
+    "LabelSuffix": "%",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [
+      20,
+      40,
+      60,
+      80
+    ],
+    "BinningRangeLarge": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90
+    ],
+    "Categories": [],
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": true,
+    "Map": true,
+    "BarGraph": true,
+    "Sizing": true,
+    "Color": true,
+    "RegionalAggregation": false,
+    "SignatureSolution": [
+      "Poverty and Inequality"
+    ],
+    "SSTopics": [],
+    "SDGs": [
+      "SDG 1"
+    ],
+    "Tags": [
+      "Poverty"
     ]
   }
 ]
