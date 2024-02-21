@@ -4158,7 +4158,7 @@
   {
     "IndicatorLabel": "Multidimensional Poverty Index",
     "IndicatorDescription": "Multidimensional Poverty combines measures that track poor health, lack of education, and inadequate living standards to capture the different dimensions of deprivation in order to provide a comprehensive assessment of poverty. It takes into account both the breadth (incidence) and depth (intensity) of poverty among individuals in a population and is calculated as the product of the two.",
-    "DataKey": "Multidimensional Poverty Index - 2022",
+    "DataKey": "Multidimensional Poverty Index",
     "DataSourceName": "United Nations Development Programme (UNDP)",
     "DataSourceLink": "https://hdr.undp.org/content/2023-global-multidimensional-poverty-index-mpi#/indicies/MPI",
     "LabelSuffix": "",
@@ -4192,7 +4192,7 @@
     "SSTopics": [
       "Poverty and Inequality Metrics"
     ],
-    "id": "multidimensionalpovertyindex_undpmpi",
+    "id": "multidimensionalpovertyindex_value",
     "SDGs": [
       "SDG 1"
     ],
