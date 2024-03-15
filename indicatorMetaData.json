@@ -4282,6 +4282,7 @@
     "RegionalAggregation": true,
     "SignatureSolution": [
       "Poverty and Inequality",
+      "Gender",
       "Environment"
     ],
     "SSTopics": [
@@ -6004,7 +6005,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Resilience"
     ],
     "SSTopics": [
       "Spatial Inequalities",
@@ -8640,7 +8642,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -8783,7 +8786,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -8926,7 +8930,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -9069,7 +9074,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -9166,7 +9172,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -9214,7 +9221,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -9313,7 +9321,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -9362,7 +9371,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -9463,7 +9473,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -9511,7 +9522,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -9658,7 +9670,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -9801,7 +9814,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -9898,7 +9912,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -9946,7 +9961,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -10046,7 +10062,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -10095,7 +10112,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -10241,7 +10259,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -10384,7 +10403,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -10527,7 +10547,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -10624,7 +10645,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -10672,7 +10694,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -11410,7 +11433,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -11458,7 +11482,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -11557,7 +11582,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -11606,7 +11632,8 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -11703,7 +11730,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -12355,7 +12383,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Informal Economy Facility",
@@ -12487,7 +12516,8 @@
     "RegionalAggregation": true,
     "SignatureSolution": [
       "Poverty and Inequality",
-      "Gender"
+      "Gender",
+      "Environment"
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics"
@@ -12532,7 +12562,8 @@
     "RegionalAggregation": true,
     "SignatureSolution": [
       "Poverty and Inequality",
-      "Gender"
+      "Gender",
+      "Environment"
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics"
@@ -12818,7 +12849,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Socio-Economic Mobility",
@@ -13065,7 +13097,8 @@
     "Sizing": true,
     "RegionalAggregation": true,
     "SignatureSolution": [
-      "Poverty and Inequality"
+      "Poverty and Inequality",
+      "Gender"
     ],
     "SSTopics": [
       "Poverty and Inequality Metrics"
@@ -14673,7 +14706,7 @@
     "RegionalAggregation": false,
     "SignatureSolution": [
       "Resilience",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Gender equality and empowering women and girls in the context of HIV and health"
@@ -15557,7 +15590,7 @@
     "RegionalAggregation": false,
     "SignatureSolution": [
       "Poverty and Inequality",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Universal Health Coverage",
@@ -15650,7 +15683,7 @@
     "Sizing": true,
     "RegionalAggregation": false,
     "SignatureSolution": [
-      "Gender Equality",
+      "Gender",
       "Governance"
     ],
     "SSTopics": [
@@ -15704,7 +15737,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Sexual and reproductive health and rights"
@@ -16624,7 +16657,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Sexual and reproductive health and rights"
@@ -16674,7 +16707,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Inclusion and rights of key populations at risk of HIV and other excluded groups"
@@ -16774,7 +16807,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -16825,7 +16858,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -16876,7 +16909,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -16927,7 +16960,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -16978,7 +17011,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -17029,7 +17062,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -17080,7 +17113,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -17131,7 +17164,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -17182,7 +17215,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -17233,7 +17266,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -17335,7 +17368,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Inclusion and rights of key populations at risk of HIV and other excluded groups"
@@ -17385,7 +17418,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Inclusion and rights of key populations at risk of HIV and other excluded groups"
@@ -17630,7 +17663,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Legal, policy and regulatory environments for HIV and health",
@@ -17682,7 +17715,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Legal, policy and regulatory environments for HIV and health",
@@ -17733,7 +17766,8 @@
     "RegionalAggregation": false,
     "SignatureSolution": [
       "Poverty and Inequality",
-      "Governance"
+      "Governance",
+      "Gender"
     ],
     "SSTopics": [
       "Inclusive social protection in the context of HIV and health"
@@ -17783,7 +17817,8 @@
     "RegionalAggregation": false,
     "SignatureSolution": [
       "Poverty and Inequality",
-      "Governance"
+      "Governance",
+      "Gender"
     ],
     "SSTopics": [
       "Inclusion and rights of key populations at risk of HIV and other excluded groups"
@@ -17834,7 +17869,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Inclusion and rights of key populations at risk of HIV and other excluded groups"
@@ -17886,7 +17921,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Inclusion and rights of key populations at risk of HIV and other excluded groups"
@@ -17937,7 +17972,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Legal, policy and regulatory environments for HIV and health",
@@ -18089,7 +18124,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Sexual and reproductive health and rights"
@@ -18245,7 +18280,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Mental Health and Psychosocial Support in Prevention and Peacebuilding"
@@ -18498,7 +18533,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Sexual and reproductive health and rights"
@@ -18600,7 +18635,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Gender equality and empowering women and girls in the context of HIV and health",
@@ -18652,7 +18687,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Gender equality and empowering women and girls in the context of HIV and health",
@@ -18754,7 +18789,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Inclusive social protection in the context of HIV and health",
@@ -18855,7 +18890,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Inclusion and rights of key populations at risk of HIV and other excluded groups"
@@ -18956,7 +18991,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Gender equality and empowering women and girls in the context of HIV and health"
@@ -19008,7 +19043,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Gender equality and empowering women and girls in the context of HIV and health"
@@ -19110,7 +19145,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Inclusive social protection in the context of HIV and health",
@@ -19164,7 +19199,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      " Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Mental Health and Psychosocial Support in Prevention and Peacebuilding",
@@ -19216,7 +19251,8 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Resilience"
+      "Resilience",
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -19267,7 +19303,8 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender",
+      "Resilience"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -19318,7 +19355,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -19368,7 +19405,8 @@
     "RegionalAggregation": false,
     "SignatureSolution": [
       "Poverty and Inequality",
-      "Governance"
+      "Governance",
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -19419,7 +19457,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -19470,7 +19508,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -19521,7 +19559,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -19572,7 +19610,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -19620,7 +19658,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -19670,7 +19708,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Governance, including to address NCDs, mental health and accelerate tobacco control"
@@ -20025,7 +20063,7 @@
     "RegionalAggregation": false,
     "SignatureSolution": [
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Sexual and reproductive health and rights"
@@ -20076,7 +20114,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      " Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Inclusion and rights of key populations at risk of HIV and other excluded groups"
@@ -20326,7 +20364,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Inclusion and rights of key populations at risk of HIV and other excluded groups",
@@ -20378,7 +20416,7 @@
     "SignatureSolution": [
       "Poverty and Inequality",
       "Governance",
-      "Gender Equality"
+      "Gender"
     ],
     "SSTopics": [
       "Inclusion and rights of key populations at risk of HIV and other excluded groups"
